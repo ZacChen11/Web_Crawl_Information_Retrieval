@@ -14,7 +14,7 @@ class SentimentDict():
 #         i = 0
 #         j = 0
 #         k = 0  
-        'read AFINN-111.txt file'
+        'read AFINN-111.txt file line by line'
         for a in open('AFINN\\AFINN-111.txt'):
 #             i = i + 1
             a = a.split()
