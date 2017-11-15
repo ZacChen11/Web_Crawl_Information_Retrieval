@@ -10,7 +10,7 @@ import requests
 from readability import Document
 
 
-class m_Extractor():
+class Extractor():
     
     def __init__(self):
         self.link_container = {}
@@ -57,7 +57,7 @@ class m_Extractor():
             doc = Document(r.text)
             doc = doc.title()+doc.content()+doc.summary()
          
-            doc = m_Extractor.html_to_text(self, doc)
+            doc = Extractor.html_to_text(self, doc)
         
             filename = "text\\%d.txt"%(i)   
             f = open(filename, 'w', errors = 'ignore')
@@ -68,6 +68,6 @@ class m_Extractor():
 if __name__ == '__main__':
     
     m = ["https://csu.qc.ca/content/student-groups-associations", "https://www.concordia.ca/artsci/students/associations.html", "http://www.cupfa.org", "http://cufa.net"]
-    a = m_Extractor()
+    a = Extractor()
     a.generate_doc(m)
     print(a.link_container)
