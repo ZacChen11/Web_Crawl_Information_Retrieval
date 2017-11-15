@@ -59,4 +59,5 @@ if __name__ == '__main__':
     a = SentimentDict()
     a.generate_dict()
     print(a.dict)
+    print(a.dict['son-of-a-bitch'])
         
