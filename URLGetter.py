@@ -1,7 +1,7 @@
 """Web crawler to get URLs for a given depth"""
 from bs4 import BeautifulSoup
 import requests
-from urllib.parse import urljoin, urlsplit, SplitResult
+from urlparse import urljoin, urlsplit, SplitResult
 import re
 
 
@@ -54,29 +54,41 @@ class URLGetter:
 
     def geturls(self, url=None, currentdepth=0):
         """Get URLs from a given link and depth. Default page is start page.
-           If depth is 0, set it as initial depth
         """
         if url is None:
             url = self.starturl
-        if currentdepth == 0:
-            currentdepth = self.depth
 
+        # download resource
         try:
             htmlpage = requests.get(url, timeout=10)
-        except (requests.exceptions.ReadTimeout, ConnectionError, requests.exceptions.ConnectionError):
+        except (requests.exceptions.ReadTimeout, requests.exceptions.ConnectionError):
             print("Can't open the site: " + url)
             return
 
-        soup = BeautifulSoup(htmlpage.content, 'lxml')
+        # ensure that resource is indexable 
+        if htmlpage.headers['Content-Type'].split(';')[0] not in ['text/html', 'text/plain']:
+            return
+
+        # validate title
+        # TODO
+        # return
+
+        # write url to file
         self.urlset.add(url)
-        print('processing:' + url)
-        for link in soup.findAll('a'):
-            filteredlink = self.preprocesslink(url, link.get('href'))
-            if filteredlink and validatetitle(soup.title):
-                if currentdepth > 1:
-                    self.geturls(filteredlink, currentdepth-1)
-                elif currentdepth == 1:
-                    self.urlset.add(filteredlink)
+        # TODO
+
+        # send html content to be filtered then written to file
+        # TODO
+
+        # get new links from page
+        if currentdepth != 0:
+            soup = BeautifulSoup(htmlpage.content, 'lxml')
+            print('processing:' + url)
+            for link in soup.findAll('a'):
+                if filteredlink not in self.urlset:
+                    filteredlink = self.preprocesslink(url, link.get('href'))
+                            self.geturls(filteredlink, currentdepth-1)
+
 
     def getlist(self):
         """Crawl website and return URL list"""
@@ -85,7 +97,7 @@ class URLGetter:
 
 
 if __name__ == '__main__':
-    mygetter = URLGetter("https://csu.qc.ca/content/student-groups-associations", 4)
+    mygetter = URLGetter("https://csu.qc.ca/content/student-groups-associations", 2)
     # mygetter = BreadthFirstURLGetter("http://hivecafe.ca", 5)
     urls = mygetter.getlist()
     print(urls)
