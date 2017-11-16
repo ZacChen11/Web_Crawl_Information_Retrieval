@@ -25,6 +25,7 @@ class URLGetter:
         self.starturl = starturl
         self.depth = depth
         self.urlset = set()
+        self.urls_file = open('url_files', 'w')
 
     def preprocesslink(self, referrer, url):
         """ Modify and filter URLs before crawling"""
@@ -66,25 +67,29 @@ class URLGetter:
             return
 
         # ensure that resource is indexable 
-        if htmlpage.headers['Content-Type'].split(';')[0] not in ['text/html', 'text/plain']:
+        content_type = htmlpage.headers['Content-Type'].split(';')[0]
+        if content_type not in ['text/html', 'text/plain']:
             return
 
         # validate title
-        # TODO
-        # return
+        soup = BeautifulSoup(htmlpage.content, 'lxml')
+        if content_type is 'text/html':
+        	if not validatetitle(soup.title):
+        		return
 
         # write url to file
         self.urlset.add(url)
-        # TODO
+        url_files.write(url)
+        url_files.write('\n')
 
         # send html content to be filtered then written to file
         # TODO
 
         # get new links from page
         if currentdepth != 0:
-            soup = BeautifulSoup(htmlpage.content, 'lxml')
             print('processing:' + url)
             for link in soup.findAll('a'):
+            	filteredlink = self.preprocesslink(url, link)
                 if filteredlink not in self.urlset:
                     filteredlink = self.preprocesslink(url, link.get('href'))
                             self.geturls(filteredlink, currentdepth-1)
