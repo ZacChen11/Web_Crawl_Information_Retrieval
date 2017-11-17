@@ -1,8 +1,10 @@
 """Web crawler to get URLs for a given depth"""
 from bs4 import BeautifulSoup
 import requests
-from urlparse import urljoin, urlsplit, SplitResult
+from urllib.parse import urljoin, urlsplit, SplitResult
 import re
+from boilerpipe.extract import Extractor
+import os
 
 
 def validatetitle(title):
@@ -26,6 +28,8 @@ class URLGetter:
         self.depth = depth
         self.urlset = set()
         self.urls_file = open('url_files', 'w')
+        self.i = 0
+        self.link_container = {}
 
     def preprocesslink(self, referrer, url):
         """ Modify and filter URLs before crawling"""
@@ -74,13 +78,29 @@ class URLGetter:
         # validate title
         soup = BeautifulSoup(htmlpage.content, 'lxml')
         if content_type is 'text/html':
-        	if not validatetitle(soup.title):
-        		return
+            if not validatetitle(soup.title):
+                return
 
         # write url to file
         self.urlset.add(url)
-        url_files.write(url)
-        url_files.write('\n')
+        self.urls_file.write(url)
+        self.urls_file.write('\n')
+
+        #extract content from the link and write into file
+        try: 
+            extractor = Extractor(extractor='KeepEverythingExtractor', url = url)
+        except IOError:
+            print ('Failed to open url')
+            return 
+            
+        doc = extractor.getText()
+        self.i += 1
+        self.link_container[self.i] = url
+        print("id: %d  %s"%(self.i,url))
+        filename = "text\\%d.txt"%(self.i)   
+        f = open(filename, 'w', errors = 'ignore')
+        f.write(doc)
+
 
         # send html content to be filtered then written to file
         # TODO
@@ -89,19 +109,21 @@ class URLGetter:
         if currentdepth != 0:
             print('processing:' + url)
             for link in soup.findAll('a'):
-            	filteredlink = self.preprocesslink(url, link)
+                filteredlink = self.preprocesslink(url, link.get('href'))
                 if filteredlink not in self.urlset:
                     filteredlink = self.preprocesslink(url, link.get('href'))
-                            self.geturls(filteredlink, currentdepth-1)
+                    self.geturls(filteredlink, currentdepth-1)
 
 
     def getlist(self):
         """Crawl website and return URL list"""
-        self.geturls()
+        self.geturls(self.starturl, self.depth)
         return list(self.urlset)
 
 
 if __name__ == '__main__':
+    if not os.path.isdir('text'):
+        os.makedirs('text')
     mygetter = URLGetter("https://csu.qc.ca/content/student-groups-associations", 2)
     # mygetter = BreadthFirstURLGetter("http://hivecafe.ca", 5)
     urls = mygetter.getlist()
