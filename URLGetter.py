@@ -1,7 +1,13 @@
 """Web crawler to get URLs for a given depth"""
 from bs4 import BeautifulSoup
+<<<<<<< HEAD
 import requests
 from urllib.parse import urljoin, urlsplit, SplitResult
+=======
+from urllib.error import HTTPError, URLError
+from urllib.parse import urljoin, urlsplit, SplitResult
+from urllib.request import urlopen
+>>>>>>> b9cf413f4154ecd776fb1d66623661218be20b15
 import re
 from boilerpipe.extract import Extractor
 import os
@@ -30,6 +36,8 @@ class URLGetter:
         self.urls_file = open('url_files', 'w')
         self.i = 0
         self.link_container = {}
+        self.count = 0
+
 
     def preprocesslink(self, referrer, url):
         """ Modify and filter URLs before crawling"""
@@ -65,18 +73,19 @@ class URLGetter:
 
         # download resource
         try:
-            htmlpage = requests.get(url, timeout=10)
-        except (requests.exceptions.ReadTimeout, requests.exceptions.ConnectionError):
+            htmlpage = urlopen(url)
+            # print(htmlpage.read())
+        except (HTTPError, URLError):
             print("Can't open the site: " + url)
             return
 
-        # ensure that resource is indexable 
+        # ensure that resource is indexable
         content_type = htmlpage.headers['Content-Type'].split(';')[0]
         if content_type not in ['text/html', 'text/plain']:
             return
 
         # validate title
-        soup = BeautifulSoup(htmlpage.content, 'lxml')
+        soup = BeautifulSoup(htmlpage.read(), 'lxml')
         if content_type is 'text/html':
             if not validatetitle(soup.title):
                 return
@@ -85,13 +94,9 @@ class URLGetter:
         self.urlset.add(url)
         self.urls_file.write(url)
         self.urls_file.write('\n')
-
+        
         #extract content from the link and write into file
-        try: 
-            extractor = Extractor(extractor='KeepEverythingExtractor', url = url)
-        except IOError:
-            print ('Failed to open url')
-            return 
+        extractor = Extractor(extractor='KeepEverythingExtractor', url = url)
             
         doc = extractor.getText()
         self.i += 1
@@ -100,18 +105,12 @@ class URLGetter:
         filename = "text\\%d.txt"%(self.i)   
         f = open(filename, 'w', errors = 'ignore')
         f.write(doc)
-
-
-        # send html content to be filtered then written to file
-        # TODO
-
-        # get new links from page
+        
         if currentdepth != 0:
             print('processing:' + url)
             for link in soup.findAll('a'):
                 filteredlink = self.preprocesslink(url, link.get('href'))
-                if filteredlink not in self.urlset:
-                    filteredlink = self.preprocesslink(url, link.get('href'))
+                if filteredlink and filteredlink not in self.urlset:
                     self.geturls(filteredlink, currentdepth-1)
 
 
@@ -122,10 +121,12 @@ class URLGetter:
 
 
 if __name__ == '__main__':
+
     if not os.path.isdir('text'):
         os.makedirs('text')
+        
     mygetter = URLGetter("https://csu.qc.ca/content/student-groups-associations", 2)
-    # mygetter = BreadthFirstURLGetter("http://hivecafe.ca", 5)
+
     urls = mygetter.getlist()
     print(urls)
     print(len(urls))
