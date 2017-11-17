@@ -1,10 +1,10 @@
 """Web crawler to get URLs for a given depth"""
 from bs4 import BeautifulSoup
-
-
 from urllib.error import HTTPError, URLError
 from urllib.parse import urljoin, urlsplit, SplitResult
 from urllib.request import urlopen
+from http import HTTPStatus
+
 
 import re
 from boilerpipe.extract import Extractor
@@ -32,7 +32,7 @@ class URLGetter:
         self.depth = depth
         self.urlset = set()
         self.urls_file = open('url_files', 'w')
-        self.i = 0
+        self.i = -1
         self.link_container = {}
         self.count = 0
 
@@ -73,8 +73,16 @@ class URLGetter:
         try:
             htmlpage = urlopen(url)
             # print(htmlpage.read())
-        except (HTTPError, URLError):
-            print("Can't open the site: " + url)
+#         except (HTTPError, URLError):
+#             print("Can't open the site: " + url)
+#             return
+        except HTTPError as e:
+            print('The server couldn\'t fulfill the request.')
+            print('Error code: ', e.code)
+            return
+        except URLError as e:
+            print('We failed to reach a server.')
+            print('Reason: ', e.reason)
             return
 
         # ensure that resource is indexable
@@ -87,15 +95,29 @@ class URLGetter:
         if content_type is 'text/html':
             if not validatetitle(soup.title):
                 return
-
+        
+        
+        #I don't suggest to write the urls' file here because we still have some invalid urls here
         # write url to file
         self.urlset.add(url)
         self.urls_file.write(url)
         self.urls_file.write('\n')
         
         #extract content from the link and write into file
-        extractor = Extractor(extractor='KeepEverythingExtractor', url = url)
-            
+        print(url)
+        try:
+            extractor = Extractor(extractor='KeepEverythingExtractor', url = url)    
+        except HTTPError as e:
+            print('The server couldn\'t fulfill the request.')
+            print('Error code: ', e.code)
+            return
+        except URLError as e:
+            print('We failed to reach a server.')
+            print('Reason: ', e.reason)
+            return
+#         except HTTPStatus as e:
+#             return("HTTPException")
+        
         doc = extractor.getText()
         self.i += 1
         self.link_container[self.i] = url
