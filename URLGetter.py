@@ -3,13 +3,10 @@ from bs4 import BeautifulSoup
 from urllib.error import HTTPError, URLError
 from urllib.parse import urljoin, urlsplit, SplitResult
 from urllib.request import urlopen
-from http import HTTPStatus
-
-
 import re
 from boilerpipe.extract import Extractor
 import os
-
+from http.client import RemoteDisconnected
 
 def validatetitle(title):
     """Validate the title, remove those with title 'Page Not Found'"""
@@ -76,14 +73,16 @@ class URLGetter:
 #         except (HTTPError, URLError):
 #             print("Can't open the site: " + url)
 #             return
-        except HTTPError as e:
-            print('The server couldn\'t fulfill the request.')
-            print('Error code: ', e.code)
+        except HTTPError:
+            print('HTTPError.')
             return
-        except URLError as e:
-            print('We failed to reach a server.')
-            print('Reason: ', e.reason)
+        except URLError:
+            print('URLError')
             return
+        except RemoteDisconnected:
+            print('HTTPException: RemoteDisconnected')
+            return
+      
 
         # ensure that resource is indexable
         content_type = htmlpage.headers['Content-Type'].split(';')[0]
@@ -104,24 +103,21 @@ class URLGetter:
         self.urls_file.write('\n')
         
         #extract content from the link and write into file
-        print(url)
         try:
             extractor = Extractor(extractor='KeepEverythingExtractor', url = url)    
-        except HTTPError as e:
-            print('The server couldn\'t fulfill the request.')
-            print('Error code: ', e.code)
+        except HTTPError:
+            print('HTTPError.')
             return
-        except URLError as e:
-            print('We failed to reach a server.')
-            print('Reason: ', e.reason)
+        except URLError:
+            print('URLError')
             return
-#         except HTTPStatus as e:
-#             return("HTTPException")
+        except RemoteDisconnected:
+            print('HTTPException: RemoteDisconnected')
+            return
         
         doc = extractor.getText()
         self.i += 1
         self.link_container[self.i] = url
-        print("id: %d  %s"%(self.i,url))
         filename = "text\\%d.txt"%(self.i)   
         f = open(filename, 'w', errors = 'ignore')
         f.write(doc)
@@ -143,10 +139,8 @@ class URLGetter:
 if __name__ == '__main__':
 
     if not os.path.isdir('text'):
-        os.makedirs('text')
-        
-    mygetter = URLGetter("https://csu.qc.ca/content/student-groups-associations", 2)
-
+        os.makedirs('text')    
+    mygetter = URLGetter("https://csu.qc.ca/content/student-groups-associations", 1)
     urls = mygetter.getlist()
-    print(urls)
-    print(len(urls))
+    print(mygetter.link_container)
+
