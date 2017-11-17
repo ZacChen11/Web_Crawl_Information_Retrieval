@@ -1,13 +1,11 @@
 """Web crawler to get URLs for a given depth"""
 from bs4 import BeautifulSoup
-<<<<<<< HEAD
-import requests
-from urllib.parse import urljoin, urlsplit, SplitResult
-=======
+
+
 from urllib.error import HTTPError, URLError
 from urllib.parse import urljoin, urlsplit, SplitResult
 from urllib.request import urlopen
->>>>>>> b9cf413f4154ecd776fb1d66623661218be20b15
+
 import re
 from boilerpipe.extract import Extractor
 import os
