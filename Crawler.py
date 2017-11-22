@@ -42,7 +42,7 @@ class Crawler:
 
         self.max_links = max_links
 
-        self.urls_file = open('url_files.txt', 'w')
+        self.urls_file = open('webcrawl_docs/url_files.txt', 'w')
         self.i = -1
 
         self.lock = Lock()
@@ -131,7 +131,7 @@ class Crawler:
             self.lock.acquire()
 
             self.i += 1
-            filename = "%d.txt" % self.i
+            filename = "webcrawl_docs/%d.txt" % self.i
 
             print 'writing doc %d' % self.i
 
