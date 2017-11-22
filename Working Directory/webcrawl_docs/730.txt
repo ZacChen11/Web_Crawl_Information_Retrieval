@@ -1,0 +1,239 @@
+Concordia University
+https://www.concordia.ca/content/shared/en/events/offices/vprgs/sgs/2017/11/22/phd-oral-exam-150-omar-abdul-wahab-information-and-systems-engineering.html
+Study resources
+Calendar - Graduate
+Calendar - Undergraduate
+Class schedules
+Class cancellations
+Course registration
+Important academic dates
+More academic resources
+Campus services
+Concordia Stores
+IT services
+Job opportunities
+Security
+Shuttle bus
+Student Service Centre (Birks)
+All campus services
+What's new
+Calendar of events
+Latest news
+Media Relations
+Faculties, Schools & Colleges
+Arts and Science
+Engineering and Computer Science
+Fine Arts
+John Molson School of Business
+School of Graduate Studies
+All Schools, Colleges & Departments
+Quick links  
+Webmail Library Cspace
+Study resources  
+Calendar - Graduate
+Calendar - Undergraduate
+Class schedules
+Class cancellations
+Course registration
+Important academic dates
+More academic resources
+Campus services  
+Concordia Stores
+IT services
+Job opportunities
+Security
+Shuttle bus
+Student Service Centre (Birks)
+All campus services
+What's new  
+Calendar of events
+Latest news
+Media Relations
+Faculties, Schools & Colleges  
+Arts and Science
+Engineering and Computer Science
+Fine Arts
+John Molson School of Business
+School of Graduate Studies
+All Schools, Colleges & Departments
+Quick links The Campaign for Concordia
+MyConcordia
+Cspace
+Webmail
+Library
+Directories
+A-Z
+Maps
+Future students
+Student hub
+Alumni & friends
+Parents
+Faculty & staff
+Media
+Concordia University
+Concordia University
+Events
+Calendar
+Academic dates
+University holidays
+Cancelled classes
+Planning & hosting
+The Campaign for Concordia
+Study resources
+Calendar - Graduate
+Calendar - Undergraduate
+Class schedules
+Class cancellations
+Course registration
+Important academic dates
+More academic resources
+Campus services
+Concordia Stores
+IT services
+Job opportunities
+Security
+Shuttle bus
+Student Service Centre (Birks)
+All campus services
+What's new
+Calendar of events
+Latest news
+Media Relations
+Faculties, Schools & Colleges
+Arts and Science
+Engineering and Computer Science
+Fine Arts
+John Molson School of Business
+School of Graduate Studies
+All Schools, Colleges & Departments
+Quick links  
+Webmail Library Cspace
+Study resources  
+Calendar - Graduate
+Calendar - Undergraduate
+Class schedules
+Class cancellations
+Course registration
+Important academic dates
+More academic resources
+Campus services  
+Concordia Stores
+IT services
+Job opportunities
+Security
+Shuttle bus
+Student Service Centre (Birks)
+All campus services
+What's new  
+Calendar of events
+Latest news
+Media Relations
+Faculties, Schools & Colleges  
+Arts and Science
+Engineering and Computer Science
+Fine Arts
+John Molson School of Business
+School of Graduate Studies
+All Schools, Colleges & Departments
+Information for...
+Future students
+Student hub
+Alumni & friends
+Parents
+Faculty & staff
+Media
+Concordia
+Directories
+Search
+Concordia University
+Events
+Concordia.ca
+ / 
+Events
+Facebook
+Twitter
+LinkedIn
+GooglePlus
+PhD Oral Exam - Omar Abdul Wahab, Information and Systems Engineering
+Game-Theoretic Foundations for Forming Trusted Coalitions of Multi-Cloud Services in the Presence of Active and Passive Attacks
+November 22, 2017, 9:30 a.m. – 12:30 p.m.
+When studying for a doctoral degree (PhD), candidates submit a thesis that provides a critical review of the current state of knowledge of the thesis subject as well as the student’s own contributions to the subject. The distinguishing criterion of doctoral graduate research is a significant and original contribution to knowledge.
+Once accepted, the candidate presents the thesis orally. This oral exam is open to the public.
+Abstract
+The prominence of cloud computing as a common paradigm for offering Web-based services has led to an unprecedented proliferation in the number of services that are deployed in cloud data centers. In parallel, services’ communities and cloud federations have gained an increasing interest in the recent past years thanks to their ability to facilitate the discovery, composition, and resource scaling issues in large-scale services’ markets. The problem is that the existing community and federation formation solutions deal with services as traditional software systems and overlook the fact that these services are being often offered as part of the cloud computing technology, which poses additional challenges at the architectural, business, and security levels.
+The motivation of this thesis stems from four main observations/research gaps that we have drawn through our literature reviews and/or experiments, which are: (1) leading cloud services such as Google and Amazon do not have incentives to group themselves into communities/federations using the existing community/federation formation solutions; (2) it is quite difficult to find a central entity that can manage the community/federation formation process in a multi-cloud environment; (3) if we allow services to rationally select their communities/federations without considering their trust relationships, these services might have incentives to structure themselves into communities/federations consisting of a large number of malicious services; and (4) the existing intrusion detection solutions in the domain of cloud computing are still ineffective in capturing advanced multi-type distributed attacks initiated by communities/federations of attackers since they overlook the attacker’s strategies in their design and ignore the cloud system’s resources constraints.
+This thesis aims to address these gaps by (1) proposing a business-oriented community formation model that accounts for the business potential of the services in the formation process to motivate the participation of services of all business capabilities, (2) introducing an inter-cloud trust framework that allows services deployed in one or disparate cloud centers to build credible trust relationships toward each other, while overcoming the collusion attacks that occur to mislead trust results even in extreme cases wherein attackers form the majority, (3) designing a trust-based game theoretical model that enables services to distributively form trustworthy multi-cloud communities wherein the number of malicious services is minimal, (4) proposing an intra-cloud trust framework that allows the cloud system to build credible trust relationships toward the guest Virtual Machines (VMs) running cloud-based services using objective and subjective trust sources, (5) designing and solving a trust-based maxmin game theoretical model that allows the cloud system to optimally distribute the detection load among VMs within a limited budget of resources, while considering Distributed Denial of Service (DDoS) attacks as a practical scenario, and (6) putting forward a resource-aware comprehensive detection and prevention system that is able to capture and prevent advanced simultaneous multi-type attacks within a limited amount of resources.
+We conclude the thesis by uncovering some persisting research gaps that need further study and investigation in the future.
+Where
+Room EV 1.162, Engineering, Computer Science and Visual Arts Integrated Complex (1515 St. Catherine W.), Sir George Williams Campus
+Cost
+This event is free
+Organizer
+Mary Appezzato
+Organization
+School of Graduate Studies
+Contact
+514-848-2424, ext. 3813
+Category
+Thesis defences
+Calendar
+Submit an event
+Latest news
+Back to top
+© Concordia University
+Concordia University - Call us at 514-848-2424
+About
+Academics
+Admissions
+Campus life
+Research
+International
+Future students
+Current students
+Alumni & friends
+Parents
+Faculty & staff
+Media
+Sir George Williams Campus
+1455 De Maisonneuve Blvd. W.
+Montreal, Quebec, Canada
+H3G 1M8
+See SGW Campus map
+Loyola Campus
+7141 Sherbrooke Street W.
+Montreal, Quebec, Canada
+H4B 1R6
+See Loyola Campus map
+facebook
+twitter
+google
+youtube
+linkedin
+pinterest
+instagram
+flickr
+Concordia social
+© Concordia University
+Terms
+Privacy
+Accessibility
+Website feedback
+Share this page
+Concordia.ca
+Call us at
+514-848-2424
+Sir George Williams Campus
+1455 De Maisonneuve Blvd. W.
+Montreal, Quebec, Canada
+H3G 1M8
+See SGW Campus map
+Loyola Campus
+7141 Sherbrooke Street W.
+Montreal, Quebec, Canada
+H4B 1R6
+See Loyola Campus map
+Website feedback
+Terms
+Privacy
+Accessibility
+© Concordia University

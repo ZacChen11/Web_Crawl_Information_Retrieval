@@ -1,0 +1,314 @@
+Concordia University
+https://www.concordia.ca/content/concordia/en/web/accessibility.html
+Study resources
+Calendar - Graduate
+Calendar - Undergraduate
+Class schedules
+Class cancellations
+Course registration
+Important academic dates
+More academic resources
+Campus services
+Concordia Stores
+IT services
+Job opportunities
+Security
+Shuttle bus
+Student Service Centre (Birks)
+All campus services
+What's new
+Calendar of events
+Latest news
+Media Relations
+Faculties, Schools & Colleges
+Arts and Science
+Engineering and Computer Science
+Fine Arts
+John Molson School of Business
+School of Graduate Studies
+All Schools, Colleges & Departments
+Quick links  
+Webmail Library Cspace
+Study resources  
+Calendar - Graduate
+Calendar - Undergraduate
+Class schedules
+Class cancellations
+Course registration
+Important academic dates
+More academic resources
+Campus services  
+Concordia Stores
+IT services
+Job opportunities
+Security
+Shuttle bus
+Student Service Centre (Birks)
+All campus services
+What's new  
+Calendar of events
+Latest news
+Media Relations
+Faculties, Schools & Colleges  
+Arts and Science
+Engineering and Computer Science
+Fine Arts
+John Molson School of Business
+School of Graduate Studies
+All Schools, Colleges & Departments
+Quick links The Campaign for Concordia
+MyConcordia
+Cspace
+Webmail
+Library
+Directories
+A-Z
+Maps
+Future students
+Student hub
+Alumni & friends
+Parents
+Faculty & staff
+Media
+Concordia University
+Concordia University
+MyConcordia Shuttle bus Maps
+About
+Administration & governance
+Strategic directions
+Quartier Concordia
+History
+Working at Concordia
+Sustainability hub
+Community engagement
+Indigenous Directions
+Quick links
+Fast facts
+Offices A-Z
+News
+Events
+Academics
+Undergraduate programs
+Graduate programs
+Faculties, Schools & Colleges
+Continuing education
+Co-operative education
+Online courses
+Study abroad
+Quick links
+Student Success Centre
+Graduate & Professional Skills
+Academic integrity
+Recruitment events
+Admissions
+Undergraduate
+Graduate
+International student admissions
+Financial aid & awards
+Tours & events
+Quick links
+Tuition & fees
+Student housing
+Concordia Continuing Education
+Campus life
+Arts & culture hub
+Athletics
+Get involved
+Food & housing
+Orientation & new students
+Recreation, sports & fitness
+Services & support
+Quick links
+Student Success Centre
+Residence life
+Jobs on campus
+University of the Streets Café
+Dean of Students
+Sustainability Hub
+Research
+Research units
+Research Chairs
+Resources for researchers
+Students and postdocs
+Funding opportunities
+Quick links
+Strategic research plan
+Explore research, teaching & learning
+ConRAD
+About the research sector
+International
+International student admissions
+Visiting & exchange students
+Partnerships
+Academic visitors
+Quick links
+Concordia International
+International Students Office
+Global alumni
+Cotutelle
+fr
+The Campaign for Concordia
+Study resources
+Calendar - Graduate
+Calendar - Undergraduate
+Class schedules
+Class cancellations
+Course registration
+Important academic dates
+More academic resources
+Campus services
+Concordia Stores
+IT services
+Job opportunities
+Security
+Shuttle bus
+Student Service Centre (Birks)
+All campus services
+What's new
+Calendar of events
+Latest news
+Media Relations
+Faculties, Schools & Colleges
+Arts and Science
+Engineering and Computer Science
+Fine Arts
+John Molson School of Business
+School of Graduate Studies
+All Schools, Colleges & Departments
+Quick links  
+Webmail Library Cspace
+Study resources  
+Calendar - Graduate
+Calendar - Undergraduate
+Class schedules
+Class cancellations
+Course registration
+Important academic dates
+More academic resources
+Campus services  
+Concordia Stores
+IT services
+Job opportunities
+Security
+Shuttle bus
+Student Service Centre (Birks)
+All campus services
+What's new  
+Calendar of events
+Latest news
+Media Relations
+Faculties, Schools & Colleges  
+Arts and Science
+Engineering and Computer Science
+Fine Arts
+John Molson School of Business
+School of Graduate Studies
+All Schools, Colleges & Departments
+Information for...  
+Future students
+Student hub
+Alumni & friends
+Parents
+Faculty & staff
+Media
+Concordia
+Directories
+Search
+Concordia University
+Home
+ / 
+Accessibility
+Facebook
+Twitter
+LinkedIn
+GooglePlus
+Accessibility
+In the development of the new Concordia University website, as well as the templates for departmental and unit sites, we have tried to follow accessibility standards in order to make the site usable to the broadest possible audience. We want the site to be usable by people using assistive technologies, such as screen readers, and to those people using older browsers, computers and slow connection speeds.
+In line with the Web Content Accessibility Guidelines of the World Wide Web Consortium (W3C), we have constructed our pages to "transform gracefully", in other words, we have:
+separated structure from presentation. We use Cascading Style Sheets to control all presentation. Turning off the style sheet will affect the visual presentation but we have tried to ensure that the various site functions and navigation will still work.
+created documents that work even if the user cannot see and/or hear. All content is provided as text; when images, audio or video files are used, they are given equivalent alternatives. Blind users can use screen reader technology to render all text information on a page.
+created documents that do not rely on one type of hardware. Users can access the site with a variety of browser technologies, screen resolutions and settings, with or without mice, etc. See the sections below for information on shortcuts and access keys.
+We have also tried to ensure that the content is understandable and navigable. We have provided:
+a universal top-level tool bar that situates you within the university structure, including links to the appropriate sites in the organization's hierarchy.
+a standardized navigation structure, using text for links and not images, that clearly situates the user within up to five levels of the site's information architecture.
+a bread crumb trail located just above the page tite, which also situates the user within the site structure.
+Persons using assistive devices should contact the Access Centre for Students with Disabilities for help with assistive technology.
+The Access Centre for Students with Disabilities
+The Access Centre for Students with Disabilities provides programs and services which support the integration and independence of students with disabilities into the university community.
+Students with visual or hearing impairments, mobility limitations, or learning disabilities may require special services while studying at Concordia. Services include:
+orientation sessions
+individual academic support and advising
+alternative media transcription
+volunteer reader services
+classroom relocation for mobility impaired students
+tape recorders, FM personal systems, and personal computers with voice and Braille output are available for on campus use.
+Official Policy
+The Policy on Accessibility for Students with Disabilities outlines the respective roles and responsibilities of the University and of students with disabilities with respect to accessibility to the academic programs and physical facilities of the University. Download the policy (PDF).
+ 
+Related links
+Access Centre for Students with Disabilities
+Policy on Accessibility for Students with Disabilities
+W3C Web Content Accessibility Guidelines
+Accessibility tools
+c - Skip to content
+n - Skip to navigation
+s - Skip to search
+1 - Go to home page
+Back to top
+© Concordia University
+Concordia University - Call us at 514-848-2424
+About
+Academics
+Admissions
+Campus life
+Research
+International
+Future students
+Current students
+Alumni & friends
+Parents
+Faculty & staff
+Media
+Sir George Williams Campus
+1455 De Maisonneuve Blvd. W.
+Montreal, Quebec, Canada
+H3G 1M8
+See SGW Campus map
+Loyola Campus
+7141 Sherbrooke Street W.
+Montreal, Quebec, Canada
+H4B 1R6
+See Loyola Campus map
+facebook
+twitter
+google
+youtube
+linkedin
+pinterest
+instagram
+flickr
+Concordia social
+© Concordia University
+Terms
+Privacy
+Accessibility
+Website feedback
+Share this page
+Concordia.ca
+Call us at
+514-848-2424
+Sir George Williams Campus
+1455 De Maisonneuve Blvd. W.
+Montreal, Quebec, Canada
+H3G 1M8
+See SGW Campus map
+Loyola Campus
+7141 Sherbrooke Street W.
+Montreal, Quebec, Canada
+H4B 1R6
+See Loyola Campus map
+Website feedback
+Terms
+Privacy
+Accessibility
+© Concordia University

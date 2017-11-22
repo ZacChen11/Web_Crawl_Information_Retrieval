@@ -1,0 +1,21 @@
+MyConcordia: Employee Account Management
+To reset your account credentials, fill in the fields below. The information you provide should match that which is recorded in Concordia’s Human Resources (HR) system.
+Employee ID:
+  
+Date of birth:
+  
+(mm/dd/yyyy)
+Postal Code:
+  
+(format H9H9H9, H9H 9H9, H9H-9H9, 97979 - case insensitive)
+By checking the 'I agree' box below, you are verifying that you agree to abide by all rules and regulations when using your Concordia netname to access Concordia’s computing facilities.
+I hereby understand that my civil liability may arise by using the facilities of Concordia University or the Netname assigned to me. I agree to comply with all the rules of operation of Concordia facilities. I further agree to use Concordia facilities only in order to try to fulfil my academic requirements or for the purposes of teaching and/or research activities for the sole benefit of Concordia University. I understand that unauthorized use of such facilities is subject to appropriate action by the University, including but not limited to the suspension of my access to the facilities. I shall comply with the law governing copyright and therefore with the University Policy on Copyright Compliance, particularly, with respect to software packages and programs. I understand that Concordia may obtain and use, as it sees fit, any or all programs developed in using the username assigned to me.
+I agree to abide by Concordia's Policy on Computing Facilities (view...)
+IT Support
+For more information about your Concordia Netname account, visit the Netname account management information page.
+To submit a support request, contact the Service Desk.
+Online: Complete and submit a support web form
+Email: help@concordia.ca
+In Person: H925 or CC207
+Phone: (514) 848-2424 ext. 7613
+Back to My Concordia Portal

@@ -1,0 +1,39 @@
+Introduction
+People
+Research Activities
+Research Facilities
+Contact
+Faculty of Engineering
+Department of Mechanical Engineering
+NEWS
+Concave MEMS research expands with $1,000,000.00 grant
+What is CONCAVE?
+Often we get a question like “what the heck is CONCAVE?” and so this is an effort to describe who and what we are.
+What is CONCAVE? CONCAVE stands for Concordia Center for Advanced Vehicle Engineering. We are a mechanical engineering group of 8 faculty and 47 students, 2 technical staff, and one secretary.
+Vehicle engineering encompasses a diverse cross-section of engineering, making our research center a rich place of engineering ideas.  Along with world-class faculty and students we insist on putting the student close to faculty, staff and industry. CONCAVE is as much an environment as it is a research center. We focus on achieving the synergy of ideas and people to learn how to research, to solve, to apply, and ultimately create.  Our students regularly win top engineering employment placement.  Our CONCAVE faculty members are a group of world-recognized experts in vehicle engineering, vibration, sound, acoustics, and MEMS.
+CONCAVE is currently working on several interesting projects. One project involves the study of mechanical vibration of Montreal metro cars, a project in collaboration with the IRSST. Another project for Transport Quebec involves the study of rumble strips to evaluate bicycle safety and community noise. Another project involves the implementation of smart cards in vehicles as an evaluation tool for driving habits.  Our recent prize-winning tank truck design is generating great interest in the transportation industry.  Our latest major research for Pratt and Whitney encompasses the development and application of MEMS for aerospace applications. We are also developing tactile sensors for surgical applications, and smart structures for space applications.
+World-Class Research
+CONCAVE has developed and led the establishment of two world standards. ISO 5982 for whole body vibration and ISO 10068 for hand-arm vibration are the products of Dr. Paul-Emile Bouleau and Dr. Subhash Rakheja. CONCAVE is constantly in the forefront of the assessment, measurement and simulation of vibration and its transmission to the human body.  Current projects involve the evaluation of a world standard for anti-vibration gloves, and a group study of mechanical process of vascular skeletal disorders resulting from worker manipulation of industrial power tools.
+At the heart of CONCAVE is a welcome — and the attitude of “Driving Excellence”.
+Return to top
+Concave MEMS research expands with $1,000,000.00 grant
+In the tiny world of MEMS (micro-electro-mechanical systems), Concordia University may soon be a giant. Muthukumaran Packirisamy, an assistant professor of mechanical and industrial engineering, has received a $1-million grant to build MEMS fabrication facilities that should put the university in the vanguard of this exciting new field.
+Muthukumaran Packirisamy working on his MEMS.
+Photo by Andrew Dobrowolskyj
+MEMS devices are micrometers in size — less than a hair’s width — but have a wide variety of applications, from pressure sensors for vehicles to heat sensors for aerospace applications. Packirisamy is particularly excited about the potential for biological applications, such as blood analysis, diagnosis, and drug delivery.
+The grant allows Packirisamy to set up the Concordia Silicon Microsystems Fabrication Facility, or ConSIM, where research will focus on silicon-based MEMS. Silicon, a semi-conductor that is the basis of today’s technologies, also has excellent optical properties as a conductor of infra-red light.
+“I am going to start a new area here on optical, or photonic, MEMS,” he explained in an interview. “I envisage the potential for many applications that will depend on the combined mechanical, electrical and optical properties of silicon.”
+He plans to purchase the state-of-the-art microfabrication equipment needed to produce MEMS devices, including a direct laser writing tool used to transfer designs onto chips. “I’ve been dreaming to get this,” he said with excitement. Other essential acquisitions include a deep reactive ion etcher, necessary for making three-dimensional structures, and a plasma-enhanced chemical vapor deposition system to deposit different materials on top of silicon. “We will now have the tools to tour the micro-world.”
+The grant, from the New Opportunities Fund of the Canadian Foundation for Innovation, helps new faculty members acquire infrastructure in fields with a potential for innovation, student training, and collaboration with industry. Pack-irisamy said this is the largest such grant ever to go to an individual applicant (as opposed to a group) at Concordia.
+As required, 20 per cent of the money comes from other sources: a start-up grant from the Faculty of Engineering and Computer Science, CONCAVE (Concordia Center for Advanced Vehicle Engineering), and LNL Optenia Inc., an Ottawa company that employed Packirisamy.
+Several Concordia engineering professors, including Rama Bhat, Ion Stiharu, Subhash Rakheja and Leslie Landsberger, have been working on MEMS since 1992, and Packirisamy developed these devices for his PhD here in 2000. After two years in Ottawa, where he developed MEMS devices for industry, he returned to Montreal last June.
+“I was widening my horizons, and I now have a good feel for industry, he says, “but I planned to come back to academia.” Now that he’s back, he said, “I want to be very aggressive and be a pioneer. It’s a multi-disciplinary field, and Concordia has all the expertise needed to develop MEMS.”
+Industry is experiencing a shortage of skilled personnel, so he hopes the university’s new facilities will attract more students.
+About half a dozen graduate students are already involved in this field at Concordia, and another three are expected in the fall.
+This field was primarily opened up by specialists in electrical engineering, so there are problems to be solved on the mechanical aspects of MEMS, he said, and Concordia has the strength in mechanical engineering to tackle these questions. The effects of packaging on MEMS performance is another area that needs attention.
+Packirisamy expects to collaborate with local companies, and allow them, as well as other researchers in Montreal, to use the new equipment once it has been set up. MEMS may be small, he says, “but there’s a big world inside.”
+Original article featured in the Concordia Thursday Report, April 10 2003. By Janice Hamilton
+Return to top
+Concave
+Concordia University
+Last update: Tuesday, 31-Aug-2010 10:09:28 EDT

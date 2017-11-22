@@ -1,0 +1,27 @@
+﻿
+Toggle navigation
+About Us
+Mission
+Our History
+Our Executive Team
+Blog
+Spacecraft Division
+ConSat-1
+Aleksandr
+Ground Station
+Rocketry Division
+Arcturus
+Aurelius
+Special Projects
+Robotics
+Sponsors
+Contact Us
+Join the Team!
+Contact Form
+FAQ
+Donate
+Aurelius Rocket
+Short Summary
+The Aurelius was developed for the Basic Category of the 11th IREC competition. It was made using many similar methods to the arcturus. What set it apart however, was its increased focus on composites and the superior methods by which it was designed. An in-house flight simulation software was developed using matlab and was used to help refine the performance of the vehicle. As well, the fuselage was further developed. In the end, the fuselage thickness was reduced from 2 mm to 1.5 mm while the compressive strength was increased from 71 kN to 83 kN.                      The way the dual-event recovery system was actuated was also changed. Instead of Pyrotechnic charges, CO2 gas canisters were used to eject the parachutes. This made the rocket more reliable and considerably safer to handle before flight. The payload was a simple array of vibration sensors to validate previous Rayleigh-Ritz Aeroelastic models of the fuselage.                      Overall, the flight was very successful, with a recovery less than 1 mile from the launch site. The vehicle flew to an altitude of 11,138 feet and experienced a maximum velocity of Mach 0.85. The team went on the win 2nd place in the basic category, beating teams such as MIT and Yale.
+Follow Us
+       

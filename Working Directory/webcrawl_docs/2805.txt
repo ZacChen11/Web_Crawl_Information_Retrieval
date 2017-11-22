@@ -1,0 +1,437 @@
+Skip to main content
+The Globe and Mail
+hide navigation
+Gaining traction on Mars
+subscribe
+sign in
+search button
+AdChoices
+Email to friend
+Share on Twitter
+Share on Facebook
+Share on LinkedIn
+Share on WhatsApp
+close panel
+Search
+Canada
+open sub categories
+Toronto
+open sub categories
+British Columbia
+open sub categories
+Alberta
+open sub categories
+Education
+open sub categories
+Investigations
+open sub categories
+World
+open sub categories
+Global Reporting
+open sub categories
+U.S. Politics
+open sub categories
+Foreign Correspondents
+open sub categories
+Business
+open sub categories
+Streetwise
+open sub categories
+Economy
+open sub categories
+Economic Insight
+menu
+Jobs
+menu
+Interest Rates
+menu
+Technology
+open sub categories
+Science
+menu
+Industry News
+open sub categories
+Energy and Resources
+menu
+Property Report
+menu
+Business Commentary
+open sub categories
+International Business
+open sub categories
+U.S. Business
+menu
+European Business
+menu
+Asia-Pacific Business
+menu
+Latin American Business
+menu
+African and Mideast Business
+menu
+Global Commerce Insider
+menu
+Small Business
+open sub categories
+Startups
+menu
+Growth
+menu
+The Challenge
+menu
+Money
+menu
+Marketing
+menu
+Going Global
+menu
+Managing
+menu
+Talent
+menu
+Careers
+open sub categories
+Leadership
+menu
+Management
+menu
+Board Games
+Executive Compensation
+Career Advice
+menu
+Business Education
+menu
+Top Employers
+menu
+ROB Magazine
+open sub categories
+Top 1000
+menu
+Rankings
+Top 1000 2010
+Top 1000 2011
+Top 1000 2012
+Investing
+open sub categories
+Portfolio
+open sub categories
+Portfolios
+menu
+Watchlists
+menu
+Watchlist
+open sub categories
+Markets
+open sub categories
+Inside the Market
+menu
+Indices
+menu
+Currencies
+menu
+Mutual Funds
+menu
+Fund Lookup
+ETFs
+menu
+Stocks
+menu
+Screener
+Commodities & Futures
+menu
+Investment Ideas
+open sub categories
+Strategy Lab
+menu
+Number Cruncher
+menu
+Carrick Talks Money
+menu
+Research Reports
+menu
+Globe Advisor
+open sub categories
+Globe Wealth
+open sub categories
+Personal Finance
+open sub categories
+Retirement
+menu
+Gen Y Money
+menu
+Household Finances
+menu
+Carrick on Money
+menu
+Financial Facelift
+menu
+Taxes
+menu
+Opinion
+open sub categories
+Editorials
+open sub categories
+Letters to the Editor
+open sub categories
+Columnists
+open sub categories
+Politics
+open sub categories
+Sports
+open sub categories
+Hockey
+open sub categories
+Baseball
+open sub categories
+Basketball
+open sub categories
+Soccer
+open sub categories
+Football
+open sub categories
+Golf
+open sub categories
+Olympics
+open sub categories
+Life
+open sub categories
+Health & Fitness
+open sub categories
+Food & Wine
+open sub categories
+Recipes
+menu
+Wine Reviews
+menu
+Restaurant Reviews
+menu
+Style
+open sub categories
+Relationships
+open sub categories
+Parenting
+open sub categories
+Home & Design
+open sub categories
+Travel
+open sub categories
+Facts and Arguments
+open sub categories
+Horoscopes
+open sub categories
+The Globe-WE Learning Hub
+open sub categories
+Arts
+open sub categories
+Film
+open sub categories
+Film Reviews
+menu
+TIFF
+menu
+Television
+open sub categories
+Books
+open sub categories
+Bestsellers
+menu
+Book Reviews
+menu
+Music
+open sub categories
+Theatre & Performance
+open sub categories
+Theatre Reviews
+menu
+Art & Architecture
+open sub categories
+Drive
+open sub categories
+Car News
+open sub categories
+Car Reviews
+open sub categories
+New Cars
+menu
+Used Cars
+menu
+Drive Culture
+open sub categories
+Auto Shows
+open sub categories
+Real Estate
+open sub categories
+The Real Estate Market
+open sub categories
+Toronto Real Estate
+open sub categories
+Calgary & Edmonton Real Estate
+open sub categories
+Vancouver Real Estate
+open sub categories
+Mortgages & Rates
+open sub categories
+Data Centre
+open sub categories
+My Watchlist
+open sub categories
+Quick Links
+Horoscopes Puzzles
+Customer Service
+My Account
+Customer Help
+Contact Us
+Subscribe
+Login
+Article Text Size
+A
+0
+A
++2
+A
++4
+A
++6
+The subject who is truly loyal to the Chief Magistrate will neither advise nor submit to arbitrary measures.
+close panel
+© 2017 The Globe and Mail Inc. All Rights Reserved.
+Terms & Conditions Privacy Policy
+Sponsor Content
+Gaining traction on Mars
+Open this photo in gallery:
+Engineering professor Krzysztof Skonieczny is studying how rovers, such as Spirit, can best function on Mars. “I’ve always been interested in how the fact that gravity is different in these other environments affects the ability of rovers to drive on the soil,” he says.
+Supplied
+CONTENT FROM: Concordia University
+March 23, 2017
+March 3, 2017
+Five years into its mission, NASA's exploration rover Spirit became trapped in an area of soft soil on Mars, in May 2009. After eight months attempting to find a way for the rover to free itself, the space agency ultimately decided that Spirit was likely permanently stuck and made it a stationary research centre until March 2010, when communica­tion with it ceased.
+It's not yet understood why Martian soil presents such a chal­lenge to exploration rovers like Spirit, but it is a problem all space agencies can expect, regardless of their rover design. Researchers have posited that the problem could be related to the weight of the rover, its wheel design or something to do with the Martian environment itself.
+"Anyone who sends a rover is going to see these issues," says Krzysztof Skonieczny, an engi­neering professor at Concordia University. "We'd like to figure out just how much of that comes down to wheel design or how much of it is just how difficult it is to drive in these environments."
+Story continues below advertisement
+That is the issue that Prof. Skonieczny, who is the Canada Research Chair Tier II in Aerospace Robotics, hopes to address through his research project looking at the impact of reduced gravity on the capabilities of an exploration rover's wheels. "I've always been interested in how the fact that gravity is differ­ent in these other environments af­fects the ability of rovers to drive on the soil," he says.
+According to Prof. Skonieczny, the assumption that the reduced weight of rovers makes it easier for them to drive through Martian sand may be flawed. While the actual mass of a rover is the same on Mars as it is on Earth, its effective weight – the force it is able to exert onto the ground it's driving on – is reduced on Mars.
+"That seems like something that would make a rover easy to drive because the lighter the weight, the less likely you would think it would sink into sand," he says. "But in reality, the sand itself is also light­er in weight, so it doesn't hold to­gether that well and it doesn't have as much strength." And so, even though the rover is effectively light­er, because the sand is too, there may not be a benefit from reducing the rover's weight.
+Prof. Skonieczny, who was born in Poland and raised in Toronto, stud­ied aerospace engineering at the University of Toronto and did his PhD in robotics at Carnegie Mellon University in Pittsburgh. His research on rovers focuses on wheel-soil in­teractions, as well as terrain detec­tion and path planning functions, and he is also researching the use of mobile robots for 3-D printing.
+Given his interest in conducting experiments with reduced gravity to replicate the conditions on Mars, Prof. Skonieczny applied for and re­ceived a grant from the Flights for the Advancement of Science and Technology (FAST) program of the Canadian Space Agency (CSA).
+As part of his research, Prof. Skonieczny will conduct a series of parabolic flights with a National Research Council (NRC) aircraft in August or September this year.
+JUST TALKING
+It’s about space
+Concordia University’s Professor Krzysztof Skonieczny and Canadian Space Agency’s Dr. Jean- Claude Piedboeuf discuss Mars exploration, Martians and what it’s like to ride the “Vomit Comet.”
+ 
+What question would you most like to answer about life on Mars?
+Prof. Krzysztof Skonieczny: I’m torn there because there are two big questions for me about Mars. Was there ever any other sort of life – we’ll call it microbial life on Mars – or anything of that na­ture? Were there ever ‘Martians’? And the other big question is: Will we ever be Martians à la the Matt Damon movie The Martian? Will we be living and working on Mars one day?
+Dr. Jean-Claude Piedboeuf: We want to know if life existed on  Mars in the past. If that’s the case, it will be the first trace of life on a planet other than Earth. So, that is really the burning question.
+ 
+Have you ever taken a parabolic flight and, if so, what does that feel like?
+Prof. Skonieczny: I have not. What does it feel like? NASA has a bigger version of this plane that we have here in Canada for parabolic flights, and they affectionately refer to theirs as the “Vomit Comet.” That gives an idea of what we can expect as far as how it feels. There’s the non-zero possibility of experiencing motion sickness on this kind of flight.
+Dr. Piedboeuf: No, I missed the chance a few years ago. From what I hear, it’s like a roller coaster. It does depend on the person – your me­tabolism and your body. Some peo­ple don’t like it.
+ 
+Will we one day see a Canadian-led Mars exploration mission?
+Prof. Skonieczny: I would hope so. I think, more realistically in the near term, Mars exploration is going to be an international effort and I think Canada’s done a really good job of developing great partnerships with NASA and also with the European Space Agency. But thinking way down the road, generations from now, I hope that travel to Mars one day will be, if not routine, something where countries like Canada could certainly lead their own mission.
+Dr. Piedboeuf: A Canadian-led Mars mission will be, I would say, unlikely because we are [al­ready] working with other space agencies. And if you look at what is needed to go to Mars, most countries could not do it alone. The best approach is to partner with the nations that already have the capability, and focus on the expertise that is particular to Canada.
+The FAST program, which began in 2010, offers financial and technical support to Canadian university proj­ects like the one pursued by Prof. Skonieczny. It offers researchers a hands-on experience that repli­cates the requirements, operations and constraints of a real space mission. The researchers have two years to complete their work, and they often choose to demonstrate their technologies on a sounding rocket, a high-altitude balloon or an airplane performing parabolic flights. Testing is a critical phase in the long process of technology development.
+Story continues below advertisement
+Story continues below advertisement
+"The kind of question he's trying to answer is very important to help­ing design a future generation of rovers that will go out to the moon or Mars," says Dr. Jean-Claude Piedboeuf, Director General of Space Science and Technology at the CSA.
+The CSA offers engineering sup­port services to researchers through the duration of the grant and, in Prof. Skonieczny's case, helped arrange the flights with the NRC. "We are helping the team to make sure that safety and other aspects are taken into account, because as soon as you go on board a flight with hardware, you start to deal with safety and security aspects," Dr. Piedboeuf explains.
+While Prof. Skonieczny's flight choice is novel for the program, Dr. Piedboeuf says his research topic is particularly noteworthy.
+"We can [study the interaction be­tween a rover wheel and terrain] on Earth by reducing the pressure on the wheel," Dr. Piedboeuf says. But since Prof. Skonieczny has made the assumption that the Martian sand itself is affected by the planet's grav­ity, that scenario cannot be repro­duced on Earth, notes Dr. Piedboeuf, because the gravity from the soil on Mars cannot be removed.
+With access to the plane for one week – for a total of four hours in the air – Prof. Skonieczny plans to simulate the conditions on Mars in the brief moments of reduced-gravity during the parabolic flights to determine the effect of gravity on Martian sand.
+Much of Mars is covered in "pretty benign" soil, he says, but many of the areas that hold interest for scien­tists – such as craters and slopes that could be useful for geological mea­surements – have looser deposits of finer sand. "In some parts of Mars, rovers had to drive through fields of sand dunes, which are also very tricky for the rovers to get through safely." Prof. Skonieczny will use a soil identified by the European Space Agency (ESA) as similar to what the rovers will drive through on Mars. The soil is developed by mixing several types of soils avail­able on Earth to create soil with en­gineering properties similar to those of Martian sand.
+Story continues below advertisement
+Prof. Skonieczny will also conduct experiments in the sandboxes at his lab at Concordia. "[The flights are] just going to be one piece of the puzzle that we look at, both in the lab and out in the field as well," he explains. He has also developed a partnership with the CSA and will be testing the rovers in the agency's outdoor scien­tific Mars proving ground.
+Prof. Skonieczny hopes his re­search will support the ESA's ExoMars 2020 mission to send an exploration rover to Mars to look for signs of life – an endeavour in which the CSA is a participating member. The rover he will use in his experi­ments will likely include a prototype of the wheel – designed by MDA Corporation, a communications and advanced technology company in Brampton, Ont. – that ESA will use in its mission.
+While ESA has already designed its rover for the mission, the results of Prof. Skonieczny's research will be a "value added," he notes. "What we're hoping to do in our experi­ments is to provide both that same type of data that they might see from the rover, and also a lot of ad­ditional data," he says, citing, as an example, video footage of how the sand will be moving underneath the rover's wheels.
+"The goal that we have in provid­ing the information for that mission is to give them more context for when they're operating their rover on the surface of Mars."
+This content was produced by The Globe and Mail's Globe Edge Content Studio, in consultation with an advertiser. The Globe's editorial department was not involved in it's creation.
+Report an error
+Stories from the Newsroom
+Latest Videos
+Wonder stars hold special screening at Toronto hospital
+1:56
+Gary Oldman slays dragons to play Churchill in Darkest Hour
+1:45
+Alberta's Notley calls Nebraska Keystone XL approval ‘good news’
+1:42
+Five unique and fun hotels in New York City
+1:58
+Ricky Ray on winning CFL East final in front of a home crowd
+1:28
+Privacy Policy
+Terms & Conditions
+Disclaimer
+Community Guidelines
+Subscribe
+open sub categories
+Globeandmail.com
+The Globe and Mail Newspaper
+Globe2Go
+The New York Times
+Globe Email Newsletters
+Business Services
+open sub categories
+Advertise with Us
+Corporate & Group Subscriptions
+Content Licensing
+DataStore
+Report On Business Top 1000
+Globe Event Centre
+Contact Us
+open sub categories
+Address and Phone Number
+Public Editor
+Staff
+Staff PGP Directory
+SecureDrop
+Submit an article
+Reader Services
+open sub categories
+My Globeandmail.com Account
+Technical Support & FAQs
+Manage my home delivery
+Manage my privacy preferences
+Manage my advertising preferences
+About Us
+open sub categories
+Company Information
+Work at The Globe
+Accessibility Policy
+Editorial Code of Conduct
+Sustainability
+Licensing & Permissions
+Subscribe
+Globeandmail.com
+The Globe and Mail Newspaper
+Globe2Go
+The New York Times
+Globe Email Newsletters
+Business Services
+Advertise with Us
+Corporate & Group Subscriptions
+Content Licensing
+DataStore
+Report On Business Top 1000
+Globe Event Centre
+Contact Us
+Address and Phone Number
+Public Editor
+Staff
+Staff PGP Directory
+SecureDrop
+Submit an article
+Reader Services
+My Globeandmail.com Account
+Technical Support & FAQs
+Manage my home delivery
+Manage my privacy preferences
+Manage my advertising preferences
+About Us
+Company Information
+Work at The Globe
+Accessibility Policy
+Editorial Code of Conduct
+Sustainability
+Licensing & Permissions
+© Copyright 2017 The Globe and Mail Inc. All rights reserved.
+351 King Street East, Suite 1600, Toronto, ON Canada, M5A 0N1
+Phillip Crawley, Publisher

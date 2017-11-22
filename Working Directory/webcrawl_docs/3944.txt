@@ -1,0 +1,467 @@
+Special Offer
+Side Table $49.99 ea. LIMITED-TIME ONLY
+details
+×
+Side Table: $49.99 each
+Offer valid in-store and online at www.bouclair.com until November 22, 2017 at 3:00 am EST. Special pricing applicable to SKU 9391973 and 9391974 while quantities last. Not applicable to previously-purchased merchandise. Online price reflects discount, before taxes, shipping and handling. Additional restrictions may apply. Limited time offer.
+menu
+My Account
+Track My Order
+Stores
+Service 1-800-268-2524
+Français
+Service 1-800-268-2524
+×
+Added to your cart
+{{curProduct.productName}}
+{{po.QuestionText}}:
+Price:
+{{curProduct.RetailPrice  | currency}}
+{{curProduct.SingleUnitPrice  | currency}}
+Quantity: {{curQuantity}}
+FINAL SALE
+Total
+{{(curProduct.RetailPrice * curQuantity).toFixed(2)  | currency}}
+{{(curProduct.SingleUnitPrice * curQuantity).toFixed(2)  | currency}}
+Cart Total:
+{{(productData.SubTotal).toFixed(2) | currency}}
+before taxes and shipping
+Continue Shopping
+View Cart ({{cartTotal}})
+×
+{{item.ProductDisplayName}}
+{{po.QuestionText}}:
+Price:
+{{item.OriginalPrice  | currency}}
+{{item.UnitPrice | currency}}
+Quantity: {{item.Quantity}}
+FINAL SALE
+Total:
+{{item.OriginalPrice * item.Quantity  | currency}}
+{{item.UnitPrice.toFixed(2) * item.Quantity | currency}}
+Plus {{viewMoreNum}} More Items In Your Cart
+Cart Total: {{(productData.SubTotal).toFixed(2) | currency}}
+before taxes and shipping
+View Cart
+You have no items in your cart
+Continue Shopping
+Stores
+|
+Help
+|
+Français
+Account
+|
+Cart ()
+FR
+Get
+Inspired
+The Atelier Collection
+Get Inspired
+New Lookbooks
+Atelier Collection
+Holiday Moments
+Gifts By Price
+Christmas Decor
+Trees And Deco Trees
+Tabletop Accessories
+Nutcrackers
+Cushions & Throws
+Ornament Sets
+Stockings
+Decorative Pillow Covers
+Napkins
+New
+Furniture
+Windows
+Bed & Bath
+Wall Decor
+Lighting
+Rugs
+Decor & Pillows
+Organization
+Kids & Baby
+Christmas
+Furniture
+Dining Room
+Living Room
+Seating
+Tables
+Bedroom
+Home Office
+Accessories
+Industrial
+Modern
+Rustic
+Scandinavian
+Windows
+Curtains
+Curtain Rods
+Blinds & Shades
+Premium Blinds
+Accessories
+Bed & Bath
+Bed
+Bedding Basics
+Bath
+Wall Decor
+Canvas + Framed Art
+Wall Art
+Mirrors
+Wallpaper
+Lighting
+Table Lamps
+Mix & Match Lamp Bases & Shades
+Ceiling Lamps
+Floor Lamps
+Lamp Accessories
+Decor & Pillows
+Decorative Pillows
+Throws
+Decor
+Vases
+Baskets & Storage
+Floral & Branches
+Rugs
+Dining
+Kids & Baby
+Kids
+Baby
+Girls' Essentials
+Boys' Essentials
+Shiny
+Snowday
+Furry Friends
+Sale
+Gift Cards
+Email Sign Up
+Customer Service
+empty
+Inspiration
+New
+Furniture
+Windows
+Decor & Pillows
+Wall Decor
+Kids & Baby
+Lighting
+Bed & Bath
+Sale
+Christmas Decor
+Trees And Deco Trees
+Nutcrackers
+Cushions & Throws
+Ornament Sets
+Stockings
+Tabletop Accessories
+Decorative Pillow Covers
+Napkins
+Holiday Moments
+Dazzling Moment
+Red Scandi
+Naturally Home
+Woodland Snug
+Gifts By Price
+Christmas Gifts: $15 And Under
+Christmas Gifts: $25 And Under
+Christmas Gifts: $50 And Under
+Gifts For Kids
+Get Inspired
+New Lookbooks
+Fur Anthology
+Log House
+Organic Winter
+Shiny
+Snowday
+Furry Friends
+New Fall Furniture
+Modern
+Industrial
+Rustic
+Scandinavian
+Furniture
+Windows
+Bed & Bath
+Wall Decor
+Lighting
+Rugs
+Decor & Pillows
+Kids & Baby
+Christmas
+Shop by room
+Bedroom
+Beds & Headboards
+Ottomans & Benches
+Lounge Chairs
+Nightstands & Side Tables
+Living Room
+Lounge Chairs
+Ottomans & Benches
+Coffee Tables & Side Tables
+Consoles & Media Consoles
+Sofas
+Bookshelves
+Cabinets
+Dining Room
+Dining Chairs
+Bar & Counter Stools
+Dining Tables
+Buffets & Cabinets
+Consoles
+Home Office
+Desks
+Bookshelves
+Cabinets
+Consoles
+Seating
+Shop by category
+Seating
+Dining Chairs
+Bar & Counter Stools
+Lounge Chairs
+Ottomans & Benches
+Sofas
+Tables
+Side Tables
+Coffee Tables
+Consoles & Media Consoles
+Nightstands
+Dining Tables
+Curtains
+Blackouts
+Panels
+Sheers
+Curtain Rods
+Blinds & Shades
+Premium Blinds
+Accessories
+Basic Accessories
+Curtain Rod Set Accessories
+Decorative Pillows
+Throws
+Decor
+Candle Holders
+Candles
+Decor
+Baskets & Storage
+Vases
+Floor Vases
+Table Vases
+Floral & Branches
+Florals
+Branches
+Greenery
+Dining
+Dinnerware
+Table Linens
+Rugs
+Canvas + Framed Art
+Wall Art
+Mirrors
+Wallpaper
+Kids
+Bedding
+Windows
+Decorative Pillows
+Wall Decor
+Lighting
+Furniture
+Rugs
+Throws
+Baskets & Storage
+Decor
+Baby
+Bedding
+Windows
+Decorative Pillows
+Wall Decor
+Lighting
+Rugs
+Throws
+Baskets and Storage
+Decor
+Girls' Essentials
+Boys' Essentials
+Shiny
+Snowday
+Furry Friends
+Table Lamps
+Ceiling Lamps
+Floor Lamps
+Mix & Match Lamp Bases & Shades
+Bases
+Shades
+Lamp Accessories
+Bed
+Duvet Cover Sets
+Coverlet Sets
+Sheet Sets
+Decorative Pillows
+Throws
+Bedding Basics
+Duvet Inserts
+Pillows
+Bath
+Shower Curtains
+Towels
+Bathroom Furniture
+Bath Mats
+Bath Sets
+Baskets & Storage
+Hampers
+Wall Decor & Mirrors
+Decor & Candles
+Furniture
+ATELIER Bouclair
+Windows
+Bed & Bath
+Wall Decor
+Lighting
+Rugs
+Decor & Pillows
+Organization
+Kids & Baby
+Shop All Clearance
+FR
+Get
+New Lookbooks
+New Fall Furniture
+Get Inspired
+New Lookbooks
+New Fall Furniture
+Holiday Moments
+Gifts By Price
+Christmas Decor
+Trees And Deco Trees
+Tabletop Accessories
+Nutcrackers
+Cushions & Throws
+Ornament Sets
+Stockings
+Decorative Pillow Covers
+Napkins
+New
+Furniture
+Windows
+Bed & Bath
+Wall Decor
+Lighting
+Rugs
+Decor & Pillows
+Organization
+Kids & Baby
+Christmas
+Furniture
+Dining Room
+Living Room
+Seating
+Tables
+Bedroom
+Home Office
+Accessories
+Industrial
+Modern
+Rustic
+Scandinavian
+Windows
+Curtains
+Curtain Rods
+Blinds & Shades
+Premium Blinds
+Accessories
+Bed & Bath
+Bed
+Bedding Basics
+Bath
+Wall Decor
+Canvas + Framed Art
+Wall Art
+Mirrors
+Wallpaper
+Lighting
+Table Lamps
+Mix & Match Lamp Bases & Shades
+Ceiling Lamps
+Floor Lamps
+Lamp Accessories
+Decor & Pillows
+Decorative Pillows
+Throws
+Decor
+Vases
+Baskets & Storage
+Floral & Branches
+Rugs
+Dining
+Kids & Baby
+Kids
+Baby
+Girls' Essentials
+Boys' Essentials
+Shiny
+Snowday
+Furry Friends
+Sale
+Gift Cards
+Email Sign Up
+Customer Service
+Call Us Now
+1-800-268-2524
+Write Us
+ 
+×
+Contest Details
+Contest open to legal residents of Canada who have reached the age of majority in their province or territory of residence. Participants must follow Bouclair on Instagram. No purchase necessary. One eligible entrant will be randomly selected as the winner every month.
+SCROLL DOWN BACK TO TOP
+Save 10% on your next order
+when you join today
+I agree to receive news, updates & other promotional information from Bouclair, and understand that I can withdraw at any time. Privacy Policy
+SIGN ME UP
+No thanks, I'm not interested Offer only applicable to new email subscribers.
+Valid online & in store.
+Thanks for joining
+Continue shopping
+Haven't we met before?
+Looks like we've already got you on our list
+- Thanks!
+Continue shopping
+Sign up for our newsletter and save with exclusive offers Sign up for our newsletter and save with exclusive offers
+Contact Us
+Track my Order
+Shipping and delivery
+more
+Accessibility standard
+FAQ
+Returns
+Careers
+Français
+1-800-Bouclair (268-2524)
+facebook
+instagram
+pinterest
+youtube
+HOW CAN WE HELP?
+Track my Order
+My account
+Shipping and delivery
+Returns
+FAQ
+Gift Cards
+CONTACT US
+1 800 268-2524
+CUSTOMER SERVICE
+Store Locator
+Media requests
+USEFUL INFORMATION
+About Us
+Careers
+Privacy Policy
+Terms and conditions
+Accessibility Standard
+Security
+CATALOGUES & FLYER
+Flyer
+Business Catalogue
+Terms & Privacy Policy
+© Bouclair 2017
+Copyright © 2017 Bouclair inc.

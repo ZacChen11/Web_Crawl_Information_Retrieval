@@ -163,7 +163,35 @@ class Crawler:
         # for thread in threads:
         #     thread.join()
 
+    def html_to_text(self, data):
 
+        # define regexes
+        head_remover = re.compile('<head>.*?</head>')
+        comment_remover = re.compile('<!--.*?-->')
+        script_remover = re.compile('<script.*?>.*?</script>')
+        tag_remover = re.compile('</?.*?>')
+        special_char_remover = re.compile('&#\d+;')
+
+        # remove line breaks
+        data = data.replace('\n', ' ')
+        data = data.replace('\r', ' ')
+        data = data.replace('\t', ' ')
+
+        # remove tags for head, comments, and scripts also deleting all contents
+        data = head_remover.sub(' ', data)
+        data = comment_remover.sub(' ', data)
+        data = script_remover.sub(' ', data)
+
+        # remove arbitrary tags
+        data = tag_remover.sub(' ', data)
+
+        # remove tokens of the form &#ddd;
+        data = special_char_remover.sub(' ', data)
+
+        # delete extra whitespace
+        data = ' '.join(data.split())
+
+        return data
 
 
 if __name__ == '__main__':

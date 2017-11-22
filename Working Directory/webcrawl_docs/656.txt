@@ -1,0 +1,301 @@
+Concordia University
+http://www.concordia.ca/content/concordia/en/it/services/office-365-education.html
+Study resources
+Calendar - Graduate
+Calendar - Undergraduate
+Class schedules
+Class cancellations
+Course registration
+Important academic dates
+More academic resources
+Campus services
+Concordia Stores
+IT services
+Job opportunities
+Security
+Shuttle bus
+Student Service Centre (Birks)
+All campus services
+What's new
+Calendar of events
+Latest news
+Media Relations
+Faculties, Schools & Colleges
+Arts and Science
+Engineering and Computer Science
+Fine Arts
+John Molson School of Business
+School of Graduate Studies
+All Schools, Colleges & Departments
+Quick links  
+Webmail Library Cspace
+Study resources  
+Calendar - Graduate
+Calendar - Undergraduate
+Class schedules
+Class cancellations
+Course registration
+Important academic dates
+More academic resources
+Campus services  
+Concordia Stores
+IT services
+Job opportunities
+Security
+Shuttle bus
+Student Service Centre (Birks)
+All campus services
+What's new  
+Calendar of events
+Latest news
+Media Relations
+Faculties, Schools & Colleges  
+Arts and Science
+Engineering and Computer Science
+Fine Arts
+John Molson School of Business
+School of Graduate Studies
+All Schools, Colleges & Departments
+Quick links The Campaign for Concordia
+MyConcordia
+Cspace
+Webmail
+Library
+Directories
+A-Z
+Maps
+Future students
+Student hub
+Alumni & friends
+Parents
+Faculty & staff
+Media
+Concordia University
+Concordia University
+IT Services
+Services
+Get help
+Get started
+IT security
+IT groups
+The Campaign for Concordia
+Study resources
+Calendar - Graduate
+Calendar - Undergraduate
+Class schedules
+Class cancellations
+Course registration
+Important academic dates
+More academic resources
+Campus services
+Concordia Stores
+IT services
+Job opportunities
+Security
+Shuttle bus
+Student Service Centre (Birks)
+All campus services
+What's new
+Calendar of events
+Latest news
+Media Relations
+Faculties, Schools & Colleges
+Arts and Science
+Engineering and Computer Science
+Fine Arts
+John Molson School of Business
+School of Graduate Studies
+All Schools, Colleges & Departments
+Quick links  
+Webmail Library Cspace
+Study resources  
+Calendar - Graduate
+Calendar - Undergraduate
+Class schedules
+Class cancellations
+Course registration
+Important academic dates
+More academic resources
+Campus services  
+Concordia Stores
+IT services
+Job opportunities
+Security
+Shuttle bus
+Student Service Centre (Birks)
+All campus services
+What's new  
+Calendar of events
+Latest news
+Media Relations
+Faculties, Schools & Colleges  
+Arts and Science
+Engineering and Computer Science
+Fine Arts
+John Molson School of Business
+School of Graduate Studies
+All Schools, Colleges & Departments
+Information for...
+Future students
+Student hub
+Alumni & friends
+Parents
+Faculty & staff
+Media
+Concordia
+Directories
+Search
+Concordia University
+IT Services
+Concordia.ca
+ / 
+IT services
+ / 
+Services
+ / 
+Office 365 Education - students
+Facebook
+Twitter
+LinkedIn
+GooglePlus
+Office 365 Education - students
+Active Concordia students have access to Office 365 Education - a collection of services that allows you to collaborate and share your schoolwork.
+The services are available for free and include an email address, Office online (Word, PowerPoint, Excel, and OneNote), 1 TB of OneDrive storage, Yammer, and SharePoint sites.
+The subscription also allows you to install the full suite of Office software on up to 5 devices free of charge.
+Who can use it?
+Active students enrolled in the current academic term.
+How much does it cost?
+There is no cost associated with this service
+How to get it?
+The first step to enrolling for Office 365 Education is to obtain your Concordia email account.
+To activate your student email account, visit the MyConcordia portal and select the Office 365 Student Email option from within the Accounts & Settings section.
+Once your email account has been successfully activated, you can access the Office 365 login page using the following login credentials:
+Enter your_netname@live.concordia.ca on the main login page.
+You will be redirected to the Concordia-specific login screen
+Enter your netname and password (same as the MyConcordia portal) to log in.  
+Note: The email account can be activated from within the MyConcordia portal and the creation process takes 2 business days to complete. Your email address will follow the standard format: firstname.lastname@mail.concordia.ca
+Service availability
+24/7
+Documentation
+Outlook 2013 and 2016 configuration
+For complete configuration steps, visit Microsoft's Outlook email setup web page.
+This page is maintained by Microsoft. Concordia University is not responsible for updating this page.
+Outlook for Mac 2011 and 2016 configuration
+For complete configuration steps, visit Microsoft's Outlook for Mac 2016 or Microsoft's Outlook for Mac 2011 web page.
+These resource pages are maintained by Microsoft. Concordia University is not responsible for updating this page.
+POP/IMAP/SMTP and active sync access
+For more information on configuring your email for POP/IMAP/SMTP or active sync devices, follow the steps below:
+1. Access your email account at  https://login.microsoftonline.com/ using your_netname@live.concordia.ca (you will be redireted to the Concordia-specific login page). Log in using your netname and password.
+2. Click on the gear symbol at the top right-hand corner of the page
+3. Select 'options'.
+On the page that appears, you will find configuration options for phones, tablets, MS outlook, and POP/IMAP/SMTP settings. These configurations are updated regularly by Microsoft, and are not handled by Concordia University.
+Office 365 student resources
+Visit Microsoft's student resources page for training, tutorials and more.
+Office 365 privacy documentation
+For more information about how your personal information and data are handled, review the Office 365 privacy documentation .
+FAQ
+How can I sign up for an Office 365 email account?
+Log into your MyConcordia portal and click on 'Accounts and settings' followed by 'Office 365 Student Email'. Click the available button to activate your Office 365 email account. Your account will be accessible in 2 business days.
+When can I activate my email account?
+You will be able to activate your email account at the start of the term for which you are registered. It is best to wait until after the first day of classes to activate your account.
+What are the system requirements for Office 365 Education?
+To install Office 365 Education, your device must meet the minimum system requirements .  
+I have an email address ending in @live.concordia.ca. Am I eligible for the @mail.concordia.ca alias?
+If you have already activated the @live.concordia.ca email account, you may choose to activate the new @mail.concordia.ca email alias.
+To activate the alias:
+Log into the MyConcordia portal using your netname and password.
+Choose Accounts and Settings from the left menu.
+Select Office 365 Student Email.
+Click the Request to Activate Office365 Email Box button.
+Your alias will be created within 48 hours. You will continue to have access to your emails while the activation request is processed.
+I forgot my username and/or password. What do I do?
+On the main login page, you will need to enter 'your_netname@live.concordia.ca' to access the Concordia-specific login page.
+On this page, your username and password are the same as your MyConcordia netname and password. If you have forgotten them, visit the password reset page .
+What should I do if I'm unable to access my Office 365 email account?
+If it's been 2 business days since you've activated your account and you have followed the above instructions, but are still unable to login, contact the Service Desk with the following information:
+Your netname.
+When you’ve activated your account.
+If you are a currently registered student or when you’ve last attended courses at Concordia.
+Any error messages you have received.
+If you’ve ever been able to access the account.
+Note: If you are logged into any other Microsoft services (live.com, Hotmail, MSN, etc.), you will be unable to login to your Office 365 account at the same time. Ensure you have logged out of these services before attempting to access your @mail.concordia.ca account.
+What software is available in the suite of Office software?
+The programs included in ProPlus Suite vary depending on your device’s operating system. On a PC computer, the suite includes the latest versions of Word, Excel, PowerPoint, OneNote, Access, Publisher, Outlook, Lync and InfoPath. On a Mac computer, the latest versions of Excel, Outlook, PowerPoint, and Word are included.
+How do I install Office 365 Office software on my computer, phone, or tablet?
+Activate your student email through the MyConcordia portal . (Remember, it can take up to 2 business days for the account to become active.)
+Login at https://login.microsoftonline.com/ . On the main screen, you will need to enter your_netname@live.concordia.ca. You will be redirected to a Concordia-specific login page where you can enter your Concordia netname and password.
+At the top right of the page, click on the gear symbol and then choose Office 365 from the drop-down menu.  
+Settings will automatically open in the left side menu.
+Select Software from the options shown in the centre of the page.
+Continue with the on-screen instructions according to your needs.
+Once the software has been downloaded, enter your_netname@live.concordia.ca to authenticate.
+To install on a phone or tablet:
+Select “Phone & tablet” from the menu on the left side of the page.
+Choose which device type you wish to use.
+According to your selection, you will have the option to download various applications available for that device.
+Click on Install Office 2016
+See also
+Netname account management
+Was this page useful to you?
+Rate
+This form is for feedback only. Technical support requests should be submitted by email to help@concordia.ca or phone 514-848-2424, ext. 7613.
+Page suggestions:
+Submit
+Back to top
+© Concordia University
+Concordia University - Call us at 514-848-2424
+About
+Academics
+Admissions
+Campus life
+Research
+International
+Future students
+Current students
+Alumni & friends
+Parents
+Faculty & staff
+Media
+Sir George Williams Campus
+1455 De Maisonneuve Blvd. W.
+Montreal, Quebec, Canada
+H3G 1M8
+See SGW Campus map
+Loyola Campus
+7141 Sherbrooke Street W.
+Montreal, Quebec, Canada
+H4B 1R6
+See Loyola Campus map
+facebook
+twitter
+google
+youtube
+linkedin
+pinterest
+instagram
+flickr
+Concordia social
+© Concordia University
+Terms
+Privacy
+Accessibility
+Website feedback
+Share this page
+Concordia.ca
+Call us at
+514-848-2424
+Sir George Williams Campus
+1455 De Maisonneuve Blvd. W.
+Montreal, Quebec, Canada
+H3G 1M8
+See SGW Campus map
+Loyola Campus
+7141 Sherbrooke Street W.
+Montreal, Quebec, Canada
+H4B 1R6
+See Loyola Campus map
+Website feedback
+Terms
+Privacy
+Accessibility
+© Concordia University

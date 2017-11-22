@@ -1,0 +1,328 @@
+Concordia University
+https://www.concordia.ca/content/concordia/en/faculty.html
+Study resources
+Calendar - Graduate
+Calendar - Undergraduate
+Class schedules
+Class cancellations
+Course registration
+Important academic dates
+More academic resources
+Campus services
+Concordia Stores
+IT services
+Job opportunities
+Security
+Shuttle bus
+Student Service Centre (Birks)
+All campus services
+What's new
+Calendar of events
+Latest news
+Media Relations
+Faculties, Schools & Colleges
+Arts and Science
+Engineering and Computer Science
+Fine Arts
+John Molson School of Business
+School of Graduate Studies
+All Schools, Colleges & Departments
+Quick links  
+Webmail Library Cspace
+Study resources  
+Calendar - Graduate
+Calendar - Undergraduate
+Class schedules
+Class cancellations
+Course registration
+Important academic dates
+More academic resources
+Campus services  
+Concordia Stores
+IT services
+Job opportunities
+Security
+Shuttle bus
+Student Service Centre (Birks)
+All campus services
+What's new  
+Calendar of events
+Latest news
+Media Relations
+Faculties, Schools & Colleges  
+Arts and Science
+Engineering and Computer Science
+Fine Arts
+John Molson School of Business
+School of Graduate Studies
+All Schools, Colleges & Departments
+Quick links The Campaign for Concordia
+MyConcordia
+Cspace
+Webmail
+Library
+Directories
+A-Z
+Maps
+Future students
+Student hub
+Alumni & friends
+Parents
+Faculty & staff
+Media
+Concordia University
+Concordia University
+MyConcordia Shuttle bus Maps
+About
+Administration & governance
+Strategic directions
+Quartier Concordia
+History
+Working at Concordia
+Sustainability hub
+Community engagement
+Indigenous Directions
+Quick links
+Fast facts
+Offices A-Z
+News
+Events
+Academics
+Undergraduate programs
+Graduate programs
+Faculties, Schools & Colleges
+Continuing education
+Co-operative education
+Online courses
+Study abroad
+Quick links
+Student Success Centre
+Graduate & Professional Skills
+Academic integrity
+Recruitment events
+Admissions
+Undergraduate
+Graduate
+International student admissions
+Financial aid & awards
+Tours & events
+Quick links
+Tuition & fees
+Student housing
+Concordia Continuing Education
+Campus life
+Arts & culture hub
+Athletics
+Get involved
+Food & housing
+Orientation & new students
+Recreation, sports & fitness
+Services & support
+Quick links
+Student Success Centre
+Residence life
+Jobs on campus
+University of the Streets Café
+Dean of Students
+Sustainability Hub
+Research
+Research units
+Research Chairs
+Resources for researchers
+Students and postdocs
+Funding opportunities
+Quick links
+Strategic research plan
+Explore research, teaching & learning
+ConRAD
+About the research sector
+International
+International student admissions
+Visiting & exchange students
+Partnerships
+Academic visitors
+Quick links
+Concordia International
+International Students Office
+Global alumni
+Cotutelle
+The Campaign for Concordia
+Study resources
+Calendar - Graduate
+Calendar - Undergraduate
+Class schedules
+Class cancellations
+Course registration
+Important academic dates
+More academic resources
+Campus services
+Concordia Stores
+IT services
+Job opportunities
+Security
+Shuttle bus
+Student Service Centre (Birks)
+All campus services
+What's new
+Calendar of events
+Latest news
+Media Relations
+Faculties, Schools & Colleges
+Arts and Science
+Engineering and Computer Science
+Fine Arts
+John Molson School of Business
+School of Graduate Studies
+All Schools, Colleges & Departments
+Quick links  
+Webmail Library Cspace
+Study resources  
+Calendar - Graduate
+Calendar - Undergraduate
+Class schedules
+Class cancellations
+Course registration
+Important academic dates
+More academic resources
+Campus services  
+Concordia Stores
+IT services
+Job opportunities
+Security
+Shuttle bus
+Student Service Centre (Birks)
+All campus services
+What's new  
+Calendar of events
+Latest news
+Media Relations
+Faculties, Schools & Colleges  
+Arts and Science
+Engineering and Computer Science
+Fine Arts
+John Molson School of Business
+School of Graduate Studies
+All Schools, Colleges & Departments
+Information for...  
+Future students
+Student hub
+Alumni & friends
+Parents
+Faculty & staff
+Media
+Concordia
+Directories
+Search
+Concordia University
+Home
+ / 
+Faculty
+Facebook
+Twitter
+LinkedIn
+GooglePlus
+Christophe Grova, PhD
+Associate Professor, Physics
+Undergraduate Lab Director, Physics
+Biography    Selected publications   
+Office:
+L-SP 365-12  
+Richard J. Renaud Science Complex,
+7141 Sherbrooke W.
+Phone:
+(514) 848-2424 ext. 4221
+Email:
+christophe.grova@concordia.ca
+Research interests
+Graduate student and Post-doc positions available in Medical Physics Imaging
+Pr. Christophe Grova is directing The Multimodal Functional Imaging Laboratory , a multidisciplinary team composed of neurologists and methodologists, investigating  multimodal data fusion to characterize brain mechanisms in healthy conditions and also during epileptic activity.
+Being affiliated to both Biomedical Engineering and Neurology and Neurosurgery Departments at McGill University since July 2008, Dr. Grova investigates the integration of multimodal functional data to study brain mechanisms at the time of epileptic activity. His research project aims at combining multimodal data in order to detect additional information that could be missed by considering each modality individually. His project involves the integration of three promising functional modalities:
+Simultaneous ElectroEncephaloGraphy (EEG) - MagnetoEncephaloGraphy (MEG) acquisitions, measuring directly on the scalp electric and magnetic components of epileptic signals generated by neurons synchronously active (at a ms scale). Source localization procedure is then required to localize the generators of these discharges within the brain.
+Simultaneous EEG - functional Magnetic Resonance Imaging fMRI acquisitions to measure, within the whole brain at a second scale, hemodynamic responses that correlate with epileptic discharges detected on scalp EEG.
+Simultaneous EEG - Near InfraRed Spectroscopy (NIRS) acquisitions to measure local changes in oxy- and deoxy-hemoglobin at the time of epileptic discharges detected on scalp EEG, by exploiting absorption properties of infrared light within brain tissues using optic fibres placed on the surface of the head.
+The comparison of EEG/fMRI and EEG/NIRS offers a unique way to address in vivo the question of the integrity of the neurovascular coupling in the epileptic brain. In addition of studying brain mechanisms at the time of epileptic discharges, Dr. Grova is currently applying similar methodologies to study resting state functional connectivity in epilepsy patients.
+In July 2014, Christophe Grova became  an assistant Professor in the Physics Department and a researcher in the brand new multimodal imaging platform of the PERFORM centre at Concordia University, while remaining an adjunct Professor in Biomedical Engineering Department and Neurology and Neurosurgery Department of McGill University . This new imaging platform of PERFORM is equipped with a 3T MRI, simultaneous SPECT/CT and PET/CT devices, TMS and high density MR compatible EEG. His research projects are about to evolve to incorporate these new modalities, in order to study epileptic activity, but also many other applications in neurosciences including healthy aging, exercise and multimodal analysis of resting state functional connectivity.
+Selected publications
+Hedrich T, Pellegrino G, Kobayashi E, Lina JM, Grova C. " Comparison of the spatial resolution of source imaging techniques in high-density EEG and MEG. "
+Neuroimage. 2017 Aug 15;157:531-544. doi: 10.1016/j.neuroimage.2017.06.022. 
+Chowdhury RA, Merlet I, Birot G, Kobayashi E, Nica A, Biraben A, Wendling F, Lina JM, Albera L, Grova C.  Complex patterns of spatially extended generators of epileptic activity: Comparison of source localization methods cMEM and 4-ExSo-MUSIC on high resolution EEG and MEG data.
+Neuroimage. 2016 Dec;143:175-195. doi: 10.1016/j.neuroimage.2016.08.044
+Giovanni Pellegrino, Tanguy Hedrich, Rasheda Chowdhury, Jeffery A Hall, Jean‐Marc Lina, Francois Dubeau, Eliane Kobayashi, Christophe Grova, “Source localization of the seizure onset zone from ictal EEG/MEG data” , Hum. Brain Mapp. (2016) doi: 10.1002/hbm.23191
+Kangjoo Lee, Jean-Marc Lina, Jean Gotman and Christophe Grova, “SPARK: Sparsity-based analysis of reliable k-hubness and overlapping network structure in brain functional connectivity” , Neuroimage, vol. 134, pp. 434–449, April 2016
+Christophe Grova, Maria Aiguabella, Rina Zelmann, Jean‐Marc Lina, Jeffery A Hall, Eliane Kobayashi “Intracranial EEG potentials estimated from MEG sources: A new approach to correlate MEG and iEEG data in epilepsy” , Human Brain Mapping, Volume 37, Issue 5, pages 1661–1683, May 2016
+Nicolás von Ellenrieder, Giovanni Pellegrino, Tanguy Hedrich, Jean Gotman, Jean-Marc Lina, Christophe Grova, Eliane Kobayashi ‘“Detection and Magnetic Source Imaging of Fast Oscillations (40–160 Hz) Recorded with Magnetoencephalography in Focal Epilepsy Patients” , Brain TopographyMarch 2016, Volume 29, Issue 2, pp 218–231
+Giovanni Pellegrino, Alexis Machado, Nicolas von Ellenrieder, Satsuki Watanabe, Jeffery A Hall, Jean-Marc Lina, Eliane Kobayashi, Christophe Grova “Hemodynamic response to Interictal Epileptiform Discharges addressed by personalized EEG-fNIRS recordings” , Front. Neurotic., 2016 doi: 10.3389/fnins.2016.00102
+Chowdhury R. A., Zerouali Y., Hedrich T., Heers M., Kobayashi E.,  Lina J.M., Grova C. “MEG–EEG Information Fusion and Electromagnetic Source Imaging: From Theory to Clinical Application in Epilepsy” , Brain Topography, 2015 May 28, DOI: 10.1007/s10548–015–0437–3
+Heers M.,  Chowdhury R.A., Hedrich T., Dubeau F., Hall J. A., Lina J.M.,  Grova C., Kobayashi E., “Localization Accuracy of Distributed Inverse Solutions for Electric and Magnetic Source Imaging of Interictal Epileptic Discharges in Patients with Focal Epilepsy” ,  Brain Topography, 2015 Jan 22;  DOI: 10.1007/s10548–014–0423–1  [Epub ahead of print]
+Dansereau C, Bellec P, Lee K, Pittau F, Gotman J and Grova C (2014). “Detection of Abnormal Resting-state Networks in Individual Patients Suffering from Focal Epilepsy: An Initial Step toward Individual Connectivity Assessment” . Front. Neurosci. 8:419. doi: 10.3389/fnins.2014.00419
+Heers, M., Hedrich, T., An, D., Dubeau, F., Gotman, J., Grova, C. and Kobayashi, E., "Spatial correlation of hemodynamic changes related to interictal epileptic discharges with electric and magnetic source imaging" ,
+Hum. Brain Mapp., 2014; doi: 10.1002/hbm.22482
+Machado A, Marcotte O, Lina J, Kobayashi E, Grova C; "Optimal optode montage on electroencephalography/functional near-infrared spectroscopy caps dedicated to study epileptic discharges" , J. Biomed. Opt., 2014; 0001;19(2):026010.
+Chowdhury R.A., Lina J.M., Kobayashi E. and Grova C., "MEG Source Localization of Spatially Extended Generators of Epileptic Activity: Comparing Entropic and Hierarchical Bayesian Approaches" , PloS ONE, 2013;8(2):e55969
+Maneshi M., Moeller F., Gotman J. and Grova C., "Resting-State Connectivity of the Sustained Attention Network Correlates with Disease Duration in Idiopathic Generalized Epilepsy" , PloS ONE 2012;7(12):e50359
+Lina, J.M., Chowdhury, R.A., Lemay, E., Kobayashi, E., Grova, C, "Wavelet-Based Localization of Oscillatory Sources from Magnetoencephalography Data" , IEEE Trans. Biomed. Eng. 2012: Mar 6. [Epub ahead of print]
+Machado A., Lina J.M., Tremblay J., Lassonde M., Nguyen D.K., Lesage F. and Grova C, "Detection of Hemodynamic Responses to Epileptic Activity using Simultaneous Electro-EncephaloGraphy (EEG)/Near Infra Red Spectroscopy (NIRS) Acquisitions" , Neuroimage, 2011:56(1):11425
+Grova C., Daunizeau J., Kobayashi E., Bagshaw A.P., Lina J.M., Dubeau F., Gotman J, "Concordance between Distributed EEG Source Localization and Simultaneous EEG-fMRI Studies of Epileptic Spikes" , Neuroimage, 39(2):75574 (2008)
+Grova C., Daunizeau J., Lina J.M., Bnar C., Benali H. and Gotman J, "Evaluation of EEG Localization Methods using Realistic Simulations of Interictal Spikes" ,Neuroimage, 29(3):73453 (2006)
+Gotman J., Grova C., Bagshaw A.P., Kobayashi E., Aghakhani Y., Dubeau F., "Generalized Epileptic Discharges Show Thalamocortical Activation and Suspension of the Default State of the Brain" , Proc Natl Acad Sci USA., 102(42) pp. 1523615240 (2005)
+Daunizeau J., Grova C., Mattout J. Marrelec G., Clonda D., Goulard B., Plgrini-Isaac M., Lina J.M. and Benali H., "Assessing the relevance of fMRI-based prior in the EEG inverse problem: a Bayesian model comparison approach, IEEE Trans. on Signal Processing, special section on signal processing aspects of brain imaging" , 53(9) pp. 34613472 (2005)
+Grova C., Jannin P., Biraben A., Buvat I., Benali H., Bernard A.-M., Scarabin J.-M. and Gibaud B., "A Methodology for Generating Normal and Pathological Brain Perfusion SPECT Images for Evaluation of MRI/SPECT Fusion Methods: Application in Epilepsy" , Physics in medicine and biology, 48 pp. 40234043 (2003)
+Google Scholar Citations
+Back to top
+© Concordia University
+Concordia University - Call us at 514-848-2424
+About
+Academics
+Admissions
+Campus life
+Research
+International
+Future students
+Current students
+Alumni & friends
+Parents
+Faculty & staff
+Media
+Sir George Williams Campus
+1455 De Maisonneuve Blvd. W.
+Montreal, Quebec, Canada
+H3G 1M8
+See SGW Campus map
+Loyola Campus
+7141 Sherbrooke Street W.
+Montreal, Quebec, Canada
+H4B 1R6
+See Loyola Campus map
+facebook
+twitter
+google
+youtube
+linkedin
+pinterest
+instagram
+flickr
+Concordia social
+© Concordia University
+Terms
+Privacy
+Accessibility
+Website feedback
+Share this page
+Concordia.ca
+Call us at
+514-848-2424
+Sir George Williams Campus
+1455 De Maisonneuve Blvd. W.
+Montreal, Quebec, Canada
+H3G 1M8
+See SGW Campus map
+Loyola Campus
+7141 Sherbrooke Street W.
+Montreal, Quebec, Canada
+H4B 1R6
+See Loyola Campus map
+Website feedback
+Terms
+Privacy
+Accessibility
+© Concordia University

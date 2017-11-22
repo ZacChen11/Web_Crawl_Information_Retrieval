@@ -1,0 +1,430 @@
+Concordia University
+http://www.concordia.ca/content/concordia/en/it/services/fas-lab.html
+Study resources
+Calendar - Graduate
+Calendar - Undergraduate
+Class schedules
+Class cancellations
+Course registration
+Important academic dates
+More academic resources
+Campus services
+Concordia Stores
+IT services
+Job opportunities
+Security
+Shuttle bus
+Student Service Centre (Birks)
+All campus services
+What's new
+Calendar of events
+Latest news
+Media Relations
+Faculties, Schools & Colleges
+Arts and Science
+Engineering and Computer Science
+Fine Arts
+John Molson School of Business
+School of Graduate Studies
+All Schools, Colleges & Departments
+Quick links  
+Webmail Library Cspace
+Study resources  
+Calendar - Graduate
+Calendar - Undergraduate
+Class schedules
+Class cancellations
+Course registration
+Important academic dates
+More academic resources
+Campus services  
+Concordia Stores
+IT services
+Job opportunities
+Security
+Shuttle bus
+Student Service Centre (Birks)
+All campus services
+What's new  
+Calendar of events
+Latest news
+Media Relations
+Faculties, Schools & Colleges  
+Arts and Science
+Engineering and Computer Science
+Fine Arts
+John Molson School of Business
+School of Graduate Studies
+All Schools, Colleges & Departments
+Quick links The Campaign for Concordia
+MyConcordia
+Cspace
+Webmail
+Library
+Directories
+A-Z
+Maps
+Future students
+Student hub
+Alumni & friends
+Parents
+Faculty & staff
+Media
+Concordia University
+Concordia University
+IT Services
+Services
+Get help
+Get started
+IT security
+IT groups
+The Campaign for Concordia
+Study resources
+Calendar - Graduate
+Calendar - Undergraduate
+Class schedules
+Class cancellations
+Course registration
+Important academic dates
+More academic resources
+Campus services
+Concordia Stores
+IT services
+Job opportunities
+Security
+Shuttle bus
+Student Service Centre (Birks)
+All campus services
+What's new
+Calendar of events
+Latest news
+Media Relations
+Faculties, Schools & Colleges
+Arts and Science
+Engineering and Computer Science
+Fine Arts
+John Molson School of Business
+School of Graduate Studies
+All Schools, Colleges & Departments
+Quick links  
+Webmail Library Cspace
+Study resources  
+Calendar - Graduate
+Calendar - Undergraduate
+Class schedules
+Class cancellations
+Course registration
+Important academic dates
+More academic resources
+Campus services  
+Concordia Stores
+IT services
+Job opportunities
+Security
+Shuttle bus
+Student Service Centre (Birks)
+All campus services
+What's new  
+Calendar of events
+Latest news
+Media Relations
+Faculties, Schools & Colleges  
+Arts and Science
+Engineering and Computer Science
+Fine Arts
+John Molson School of Business
+School of Graduate Studies
+All Schools, Colleges & Departments
+Information for...
+Future students
+Student hub
+Alumni & friends
+Parents
+Faculty & staff
+Media
+Concordia
+Directories
+Search
+Concordia University
+IT Services
+Concordia.ca
+ / 
+IT services
+ / 
+Services
+ / 
+Computer & media labs - Faculty of Arts and Science
+Facebook
+Twitter
+LinkedIn
+GooglePlus
+Computer & media labs - Faculty of Arts and Science
+Concordia's Faculty of Arts and Science offers a wide range of computing resources and media-related equipment to their academic community. The labs on this page serve several purposes: open use for students registered in specific departments or courses, restricted use for pre-chosen graduate students, and/or reservable labs for teaching or training when clients require special equipment. Detailed information about each lab can be found listed within the associated department documentation.
+For a list of labs available to the entire Concordia community, visit the open use lab page.
+Related policy: Policy on computing facilities VPS-30
+Who can use it?
+Faculty, staff, and students
+For a more detailed explanation of eligibility, choose a lab from the documentation section below.
+How much does it cost?
+There is no cost associated with booking a lab. Technicians and additional equipment for non-academic events are subject to fees - consult the Equipment loan & rental page for more information.
+How to get it
+Open use hours of operation can be found within the individual lab descriptions.
+Staff and faculty can book a lab by submitting a request form or contacting the Service Desk
+Note: These labs are only available to Faculty of Arts & Science students, faculty, and staff.
+Documentation
+Department of Geography, Planning & Environment
+These labs are for use by members of the Geography, Planning & Environment (GPE) department. The open use lab may be used by undergraduate students in GPE courses with a computer lab component and all GPE grad students. The specialized research labs are only for use by select graduate students in the GPE department.
+Absolute priority is given to teaching or academic requests in the open use lab. The class schedule for each lab is posted at H-1254 and H1254-01.
+The specialized research labs are available to select grad students, and the students will be given a key to access the lab.
+Open use lab
+SGW H-1254.01
+This lab is available to undergraduate students and graduate students in the Department of Georgraphy, Planning & Environment. This lab does not require a key or access code during the hours of availability.  
+Hours of availability:
+Monday to Thursday:10am to 8pm, Fri-Sat-Sun: noon-5pm
+Service is greatly reduced in the summer months.
+Every year, this lab is booked exclusively for Intensive GIS the entire last 3 weeks of August.
+Support:
+During the lab's operating hours, there is an employee on-site to help with user support. For additional support, contact the Service Centre:
+Hall Building - H421
+Phone: 514-848-2424 ext. 7613 (computer issues) ext 3435 (AV issues) or
+help@concordia.ca
+Hardware:
+44 Intel Core i7-class computers, 2 overhead projectors and screens, 1 flatbed scanner, 1 large-format digitizer
+Printing:
+1 colour DPrint, 1 B&W Dprint - Xerox
+Software:
+Microsoft Office 2010 Enterprise (Word, Excel, Powerpoint), ArcGis, Sketchup, Gimp, Chrome, Internet Explorer, R, R-studio, Acrobat Reader X,7-zip, Flash Player VLC Player, Shockwave, Cute PDF
+Specialized research labs
+Specialized research labs are only available to certain graduate students in the Department of Geography, Planning & Environment. The professor responsibe for assigning space in each lab is listed within the lab description.
+H-1261.00 Landscape Ecology and Environmental Impact Assessment
+Support:
+Hall Building - H421 or H925
+Phone: 514-848-2424 ext. 7613 (computer issues) or
+help@concordia.ca
+Hardware:
+7 Intel Core i7-class computers
+Printing:
+1 colour DPrint, 1 B&W Dprint - Xerox
+Software:
+Microsoft Office 2010 Enterprise (Word, Excel, Powerpoint), ArcGis, Sketchup, Gimp, Chrome, Internet Explorer, R, R-studio, Acrobat Reader X,7-zip, Flash Player VLC Player, Shockwave, Cute PDF
+The professor responsible for assigning space in this lab is: Jochen Jaeger
+H-1263.00 River Management
+Support:
+Hall Building - H421 or H925
+Phone: 514-848-2424 ext. 7613 or
+help@concordia.ca
+Hardware:
+6 Intel Core i7-class computers
+Printing:
+1 colour DPrint, 1 B&W Dprint - Xerox
+Software:
+Microsoft Office 2010 Enterprise (Word, Excel, Powerpoint), ArcGis, Sketchup, Gimp, Chrome, Internet Explorer, R, R-studio, Acrobat Reader X,7-zip, Flash Player VLC Player, Shockwave, Cute PDF
+The professor responsible for assigning space in this lab is: Pascale Biron
+H-1265.00 Climate Lab
+Support:
+Hall Building - H421 or H925
+Phone: 514-848-2424 ext. 7613 or
+help@concordia.ca
+Hardware:
+8 Intel Core i7-class computers
+Printing:
+1 colour DPrint, 1 B&W Dprint - Xerox
+Software:
+Microsoft Office 2010 Enterprise (Word, Excel, Powerpoint), ArcGis, Sketchup, Gimp, Chrome, Internet Explorer, R, R-studio, Acrobat Reader X,7-zip, Flash Player VLC Player, Shockwave, Cute PDF
+The professor responsible for assigning space in this lab is: Damon Matthews
+H-1260 Geomedia Lab
+Support:
+Hall Building - H421 or H925
+Phone: 514-848-2424 ext. 7613 or
+help@concordia.ca
+Hardware:
+4 Intel Core i7-class computers
+Printing:
+1 colour DPrint, 1 B&W Dprint - Xerox
+Software:
+Microsoft Office 2010 Enterprise (Word, Excel, Powerpoint), ArcGis, Sketchup, Gimp, Chrome, Internet Explorer, R, R-studio, Acrobat Reader X,7-zip, Flash Player VLC Player, Shockwave, Cute PDF
+The professor responsible for assigning space in this lab is: Sébastien Caquard
+H-1013 TRIP (Transportation Research for Integrated Planning) Lab
+Support:
+Hall Building - H421 or H925
+Phone: 514-848-2424 ext. 7613 or
+help@concordia.ca
+Hardware:
+8 Intel Core i7-class computers
+Printing:
+1 colour DPrint, 1 B&W Dprint - Xerox
+Software:
+Microsoft Office 2010 Enterprise (Word, Excel, Powerpoint), ArcGis, Sketchup, Gimp, Chrome, Internet Explorer, R, R-studio, Acrobat Reader X,7-zip, Flash Player VLC Player, Shockwave, Cute PDF
+The professor responsible for assigning space in this lab is: Zachary Patterson
+Program-based labs
+Specialized research labs are only available to students in certain departments within Geography, Planning & Environment. The department responsibe for the lab assigns space on a 2-year term. 
+H-1240 M.Env. Research Lab
+Support:
+Hall Building - H421 or H925
+Phone: 514-848-2424 ext. 7613 or
+help@concordia.ca
+Hardware:
+8 Intel Core i7-class computers
+Printing:
+1 colour DPrint, 1 B&W Dprint - Xerox
+Software:
+Microsoft Office 2010 Enterprise (Word, Excel, Powerpoint), ArcGis, Sketchup, Gimp, Chrome, Internet Explorer, R, R-studio, Acrobat Reader X,7-zip, Flash Player VLC Player, Shockwave, Cute PDF
+H-1255-34 MSc. Lab
+Support:
+Hall Building - H421 or H925
+Phone: 514-848-2424 ext. 7613 or
+help@concordia.ca
+Hardware:
+6 Intel Core i7-class computers
+Printing:
+1 colour DPrint, 1 B&W Dprint - Xerox
+Software:
+Microsoft Office 2010 Enterprise (Word, Excel, Powerpoint), ArcGis, Sketchup, Gimp, Chrome, Internet Explorer, R, R-studio, Acrobat Reader X,7-zip, Flash Player VLC Player, Shockwave, Cute PDF
+H-1255-30 MSc. Lab
+Support:
+Hall Building - H421 or H925
+Phone: 514-848-2424 ext. 7613 or
+help@concordia.ca
+Hardware:
+3 Intel Core i7-class computers
+Printing:
+1 colour DPrint, 1 B&W Dprint - Xerox
+Software:
+Microsoft Office 2010 Enterprise (Word, Excel, Powerpoint), ArcGis, Sketchup, Gimp, Chrome, Internet Explorer, R, R-studio, Acrobat Reader X,7-zip, Flash Player VLC Player, Shockwave, Cute PDF
+Arts and Science Learning Centre
+The Loyola Learning Studio (CC-203)
+The Loyola Learning Studio is available to students registered in specific courses within the Faculty of Arts and Science, professors for computer-aided lectures, and for group trainings.
+The room has 37-seat capacity plus the teacher's station. It is equipped with PC computers running Windows 7. The layout is permanent and cannot be reconfigured.
+Open use availability: Currently Not Available.
+During the hours of availability, the lab is subject to reservations and the availability may change without notice.
+Support:
+CC Building - CC-207
+Phone: 514-848-2424, ext. 3466 or 7613
+help@concordia.ca
+Hardware:
+2 video projectors, interactive pen display, 2 72” permanently tensioned screens, ceiling-mounted speakers, VCR, DVD, 37 PCs (including teacher station)
+Software:
+Windows 7 Enterprise, Microsoft Office 2013 Professional, Audacity, SPSS, Mathematica, Maple, STATA SE
+The Interactive Teaching Studio (H-443)
+This room is available to professors giving multimedia lectures, students doing thesis defense or job interviews via video conference, as well as group meetings requiring IP based video conferencing technology.
+The room has 30-seat capacity in a classroom-style layout. The layout is permanent and cannot be reconfigured.
+This room is not a multi-station computer lab.
+Open use availability: Currently Not Available.
+During the hours of availability, the lab is subject to reservations and the availability may change without notice.
+Support:
+Hall Building - H-421
+Phone: 514-848-2424 ext. 3435 or 7613
+help@concordia.ca
+Hardware:
+Video projector, interactive pen display, desktop microphones for students, wall-mounted speakers, 2 video cameras for videoconferencing (front and back of room), 1 PC (for teacher station), laptop hookup, multi-source control unit, lecture podium
+Teacher station software:
+Windows 7 Enterprise, Microsoft Office 2013 Professional, Audacity, SPSS , Mathematica , SAS, Maple, R, STATA SE
+The Multimedia Language Studio (H-447)
+The Multimedia Language Studio is available to students registered in specific courses within the Faculty of Arts and Science, to professors for computer-aided lectures, and for group trainings.
+The room has 39-seat capacity plus the teacher's station and one wheelchair accessible station. The layout is permanent and cannot be reconfigured.
+Hours of availability: Currently Not Available.
+During the hours of availability, the lab is subject to reservations and the availability may change without notice.
+Support:
+Hall Building - H-421
+Phone: 514-848-2424 ext 3435 or 7613
+help@concordia.ca
+Hardware:
+2 video projectors, 2 projection screens (front and back of studio), interactive pen display, ceiling-mounted speakers, DVD, laptop hookup, embedded multi-source control unit
+Software:
+Windows 7 Enterprise, Microsoft Office 2013 Professional, SPSS, Mathematica, SAS, Maple, R, STATA SE, Scientific Notebook, Audacity, SDL Studio 2015, Projetex 10. 
+The Distance Learning Studio (H-449)
+The Distance Learning Studio is available to students registered in distance-learning courses within the Faculty of Arts and Science. It has a 32-seat capacity plus the teacher's station and is equipped with Apple iMac 27” computers with dual boot systems (MAC OS X and Windows 7).
+Hours of availability: Currently Not Available.
+During the hours of availability, the lab is subject to reservations and the availability may change without notice.
+Support:
+Hall Building - H-421
+Phone: 514-848-2424 ext 3435 or 7613
+help@concordia.ca
+Hardware:
+31 Apple iMac 27” computers, video projector, interactive pen display
+Software:
+Windows Partition: Windows 7 Enterprise, Microsoft Office 2013 Professional, SPSS, Mathematica, SAS, Maple, R, STATA SE, Audacity, SDL Studio 2015, Projetex 10
+Apple OS X Partition: Apple OS X 10.9, Microsoft Office 2011, SPSS, Mathematica, Maple,  Firstclass, Keynote Numbers, Pages. 
+FAQ
+What are the lab regulations?
+1. Food and drink are strictly prohibited.
+2. Phone calls should not be answered in the lab.
+3. Users must treat the equipment with respect, and be conscious of the students around them.
+How do I log onto the computer?
+To access the computer, you must log in using the same netname and password as the MyConcordia Portal.
+Can I install software on a lab computer?
+Yes – additional software installations can be requested in computer labs. For more information on how to request additional software, visit the Classroom and lab software installation page. 
+How do I book a lab?
+To book a lab, submit a completed Computer & media labs request form .
+How do I request headsets or extra equipment for a lab?
+You can request additional equipment in your lab using the Computer & media labs request form .
+Example:
+      
+See also:
+Computer & media labs - teaching use
+Computer & media labs - open use
+Computer, media labs & performance spaces - Faculty of Fine Arts
+Was this page useful to you?
+Rate
+This form is for feedback only. Technical support requests should be submitted by email to help@concordia.ca or phone 514-848-2424, ext. 7613.
+Page suggestions:
+Submit
+Computer & media lab request form
+Back to top
+© Concordia University
+Concordia University - Call us at 514-848-2424
+About
+Academics
+Admissions
+Campus life
+Research
+International
+Future students
+Current students
+Alumni & friends
+Parents
+Faculty & staff
+Media
+Sir George Williams Campus
+1455 De Maisonneuve Blvd. W.
+Montreal, Quebec, Canada
+H3G 1M8
+See SGW Campus map
+Loyola Campus
+7141 Sherbrooke Street W.
+Montreal, Quebec, Canada
+H4B 1R6
+See Loyola Campus map
+facebook
+twitter
+google
+youtube
+linkedin
+pinterest
+instagram
+flickr
+Concordia social
+© Concordia University
+Terms
+Privacy
+Accessibility
+Website feedback
+Share this page
+Concordia.ca
+Call us at
+514-848-2424
+Sir George Williams Campus
+1455 De Maisonneuve Blvd. W.
+Montreal, Quebec, Canada
+H3G 1M8
+See SGW Campus map
+Loyola Campus
+7141 Sherbrooke Street W.
+Montreal, Quebec, Canada
+H4B 1R6
+See Loyola Campus map
+Website feedback
+Terms
+Privacy
+Accessibility
+© Concordia University

@@ -1,0 +1,380 @@
+Concordia University
+https://www.concordia.ca/content/concordia/en/faculty.html
+Study resources
+Calendar - Graduate
+Calendar - Undergraduate
+Class schedules
+Class cancellations
+Course registration
+Important academic dates
+More academic resources
+Campus services
+Concordia Stores
+IT services
+Job opportunities
+Security
+Shuttle bus
+Student Service Centre (Birks)
+All campus services
+What's new
+Calendar of events
+Latest news
+Media Relations
+Faculties, Schools & Colleges
+Arts and Science
+Engineering and Computer Science
+Fine Arts
+John Molson School of Business
+School of Graduate Studies
+All Schools, Colleges & Departments
+Quick links  
+Webmail Library Cspace
+Study resources  
+Calendar - Graduate
+Calendar - Undergraduate
+Class schedules
+Class cancellations
+Course registration
+Important academic dates
+More academic resources
+Campus services  
+Concordia Stores
+IT services
+Job opportunities
+Security
+Shuttle bus
+Student Service Centre (Birks)
+All campus services
+What's new  
+Calendar of events
+Latest news
+Media Relations
+Faculties, Schools & Colleges  
+Arts and Science
+Engineering and Computer Science
+Fine Arts
+John Molson School of Business
+School of Graduate Studies
+All Schools, Colleges & Departments
+Quick links The Campaign for Concordia
+MyConcordia
+Cspace
+Webmail
+Library
+Directories
+A-Z
+Maps
+Future students
+Student hub
+Alumni & friends
+Parents
+Faculty & staff
+Media
+Concordia University
+Concordia University
+MyConcordia Shuttle bus Maps
+About
+Administration & governance
+Strategic directions
+Quartier Concordia
+History
+Working at Concordia
+Sustainability hub
+Community engagement
+Indigenous Directions
+Quick links
+Fast facts
+Offices A-Z
+News
+Events
+Academics
+Undergraduate programs
+Graduate programs
+Faculties, Schools & Colleges
+Continuing education
+Co-operative education
+Online courses
+Study abroad
+Quick links
+Student Success Centre
+Graduate & Professional Skills
+Academic integrity
+Recruitment events
+Admissions
+Undergraduate
+Graduate
+International student admissions
+Financial aid & awards
+Tours & events
+Quick links
+Tuition & fees
+Student housing
+Concordia Continuing Education
+Campus life
+Arts & culture hub
+Athletics
+Get involved
+Food & housing
+Orientation & new students
+Recreation, sports & fitness
+Services & support
+Quick links
+Student Success Centre
+Residence life
+Jobs on campus
+University of the Streets Café
+Dean of Students
+Sustainability Hub
+Research
+Research units
+Research Chairs
+Resources for researchers
+Students and postdocs
+Funding opportunities
+Quick links
+Strategic research plan
+Explore research, teaching & learning
+ConRAD
+About the research sector
+International
+International student admissions
+Visiting & exchange students
+Partnerships
+Academic visitors
+Quick links
+Concordia International
+International Students Office
+Global alumni
+Cotutelle
+The Campaign for Concordia
+Study resources
+Calendar - Graduate
+Calendar - Undergraduate
+Class schedules
+Class cancellations
+Course registration
+Important academic dates
+More academic resources
+Campus services
+Concordia Stores
+IT services
+Job opportunities
+Security
+Shuttle bus
+Student Service Centre (Birks)
+All campus services
+What's new
+Calendar of events
+Latest news
+Media Relations
+Faculties, Schools & Colleges
+Arts and Science
+Engineering and Computer Science
+Fine Arts
+John Molson School of Business
+School of Graduate Studies
+All Schools, Colleges & Departments
+Quick links  
+Webmail Library Cspace
+Study resources  
+Calendar - Graduate
+Calendar - Undergraduate
+Class schedules
+Class cancellations
+Course registration
+Important academic dates
+More academic resources
+Campus services  
+Concordia Stores
+IT services
+Job opportunities
+Security
+Shuttle bus
+Student Service Centre (Birks)
+All campus services
+What's new  
+Calendar of events
+Latest news
+Media Relations
+Faculties, Schools & Colleges  
+Arts and Science
+Engineering and Computer Science
+Fine Arts
+John Molson School of Business
+School of Graduate Studies
+All Schools, Colleges & Departments
+Information for...  
+Future students
+Student hub
+Alumni & friends
+Parents
+Faculty & staff
+Media
+Concordia
+Directories
+Search
+Concordia University
+Home
+ / 
+Faculty
+Facebook
+Twitter
+LinkedIn
+GooglePlus
+Gilles Peslherbe, PhD
+Professor, Chemistry and Biochemistry
+Director, Centre for Research in Molecular Modeling (CERMM)
+Biography    Teaching    Research activities    Publications   
+Office:
+L-SP 275-19  
+Richard J. Renaud Science Complex,
+7141 Sherbrooke W.
+Phone:
+(514) 848-2424 ext. 3335
+Email:
+Gilles.Peslherbe@concordia.ca
+Website(s):
+Gilles Peslherbe Website
+Horizon Post-Doctoral Fellowship Available
+Gilles Peslherbe's Explore Concordia page
+Education
+Diplôme d'Ingénieur Chimiste (Ecole Supérieure de Chimie Industrielle de Lyon, France)
+PhD in Physical Chemistry with Minor in Computer Engineering (Wayne State University, USA)
+Research interests
+Physical, Theoretical and Computational Chemistry, Biophysical Chemistry, Chemical Physics.and Biology
+Teaching
+CHEM 235 - Kinetics of Chemical Reactions
+CHEM 333 - Introduction to Quantum Theory
+CHEM 431/631 - Computational Chemistry for Chemists and Biochemists
+CHEM 498Q/630Q - Statistical Mechanics
+For additional information, see course websites on  Moodle
+(registered students and users only)
+Research activities
+Our research focuses on theoretical studies of chemical reaction dynamics in various phases of nature. With the recent advances in femtosecond spectroscopy, which now permit the observation of chemical reactions in real time, there is an ever increasing interest in such theoretical studies, as they can predict, explain and guide experiments. In particular, molecular dynamics simulations allow one to simulate the motion of atoms and molecules at the microscopic level as chemical reactions occur, providing invaluable information about their molecular mechanisms and kinetics. Dynamical studies are essential since they provide a link between potential energy surfaces determined by electronic structure calculations and experimental measurements of the chemical dynamics and thermodynamics. Because chemical reactions occur in various phases of nature, our research involves reactive systems in the gas phase, condensed phases, and clusters, which are considered to be novel intermediate states of matter. Clusters can be used as tools for selective microsolvation, or they can be a distinct class of materials with unique properties.
+Our computer simulations typically involve high-performance scientific computing on state-of-the art workstations and supercomputers, and we make use of a wide arsenal of computational tools which take their roots in quantum chemistry, classical and quantum mechanics, and statistical thermodynamics. Extensive use is made of semiempirical, approximate and ab initio electronic structure theory, both in the gas-phase and in solution, molecular modeling, molecular dynamics and pioneering first-principles simulation techniques. We are particularly interested in studying solvation effects and dynamics in liquids and small clusters, organic and biologically relevant reactions, photochemical processes, metal and semiconductor cluster fragmentation, environmentally and technologically relevant chemical reactions, cluster and materials science in general. We maintain an intensive collaboration with renown experimentalists worldwide, as connection with experiment is crucial for assessing the reliability of our computer simulations and theoretical models, which, in turn can be used to improve our fundamental understanding of chemistry.
+Areas of method development and application:
+• Nanomaterials and materials science
+• Photochemistry and ultrasfast spectroscopy
+• Water structure and solvation effects on chemical structure and reactivity
+• Chemical biology
+• First-principles, approximate and efficient molecular dynamics simulations
+Selected on-going research projects:
+• Carbon chemistry, encapsulation and spin catalysis
+• Dense transition metal nitride nanoparticles
+• Cluster materials and amorphous materials (such as glasses)
+• Catalysis of chemical reactions by clusters, surfaces and zeolites
+• Chemistry with a hammer (how to induce chemical reactions that do not occur under normal conditions)
+• Charge-transfer-to-solvent phenomena in clusters
+• Excited-state electron and molecular dynamics and femtosecond spectroscopy
+• Water in confined environments
+• Microsolvation in chemical reaction dynamics
+• Solvation structure of molecular ions, thermodynamics and spectroscopy
+• Molecular ions at interfaces and their effects on phase behavior and role in biology
+• Diffusion and reaction of small molecules in proteins (myoglobin, hemoglobin, GAPDH)
+• Enhanced sampling molecular dynamics simulations of proteins
+• Small-molecule permeation of lipid bilayers
+Publications
+Selected Refereed Journal Articles
+Grygoriy A. Dolgonos* and Gilles H. Peslherbe, “Can two H2 Molecules be Inserted into C60 - an Accurate First-Principles Exploration of Structural, Energetic and Vibrational Properties of the 2H2@C60 Complex”, Chemical Physics Letters 663, 104-110 (2016).
+Oleksiy V. Khavryuchenko* and Gilles H. Peslherbe, “Spin Catalysis over Conductive Solids: Enhancing the Rate of Model C-C Bond Cracking over Carbon Nanoparticles, ChemCatChem 8, 3156-3160 (2016).
+Anthony A. Noce* and Gilles H. Peslherbe, “Transitioning to a Hydrogen Economy: Kinetic Isotope Effects of Stratospheric Monodeuterated Hydrogen Accumulation”, International Journal of Hydrogen Energy 41, 15373–15387 (2016).
+Maria Shadrina,* Ann M. English and Gilles H. Peslherbe, “Benchmarking Rapid TLES Simulations of Gas Diffusion in Proteins: Mapping O2 Migration and Escape in Myoglobin as a Case Study”, Journal of Chemical Theory and Computation 12, 2038-2046 (2016).
+Maria Shadrina,* Gilles H. Peslherbe and Ann M. English, “O2 and Water Migration Pathways between the Solvent and Heme Pockets of Hemoglobin with Open and Closed Conformations of the Distal HisE7”, Biochemistry 54, 5279-5289 (2015).
+Maria Shadrina,* Gilles H. Peslherbe and Ann M. English, “Quaternary-Linked Changes in Structure and Dynamics That Modulate O2 Migration within Hemoglobin's Gas Diffusion Tunnels”, Biochemistry 54, 5268-5278 (2015).
+Oleksiy V. Khavryuchenko,* Lidong Wang, Dariusz Mitoraj, Gilles H. Peslherbe and Radim Beranek, “Enabling Visible-Light Water Photooxidation by Coordinative Incorporation of Co(II/III) Cocatalytic Sites into Organic-Inorganic Hybrids: Quantum-Chemical Modeling and Photoelectrochemical Performance”, special issue honoring Rudi van Eldik, Journal of Coordination Chemistry 68, 3317-3327 (2015).
+Bilkiss B. Issack* and Gilles H. Peslherbe, “Effect of Cholesterol on the Thermodynamics and Kinetics of Passive Transport of Water through Lipid Membranes”, special issue honoring Branka Ladanyi, Journal of Physical Chemistry B 119, 9391-9400 (2015).
+Oleksiy V. Khavryuchenko,* Gilles H. Peslherbe and Frank Hagelberg, “A Spin Filter Circuit Design Based on a Finite Single-Walled Carbon Nanotube of the Zigzag Type”, Journal of Physical Chemistry C 119, 3740–3745 (2015).
+Soran Jahangiri,* Valéry Legris-Falardeau* and Gilles H. Peslherbe, “Computational Investigation of the Hydration of Alkyl Diammonium Cations in Water Clusters”, Chemical Physics Letters 621, 85-90 (2015).
+Grygoriy Dolgonos* and Gilles H. Peslherbe, “Encapsulation of Diatomic Molecules in Fullerene C60: Implications for their Main Properties”, Physical Chemistry Chemical Physics 16, 26294-26305 (2014).
+Soran Jahangiri,* Lemin Cai* and Gilles H. Peslherbe, “Performance of Density-Functional Tight-Binding Models in Describing Hydrogen-Bonded Anionic-Water Clusters”, Journal of Computational Chemistry 35, 1707-1715 (2014). Made the cover of the journal issue.
+Oleksiy V. Khavryuchenko,* Volodymyr D. Khavryuchenko and Gilles H. Peslherbe, “Density Functional Theory versus Complete Active Space Self-Consistent Field Investigation of the Half-Metallic Character of Graphite-Like and Amorphous Carbon Nanoparticles”, Journal of Physical Chemistry A 118, 7052-7057 (2014).
+Chun C. Mak* and Gilles H. Peslherbe, “Relaxation Pathways of Photoexcited Iodide-Methanol Clusters: A Computational Investigation”, Journal of Physical Chemistry A 118, 4494-4501 (2014).
+Chun C. Mak,* Qadir K. Timerghazin* and Gilles H. Peslherbe, “Photoexcitation and Charge-Transfer-to-Solvent Relaxation Dynamics of the I–(CH3CN) Complex”, special issue honoring Joel Bowman, Journal of Physical Chemistry A 117, 7595–7605 (2013).
+Soran Jahangiri,* Grygoriy A. Dolgonos,* Thomas Frauenheim and Gilles H. Peslherbe, “Parameterization of New Elements for Self-Consistent-Charge Density-Functional Tight-Binding: Investigation of Halide Hydration”, Journal of Chemical Theory and Computation 9, 3321-3332 (2013).
+Soran Jahangiri,* Sean M. Mercer, Philip G. Jessop and Gilles H. Peslherbe, “Computational Investigation of the Hydration of Alkyl Diammonium Chlorides and their Effect on THF/Water Phase Separation”, Journal of Physical Chemistry B 26, 8010-8017 (2013).
+Lei Zhang,* Heidi M. Muchall and Gilles H. Peslherbe, “Substituent Effects in the Absorption Spectra of Phenol Radical Species: Origin of the Red Shift Caused by 3,5-dimethoxyl Substitution”, Photochemistry and Photobiology 89, 536-544 (2013).
+Oleksiy V. Khavryuchenko,* Nataliya V. Stus and Gilles H. Peslherbe, “Structural and Spin Properties of (PO2)4(WO3)8 Model Bronzes from Density-Functional Theory Calculations”, Solid State Communications 152, 2138-2141 (2012).
+Pradeep R. Varadwaj,* Arpita Varadwaj and Gilles H. Peslherbe, “An Electronic Structure Theory Investigation of the Physical Chemistry of the Intermolecular Complexes of Cyclopropenylidene with Hydrogen Halides”, Journal of Computational Chemistry 33, 2073-2082 (2012).
+Maria Shadrina,* Ann M. English and Gilles H. Peslherbe, “Effective Simulations of Gas Diffusion Through Kinetically Accessible Tunnels in Multisubunit Proteins: O2 Pathways and Escape Routes in T-state Deoxyhemoglobin”, Journal of the American Chemical Society 134, 11177–11184 (2012).
+Chun C. Mak,* Qadir K. Timerghazin* and Gilles H. Peslherbe, “Photoinduced Electron Transfer and Solvation Dynamics in Aqueous Clusters: Comparison of the Photoexcited Iodide-Water Pentamer and the Water Pentamer Anion”, special issue on Ultrafast Chemical Dynamics, Physical Chemistry Chemical Physics 14, 6250-6258 (2012).
+Sean M. Mercer, Tobias Robert, Daniel V. Dixon, Chien-Shun Chen, Zahra G. Rahami, Jitendra R. Harjani, Soran Jahangiri,* Gilles H. Peslherbe and Philip G. Jessop, “Design, Synthesis, and Solution Behavior of Small Polyamines as Switchable Water Additives”, Green Chemistry 14, 832-839 (2012).
+Qadir K. Timerghazin,* Inessa Rizvi* and Gilles H. Peslherbe, “Can a Dipole-Bound Electron Form a Pseudo-Atom? An Atoms-In-Molecules Study of the Hydrated Electron”, special issue honoring Richard Bader, Journal of Physical Chemistry A 115, 13201–13209 (2011).
+Pradeep R. Varadwaj,* Arpita Varadwaj, Gilles H. Peslherbe and Helder M. Marques, “A Conformational Analysis of 18-Azacrown-6 and its Bonding With Late First Transition Series Divalent Metals: Insight from DFT Combined with NPA and QTAIM Analyses”, special issue honoring Richard Bader, Journal of Physical Chemistry A 115, 13180–13190 (2011).
+Oleksiy V. Khavryuchenko,* Volodymyr D. Khavryuchenko, Vladyslav V. Lisnyak and Gilles H. Peslherbe, “A Density-Functional Theory Investigation of the Electronic Structure of the Active Carbon Graphite-like and Amorphous Domains”, Chemical Physics Letters 513, 261–266 (2011).
+Grygoriy A. Dolgonos* and Gilles H. Peslherbe, “Conventional and Density-Fitting Local Møller–Plesset Theory Calculations of C60 and its Endohedral H2@C60 and 2H2@C60 Complexes”, Chemical Physics Letters 513, 236-240 (2011).
+Tao-Nhan V. Nguyen,* Qadir K. Timerghazin,* Holger Vach and Gilles H. Peslherbe, “Mechanically-Induced Generation of Highly Reactive Excited-State Oxygen Molecules in Clusters”, Journal of Chemical Physics 134, 064305 (2011).
+Lei Zhang,* Gilles H. Peslherbe and Heidi M. Muchall, “A General Measure of Conjugation in Biphenyls and Their Radical Cations”, special issue Honoring Russ Boyd, Canadian Journal of Chemistry 88, 1175-1185 (2010).
+Samir H. Mushrif,* Alejandro D. Rey and Gilles H. Peslherbe, “Energetics and Dynamics of Hydrogen Adsorption, Desorption and Migration on a Carbon-Supported Palladium Cluster”, Journal of Materials Chemistry 20, 10503-10510 (2010).
+Samir H. Mushrif,* Alejandro D. Rey and Gilles H. Peslherbe, “Towards Understanding Palladium Doping of Carbon Supports: a First-Principles Molecular Dynamics Investigation”, Communication,  Journal of Materials Chemistry 20, 6859-6862 (2010).
+Lisandro Hernández de la Peña* and Gilles H. Peslherbe, “Quantum Effects on the Free Energy of Ionic Aqueous Clusters Evaluated by Nonequilibrium Computational Methods”, Journal of Physical Chemistry B 114, 5404-5411 (2010).
+Selected Refereed Articles in Conference Proceedings
+Lei Zhang,* Gilles H. Peslherbe and Heidi M. Muchall, “Issues with Computational Studies of Photo-induced Degradations of Lignin Model Compounds”, Proceedings of the Third Fundamental and Applied Pulp & Paper Molecular Modeling Symposium, edited by Roger Gaudreault and Michael A. Whitehead, Cascades Inc., 2012.
+Chun C. Mak,* Denise M. Koch* and Gilles H. Peslherbe, “Large-Scale First-Principles Molecular Dynamics Simulations: Application to the Microsolvation of Biologically-Relevant Ions in Aqueous Clusters”, Proceedings of the 25th High-Performance Computing Symposium, Journal of Physics Conference Series 341, 012010, 2012.
+Denise M. Koch,* Qadir K. Timerghazin,* and Gilles H. Peslherbe, “Simulating Realistic and Nonadiabatic Chemical Dynamics: Application to Photochemistry and Electron Transfer Reactions”, in Partial Differential Equations in Science and Engineering, Proceedings and Lecture Notes of the Centre de Recherche Mathématiques, edited by André Bandrauk and Michel Delfour, 2006.
+Gilles H. Peslherbe, Qadir K. Timerghazin* and Denise M. Koch,* “First-Principles Molecular and Reaction Dynamics Simulations: Application to the Structure, Thermodynamics and Photochemistry of Ionic Aqueous Clusters”, Proceedings of the International Conference of Computational Methods in Sciences and Engineering 2005, Lecture Series on Computer and Computational Sciences, Brill Academic Publishers, 2005.
+Selected Refereed Book Chapters and Invited Review Articles
+Chun C. Mak* and Gilles H. Peslherbe, “New Developments in First-Principles Excited-State Dynamics Simulations: Unveiling the Solvent-Specificity of Excited Anionic Cluster Relaxation and Electron Solvation”, in Recent Advances in the Molecular Simulation of Chemical Reactions, special issue of Molecular Simulation, Taylor and Francis, 2014. DOI: 10.1080/08927022.2014.945083
+Samir H. Mushrif,* Gilles H. Peslherbe and Alejandro D. Rey. “Molecular Modeling: Application to Hydrogen Interaction with Carbon–Supported Transition Metal Systems”. in Chemical Sensors: Simulation and Modeling – Vol. 3, edited by Ghenadii Korotcenkov, Momentum Press, New York, 2012.
+Lei Zhang,* Gilles H. Peslherbe and Heidi M. Muchall, “Computational Study of the Photolytic Decomposition of Acetone”, in Cascades Festshrift in Honour of Profesoor Emeritus M.A. (Tony) Whitehead, edited by Roger Gaudreault, Cascades Inc., 2010.
+Grygoriy A. Dolgonos* and Gilles H. Peslherbe, “Density-Functional Theory Investigations of Fullerene Fragmentation Reactions”, in Density-Functional Theory Calculations on Fullerenes and Carbon Nanotubes, edited by Vladimir Basiuk and Stephan Irle, Old City Publishing, 2007.
+Gilles H. Peslherbe, Haobin Wang and William L. Hase, “Monte Carlo Sampling for Classical Trajectory Simulations”, in Advances in Chemical Physics, Vol. 105, Monte Carlo Methods in Chemical Physics, edited by David M. Ferguson, J. Ilja Siepmann and Donald G. Truhlar, John Wiley & Sons, 1998.
+Kim Bolton, William L. Hase, and Gilles H. Peslherbe, “Direct Dynamics Simulations of Reactive Systems”, in Modern Methods for Multidimensional Dynamics Computations in Chemistry, edited by Donald L. Thompson, World Scientific, 1998.
+William L. Hase, Haobin Wang and Gilles H. Peslherbe, “Dynamics of Gas-Phase SN2 Nucleophilic Substitution Reactions”, in Advances in Gas Phase Ion Chemistry, Vol. 3, edited by Lucia M. Babcock and Nigel G. Adams, JAI Press, Greenwich, Connecticut, 1997.
+Back to top
+© Concordia University
+Concordia University - Call us at 514-848-2424
+About
+Academics
+Admissions
+Campus life
+Research
+International
+Future students
+Current students
+Alumni & friends
+Parents
+Faculty & staff
+Media
+Sir George Williams Campus
+1455 De Maisonneuve Blvd. W.
+Montreal, Quebec, Canada
+H3G 1M8
+See SGW Campus map
+Loyola Campus
+7141 Sherbrooke Street W.
+Montreal, Quebec, Canada
+H4B 1R6
+See Loyola Campus map
+facebook
+twitter
+google
+youtube
+linkedin
+pinterest
+instagram
+flickr
+Concordia social
+© Concordia University
+Terms
+Privacy
+Accessibility
+Website feedback
+Share this page
+Concordia.ca
+Call us at
+514-848-2424
+Sir George Williams Campus
+1455 De Maisonneuve Blvd. W.
+Montreal, Quebec, Canada
+H3G 1M8
+See SGW Campus map
+Loyola Campus
+7141 Sherbrooke Street W.
+Montreal, Quebec, Canada
+H4B 1R6
+See Loyola Campus map
+Website feedback
+Terms
+Privacy
+Accessibility
+© Concordia University

@@ -1,0 +1,61 @@
+Flickr logo. If you click it, you'll go home
+Sign Up
+Explore
+Recent Photos
+Trending
+Flickr VR
+The Commons
+Galleries
+World Map
+Camera Finder
+The Weekly Flickr
+FlickrBlog
+Create
+Upload
+Sign In
+The Flickr
+Developer Guide
+Home   |   API   |   Community   |   Business   |   Attributions
+Flickr API Changelog
+What is Flickr?
+Flickr is almost certainly the best online photo management and sharing application in the world. On Flickr, members upload photos, share them securely, supplement their photos with metadata like license information, geo-location, people, tags, etc., and interact with their family, friends, contacts or anyone in the community. Practically all the features on Flickr's various platforms -- web, mobile and desktop -- are accompanied by a longstanding API program. Since 2005, developers have collaborated on top of Flickr's APIs to build fun, creative, and gorgeous experiences around photos that extend beyond Flickr.
+Getting the most out of the Flickr API
+We encourage all sorts of integrations, such as features and products that:
+Help people make their photos available to people who matter to them
+Enable new ways of organizing photos and videos
+Are fun!
+The best integrations contribute to the Flickr community by encouraging members to converse, share, and curate. Integrations that primarily use Flickr as a photo storage service or a stock imagery provider miss the point behind photo sharing (as well as violate the Community Guidelines ). In other words, participate!
+So how do you participate? We pulled together some guidelines for you here. Since the internet tends to be a fast moving place, please check back here often for updates, and we also have a Changelog to help you track changes to these Guidelines.
+If you're a developer who would like to build something neat with the data on Flickr, everything you need to know to get started is right here. Just keep in mind that you're working with other peoples' photography, so please respect them and the Flickr Community Guidelines .
+The Flickr API
+With over 5 billion photos (many with valuable metadata such as tags, geolocation, and Exif data), the Flickr community creates wonderfully rich data. The Flickr API is how you can access that data. In fact, almost all the functionality that runs flickr.com is available through the API. And the API is completely free to use, as a service to our members as well as developers and other integrators, so they can create even more ways to interact with photos beyond flickr.com.
+Still have questions? Check out code.flickr.com or the FAQs !
+Next: API »
+About
+Jobs
+Blog
+Mobile
+Developers
+Guidelines
+Feedback
+Report abuse
+Help forum
+English
+繁體中文
+Deutsch
+English
+Español
+Français
+한글
+Italiano
+Português
+Tiếng Việt
+Bahasa Indonesia
+Privacy
+Terms
+Yahoo Safely
+Help
+Flickr, a Yahoo company
+Tumblr
+Facebook
+Twitter

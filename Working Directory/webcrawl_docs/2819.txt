@@ -1,0 +1,296 @@
+Flickr logo. If you click it, you'll go home
+Sign Up
+Explore
+Recent Photos
+Trending
+Flickr VR
+The Commons
+Galleries
+World Map
+Camera Finder
+The Weekly Flickr
+FlickrBlog
+Create
+Upload
+Sign In
+Camera Finder
+Most Popular Brands
+Apple
+iPhone 6 , iPhone 6s , iPhone 7 , more...
+Canon
+EOS 5D Mark III , EOS 6D , EOS 70D , more...
+Nikon
+D750 , D7100 , D7000 , more...
+Samsung
+Galaxy S7 , Galaxy S6 , Galaxy S5 , more...
+Sony
+A6000 , Xperia Z3 , Alpha A7mii , more...
+Most Popular Cameras in the Flickr Community
+% of members
+  Apple iPhone 6
+  Apple iPhone 6s
+  Apple iPhone 5s
+  Apple iPhone 7
+  Apple iPhone 7 Plus
+Popular Point & Shoot Cameras
+% of members
+  Sony DSC-RX100
+  Sony DSC-RX100M3
+  Canon PowerShot SX50 HS
+  Panasonic DMC-FZ200
+  Nikon Coolpix P900
+Popular Cameraphones
+% of members
+  Apple iPhone 6
+  Apple iPhone 6s
+  Apple iPhone 5s
+  Apple iPhone 7
+  Apple iPhone 7 Plus
+About these graphs »
+These graphs show the number of Flickr members who have uploaded at least one photo or video with a particular camera on a given day over the last year.
+The graphs are "normalized", which is a fancy way of saying that they automatically correct for the fact that more people join Flickr each day: the graph moving up or down indicates a change in the camera's popularity relative to all other cameras used by Flickr members.
+The graphs are only accurate to the extent that we can automatically detect the camera used to take the photo or shoot the video (about 2/3rds of the time). That is not usually possible with cameraphones, therefore they are under-represented.
+Camera Brands used in the Flickr Community
+Rank ▾
+Brand
+Top Models
+Model Types
+# of Models
+1
+Apple
+iPhone 6 , iPhone 6s , iPhone 7
+Cameraphone,          Point and Shoot
+30
+2
+Canon
+EOS 5D Mark III , EOS 6D , EOS 70D
+Digital SLR,          Mirrorless Camera,          Point and Shoot,          Video Camera
+270
+3
+Nikon
+D750 , D7100 , D7000
+Digital SLR,          Mirrorless Camera,          Point and Shoot
+213
+4
+Samsung
+Galaxy S7 , Galaxy S6 , Galaxy S5
+Cameraphone,          Digital SLR,          Mirrorless Camera,          Point and Shoot,          Video Camera
+278
+5
+Sony
+A6000 , Xperia Z3 , Alpha A7mii
+Cameraphone,          Digital SLR,          Mirrorless Camera,          Point and Shoot,          Video Camera
+354
+6
+Fujifilm
+X-T2 , X-T1 , X-Pro2
+Digital SLR,          Film Scanner,          Mirrorless Camera,          Point and Shoot
+182
+7
+Olympus
+E-M1 , E-M5MarkII , E-M1MarkII
+Digital SLR,          Mirrorless Camera,          Point and Shoot
+184
+8
+Motorola
+Moto G3 , Moto X , Moto G2
+Cameraphone
+31
+9
+Panasonic
+DMC-FZ200 , DMC-FZ1000 , DMC-GX8
+Digital SLR,          Mirrorless Camera,          Point and Shoot,          Video Camera
+183
+10
+LG
+G4 , G3 , G2
+Cameraphone
+28
+11
+HTC
+One , One M8 , One M9
+Cameraphone
+91
+12
+Pentax
+K-5 , K-50 , K-30
+Digital SLR,          Mirrorless Camera,          Point and Shoot
+106
+13
+Ricoh
+Pentax K-3 , IMAGING COMPANY, LTD. Pentax K-1 , IMAGING COMPANY, LTD. GR II
+Digital SLR,          Point and Shoot
+42
+14
+Leica
+Camera AG  Q , M , M9
+Digital Back,          Digital Rangefinder,          Digital SLR,          Film Camera,          Point and Shoot
+29
+15
+Nokia
+Lumia 1020 , N8 , Lumia 635
+Cameraphone,          Point and Shoot
+108
+16
+Kodak
+EasyShare Z740 Zoom , EasyShare C813 Zoom , EasyShare DX6490 Zoom
+Digital Back,          Digital SLR,          Point and Shoot,          Video Camera
+139
+17
+GoPro
+HERO4 , HERO3+ , HERO3
+Video Camera
+7
+18
+Casio
+EX-S10 , EX-Z1080 , EX-Z75
+Cameraphone,          Point and Shoot
+102
+19
+Sony Ericsson
+K750i , K800i , Sony Xperia S
+Cameraphone,          Point and Shoot
+95
+20
+BlackBerry
+Bold 9700 , Z10 , Passport
+Cameraphone
+24
+21
+Konica Minolta
+Maxxum 5D , DiMAGE Z1 , Maxxum 7D
+Digital SLR,          Point and Shoot
+64
+22
+HP
+PhotoSmart R707 , PhotoSmart 735 , PhotoSmart C850
+Cameraphone,          Point and Shoot
+61
+23
+Sigma
+DP2 Merrill , SD1 Merrill , SD15
+Digital SLR,          Point and Shoot
+13
+24
+Phase One
+P45 , IQ180 , P30+
+Digital Back
+18
+25
+Sanyo
+Xacti VPC E760 , Xacti VPC CA65 , Xacti DSC J1
+Cameraphone,          Point and Shoot,          Video Camera
+42
+26
+Epson
+R-D1 , PhotoPC 3100Z , PhotoPC 850Z
+Digital Rangefinder,          Point and Shoot
+12
+27
+Toshiba
+PDR-M4 , PDR-M60 , PDR-3320
+Point and Shoot,          Video Camera
+20
+28
+Sharp
+T-Mobile Sidekick 2008 , WX-T91 , T-Mobile Sidekick 3
+Cameraphone,          Point and Shoot,          Video Camera
+25
+29
+Nintendo
+3DS
+Point and Shoot
+1
+30
+Leaf
+Aptus 22 , Aptus 75 , Aptus 65
+Digital Back
+9
+31
+JVC
+GZ-MC200 , GZ-MG505 , GZ-MC500
+Cameraphone,          Point and Shoot,          Video Camera
+23
+32
+DoCoMo
+SO903i , P905i , N905i
+Cameraphone
+18
+33
+Palm
+Pre , Centro , Treo 680
+Cameraphone
+7
+34
+Vivitar
+ViviCam 3345 , ViviCam 3705 , ViviCam 3746
+Point and Shoot
+29
+35
+Acer
+CE-5330 , CR-8530 , CI-6330
+Point and Shoot
+13
+36
+Kyocera
+Finecam SL300R , Contax TVS Digital , Finecam SL400R
+Cameraphone,          Point and Shoot
+22
+37
+KDDI
+W54T , W53CA , W51SA
+Cameraphone
+26
+38
+Google
+Glass
+Cameraphone
+1
+39
+Helio
+Ocean , Fin , Mysto
+Cameraphone
+3
+40
+Polaroid
+i531 , i733 , i834
+Point and Shoot
+26
+41
+Concord
+Eye-Q Go 2000 , Eye-Q 4363z , Eye-Q 4060 AF
+Point and Shoot
+13
+42
+BenQ
+DC C640 , DC C740i , DC 2300
+Cameraphone,          Point and Shoot
+29
+About
+Jobs
+Blog
+Mobile
+Developers
+Guidelines
+Feedback
+Report abuse
+Help forum
+English
+繁體中文
+Deutsch
+English
+Español
+Français
+한글
+Italiano
+Português
+Tiếng Việt
+Bahasa Indonesia
+Privacy
+Terms
+Yahoo Safely
+Help
+Flickr, a Yahoo company
+Tumblr
+Facebook
+Twitter

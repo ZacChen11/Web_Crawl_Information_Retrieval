@@ -1,0 +1,17 @@
+Animate Concordia's Mailing List Signup Form
+* indicates required
+Name:
+Email:
+Comment:
+Email Address *
+First Name
+Last Name
+Year
+Student or Faculty
+Student ID
+FMAN PEOPLE
+Faculty
+Students
+Alumni
+48 Hour Challenge Participants
+Students outside of Animation

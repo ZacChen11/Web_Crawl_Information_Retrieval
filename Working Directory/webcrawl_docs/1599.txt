@@ -1,0 +1,347 @@
+Concordia University
+https://www.concordia.ca/content/concordia/en/it/services/moodle-lms.html
+Study resources
+Calendar - Graduate
+Calendar - Undergraduate
+Class schedules
+Class cancellations
+Course registration
+Important academic dates
+More academic resources
+Campus services
+Concordia Stores
+IT services
+Job opportunities
+Security
+Shuttle bus
+Student Service Centre (Birks)
+All campus services
+What's new
+Calendar of events
+Latest news
+Media Relations
+Faculties, Schools & Colleges
+Arts and Science
+Engineering and Computer Science
+Fine Arts
+John Molson School of Business
+School of Graduate Studies
+All Schools, Colleges & Departments
+Quick links  
+Webmail Library Cspace
+Study resources  
+Calendar - Graduate
+Calendar - Undergraduate
+Class schedules
+Class cancellations
+Course registration
+Important academic dates
+More academic resources
+Campus services  
+Concordia Stores
+IT services
+Job opportunities
+Security
+Shuttle bus
+Student Service Centre (Birks)
+All campus services
+What's new  
+Calendar of events
+Latest news
+Media Relations
+Faculties, Schools & Colleges  
+Arts and Science
+Engineering and Computer Science
+Fine Arts
+John Molson School of Business
+School of Graduate Studies
+All Schools, Colleges & Departments
+Quick links The Campaign for Concordia
+MyConcordia
+Cspace
+Webmail
+Library
+Directories
+A-Z
+Maps
+Future students
+Student hub
+Alumni & friends
+Parents
+Faculty & staff
+Media
+Concordia University
+Concordia University
+IT Services
+Services
+Get help
+Get started
+IT security
+IT groups
+The Campaign for Concordia
+Study resources
+Calendar - Graduate
+Calendar - Undergraduate
+Class schedules
+Class cancellations
+Course registration
+Important academic dates
+More academic resources
+Campus services
+Concordia Stores
+IT services
+Job opportunities
+Security
+Shuttle bus
+Student Service Centre (Birks)
+All campus services
+What's new
+Calendar of events
+Latest news
+Media Relations
+Faculties, Schools & Colleges
+Arts and Science
+Engineering and Computer Science
+Fine Arts
+John Molson School of Business
+School of Graduate Studies
+All Schools, Colleges & Departments
+Quick links  
+Webmail Library Cspace
+Study resources  
+Calendar - Graduate
+Calendar - Undergraduate
+Class schedules
+Class cancellations
+Course registration
+Important academic dates
+More academic resources
+Campus services  
+Concordia Stores
+IT services
+Job opportunities
+Security
+Shuttle bus
+Student Service Centre (Birks)
+All campus services
+What's new  
+Calendar of events
+Latest news
+Media Relations
+Faculties, Schools & Colleges  
+Arts and Science
+Engineering and Computer Science
+Fine Arts
+John Molson School of Business
+School of Graduate Studies
+All Schools, Colleges & Departments
+Information for...
+Future students
+Student hub
+Alumni & friends
+Parents
+Faculty & staff
+Media
+Concordia
+Directories
+Search
+Concordia University
+IT Services
+Concordia.ca
+ / 
+IT services
+ / 
+Services
+ / 
+Moodle learning management system (LMS)
+Facebook
+Twitter
+LinkedIn
+GooglePlus
+Moodle learning management system (LMS)
+The Moodle (abbreviation for Modular Object-Oriented Dynamic Learning Environment) learning management system (LMS) is a secure web-based environment used for the development and delivery of course activities and resources. Moodle allows teachers to organize and store course content in a secure web-based environment which their students can access from anywhere at any time. Teachers can post, collect, and grade assignments, administer quizzes, host online discussions, share resources, and more.
+Related policy: Scope and guidelines for Moodle use
+Who can use it?
+Faculty, staff, and students
+How much does it cost?
+There is no cost associated with this service
+How to get it
+Moodle courses are automatically created several weeks before the beginning of a semester. Teachers and students are added to the sites by an automatic process.
+There are two ways to access Moodle:
+Log into the MyConcordia portal using your netname and password.
+In the My Moodle Courses block, select the link to your Moodle course site.
+Log in directly at moodle.concordia.ca  using your Concordia netname and password. Your courses will appear on the right-hand side in the My Concordia Courses block.
+Teachers/professors: Newly created courses are hidden by default. To access the hidden courses, click on 'More courses (including new courses)' below your visible courses.
+Service availability
+24/7
+Documentation
+Moodle user guides for students and staff
+Both students and staff will find helpful information on the Moodle homepage .
+Teachers/professors have access to various handouts on Help For Instructors page. This page requires authentication using your Concordia netname and password.
+Teaching & learning technologies – which software to choose
+Which software should you choose?
+To help you choose among the various technologies available to support your teaching and learning, consider this chart.
+If you want to do the following:
+Consider this technology:
+Here’s a bit more about the technology
+Record the lecture and related slides and images for a traditional class while you’re teaching the class (and make the recording available immediately afterwards to students) through Moodle
+Panopto lecture-capture software
+Panopto is a brand of software that records classroom lectures and captures related slides and images.  This type of software is especially useful for large lectures.  These recordings provide students who have difficulty following the original lecture with an opportunity to review the class session.  Access is provided to students through Moodle.  When reviewing the recordings, second-language learners have stated that they can catch points missed in the original lecture.  Other students have commented that the recordings are useful resources when studying for quizzes and exams.
+Conduct a regular class at the regularly scheduled time but online because (a) I am traveling one or more weeks out of the term, (b) The class is scheduled at an awkward time and many students will have difficulty making class on time each week, or (c) I want to regularly include guests in other locations in the class
+Adobe Connect virtual classroom software  
+Connect is a software from the Adobe Corporation that lets instructors and students meet online at the same time in a virtual classroom.  In the classroom, instructors can lecture; interact with students through voice, chat, and poll questions; share slides, documents and other resources; and let students work in groups, even though they are located in different places.  Instructors can record the session and make the recording available to students to review later.
+“Flip” my class: that is, ask students to complete their readings and view recorded lectures through Moodle before the class session and use class time to work through problem sets or similar activities and answer questions
+Camtasia screen capture software
+Flipped courses are ones in which instructors record lectures and expect students to view them before the class session, so instructors can use class time to work through problems and exercises or similar application activities.  Access is provided to students through Moodle.
+Camtasia is software that allows users to create a video by narrating a Powerpoint slide presentation or use of another screen on a computer and recording the presentation.
+Camtasia also lets users edit the recordings so that they can have the most visual and audio impact.
+Because it is easy to use, makes recordings, and allows for easy editing of the video and audio tracks, Camtasia is ideally suited for preparing the recordings used in flipped courses.
+Communicate regularly with students outside of class throughout the term
+Moodle
+Moodle is software that lets instructors communicate with students outside of the classroom.  A flexible system, instructors use Moodle for one or more of these tasks: sharing announcements; distributing course-related materials—including recordings for the flipped classroom; submitting student assignments; conducting quick polls; and conducting class-related discussions outside of class time.
+FAQ
+Student FAQ
+How do I access Moodle?
+There are two ways to access Moodle:
+1. Log into the MyConcordia portal using your Concordia netname and password. In the My Moodle Courses block, select the link to your Moodle course site.
+2. Log in directly at moodle.concordia.ca  using your Concordia netname and password. Your courses will appear on the right-hand side in My Concordia Courses block.
+Can I access Moodle directly without going through the portal?
+You can access Moodle directly from the Moodle homepage using your Concordia netname and password. Your list of courses will appear on the right-hand side in My Concordia Courses block.
+I am a registered student trying to access Moodle but it is not working. What can I do?
+In order for the course to be accessible to students on Moodle, teachers must "activate" it.  If you are unable to see the course,  contact your teacher to ensure he/she has activated it.
+If you register for the course late, you will need to wait 24 hours after the registration to gain access to the activated course. If the problem persists, contact the Service Desk for assistance.  
+Why am I unable to access my course website even though my professor says it is available?
+You will have access to all 'activated' Moodle courses 24 hours after registration. Otherwise, make sure that the teacher is using Moodle and has not forgotten to make the course site accessible to students.
+If the problem persists, contact the Service Desk for assistance.  
+How do I update my profile on Moodle?
+Moodle is connected to the Student Information System (SIS). Changes like your name and email address should be done via your Student Centre. Once you have made changes in the SIS, it will take up to 48 hours for your Moodle profile to automatically update.
+Visit the MyConcordia portal information page to get more information on how to change your email address.
+Changes to your profile like adding a picture, a description of yourself, your interests, and location, can be done directly in Moodle.
+Follow the steps below to update your profile:
+1. Login to Moodle.
+2. Click on your name at the top right of the Moodle page.
+3. Select Profile from the dropdown menu.
+4. In the User Details box, click Edit profile.
+5. Make any necessary changes and click Update profile (blue tab at the bottom).
+Why am I not getting forum emails and other students are?
+It is likely that the email address in your profile is wrong. Verify the profile update FAQ section to update your email. It could also be that you are not subscribed to the forums that are generating emails or that you have not enabled your messaging preferences to receive email notifications.
+To enable your message preferences follow the instructions below:
+1. Login to Moodle.
+2. Click on your name at the top right of the Moodle page.
+3. Select Preferences.
+4. Under User Account, select Messaging.
+5. Scroll to the Forum section of the page and tick the box under the Email heading. You can specify to receive emails when you are offline and/or when you are logged in to Moodle.
+What browsers are recommended for the best experience in Moodle 3.0?
+Moodle works well on all standard browsers and operating systems.
+The Nanogong (voice-recording) activity, however, is not compatible with Google Chrome and requires the latest version of Java.
+Who do I contact for help with Moodle?
+Students should contact the Service Desk for help with Moodle.
+Instructor FAQ
+How do I make the course available to students?
+For information about how to make your course available to students, refer to the handout “How to make your Moodle course visible to students” on the Help for Instructors page (you will need to log in using your netname and password).
+How do I enrol individual users in Moodle?
+Students are automatically enrolled into your courses. It is not recommended to manually add students to your course site.
+You can manually add teaching assistants, research assistants, and other participants to your course. For more information/instructions, refer to “How to manually enrol users in Moodle” on the Help for Instructors page to get the full instructions. You will be required to provide your netname and password to access the information.
+How do I view the list of participants on my Moodle site?
+There are 2 ways to view the list of participants on your Moodle site.
+1. In the Administration block click Users and then Enrolled users.
+2. In the People block click Participants.
+How to I communicate with students in Moodle?
+There are two ways to communicate with students on Moodle.
+1. To communicate with the whole class, use the Announcement forum:
+Click on the Announcements forum link on the course main page.
+Click Add a new topic.
+Write your message in the Message box.
+Tick Mail now at the bottom of the page to send the message immediately.
+Click Post to forum.
+2. To communicate with selected students use the People block:
+Click Participants in the People block.
+Select the check box next to the name of the participant you need to message. From the Choose drop down menu select Send a message.
+Type the message in the editor and click Preview. If the text requires no corrections, click Send a message.
+How do I add a file (e.g. Course Outline) in Moodle?
+Follow the instructions below to add a file:
+1. Turn editing on (button at the top right).
+2. Click on the file on your desktop, then hold and drag it to the course main page. An ADD FILE(S) HERE box will appear.
+3. Drop the file onto the box.
+What browsers are recommended for the best experience in Moodle 3.0?
+Moodle works well in all standard browsers and operating systems.
+The Nanogong (voice-recording) activity, however, is not compatible with Google Chrome and requires the latest version of Java.
+How do I get help with Moodle?
+Moodle questions should be directed to the IT Service Desk .
+IITS provides Moodle workshops and drop-in sessions.  The schedule and registration links are available on the IT Training web page.
+Additional handouts can be found on Help for Instructors page on Moodle (you will need to log in with your netname and password).
+What is the Course Reserves Moodle block?
+Instructors should not post copyrighted materials on their Moodle course site.
+The new Course Reserves system helps course instructors provide readings for their courses while complying with the Copyright Act, COPIBEC Agreement, and the Libraries' electronic resources licenses.
+To submit a request for a course reading click on View course readings link in the Course Reserves block. When you send your request, library staff will check for copyright compliance and approve or deny your request. Requests should be sent three weeks before the beginning of the semester.
+To get the full instructions on how to post the readings, visit the library's information page . Questions about the Course Reserves system should be directed to library.reserves@concordia.ca .
+What is the Library Resources Moodle block?
+The goal of the Library Resources Moodle block is to improve student access to library collections and services that are relevant to the course.
+For more information, visit the Library Resources Moodle Block information page.
+See also
+MyConcordia portal
+FirstClass
+i>Clicker Student Response System
+Was this page useful to you?
+Rate
+This form is for feedback only. Technical support requests should be submitted by email to help@concordia.ca or phone 514-848-2424, ext. 7613.
+Page suggestions:
+Submit
+Back to top
+© Concordia University
+Concordia University - Call us at 514-848-2424
+About
+Academics
+Admissions
+Campus life
+Research
+International
+Future students
+Current students
+Alumni & friends
+Parents
+Faculty & staff
+Media
+Sir George Williams Campus
+1455 De Maisonneuve Blvd. W.
+Montreal, Quebec, Canada
+H3G 1M8
+See SGW Campus map
+Loyola Campus
+7141 Sherbrooke Street W.
+Montreal, Quebec, Canada
+H4B 1R6
+See Loyola Campus map
+facebook
+twitter
+google
+youtube
+linkedin
+pinterest
+instagram
+flickr
+Concordia social
+© Concordia University
+Terms
+Privacy
+Accessibility
+Website feedback
+Share this page
+Concordia.ca
+Call us at
+514-848-2424
+Sir George Williams Campus
+1455 De Maisonneuve Blvd. W.
+Montreal, Quebec, Canada
+H3G 1M8
+See SGW Campus map
+Loyola Campus
+7141 Sherbrooke Street W.
+Montreal, Quebec, Canada
+H4B 1R6
+See Loyola Campus map
+Website feedback
+Terms
+Privacy
+Accessibility
+© Concordia University

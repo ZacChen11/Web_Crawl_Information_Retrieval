@@ -3,7 +3,7 @@ from nltk import stem
 from nltk.tokenize import WordPunctTokenizer
 import math
 import json
-from sentiment_dictionary import SentimentDictionary
+
 
 class QueryHandler:
 
@@ -11,20 +11,26 @@ class QueryHandler:
 
     def __init__(self):
         # read dictionary file into memory
-        f = open('reuters.dict', 'r')
+        f = open('webcrawl.dict', 'r')
         d = f.readlines()
         f.close()
-        splitter = re.compile('(.*),(\d+$)')
-        self.dictionary = dict((s[0][0], int(s[0][1])) for s in [splitter.findall(line) for line in d])
+        splitter = re.compile('(.*),(\d+),(-?\d+)$')
+        self.dictionary = dict((s[0][0], [int(s[0][1]), int(s[0][2])]) for s in [splitter.findall(line) for line in d])
 
         # open postings file for searching
-        self.postings_file = open('reuters.postings', 'r')
+        self.postings_file = open('webcrawl.postings', 'r')
 
         # open doc sizes file
-        self.doc_sizes = open('reuters.doclengths', 'r')
+        self.doc_sizes = open('webcrawl.doclengths', 'r')
+
+        # get urls list
+        urls_file = open('webcrawl_docs/url_files.txt', 'r')
+        self.urls = map(lambda x: x[:-1], urls_file.readlines())
+
+
 
         # read in metadata
-        f = open('reuters.meta', 'r')
+        f = open('webcrawl.meta', 'r')
         meta = json.loads(f.read())
         f.close()
 
@@ -34,7 +40,6 @@ class QueryHandler:
         # initialize stemmer
         self.stemmer = stem.PorterStemmer()
         self.tokenizer = WordPunctTokenizer()
-        self.sd = SentimentDictionary()
 
     def get_postings(self, terms):
         # if given an empty set of terms
@@ -45,7 +50,7 @@ class QueryHandler:
         for term in terms:
             if term in self.dictionary:
                 # get postings list
-                postings_location = self.dictionary[term]
+                postings_location = self.dictionary[term][0]
                 self.postings_file.seek(postings_location)
                 postings_list = self.postings_file.readline()[:-1].split(';')
 
@@ -207,7 +212,7 @@ class QueryHandler:
     def bm25_scorer(self, postings, term_freqs, b, k1):
         for doc in postings:
             # get document length
-            self.doc_sizes.seek((doc[0] - 1) * 5)
+            self.doc_sizes.seek(doc[0] * 5)
             doc_length = self.doc_sizes.read(5)
             doc_length = int(doc_length)
 
@@ -222,25 +227,58 @@ class QueryHandler:
             doc[1] = score
         return postings
 
-    @staticmethod
-    def get_terms_sentiment(terms):
+    def get_terms_sentiment(self, terms):
         total = 0
         for term in terms:
-            if term in SentimentDictionary.dictionary:
-                total += SentimentDictionary.dictionary[term]
+            if term in self.dictionary:
+                total += self.dictionary[term][1]
 
         return total
 
-    @staticmethod
-    def sentiment_scorer(scored_postings, query_sentiment):
-        # TODO
+    def sentiment_scorer(self, scored_postings, query_sentiment):
+
+        query_is_negative = query_sentiment < 0
+
+        for doc in scored_postings:
+            # get doc sentiment
+            doc_sentiment = self.compute_document_sentiment(doc[0])
+
+            # get document length
+            self.doc_sizes.seek(doc[0] * 5)
+            doc_length = self.doc_sizes.read(5)
+            doc_length = int(doc_length)
+
+            scale_amount = math.e ** (abs(doc_sentiment / float(doc_length)))
+
+            document_is_negative = doc_sentiment < 0
+
+            if (query_is_negative and document_is_negative) or (not query_is_negative and not document_is_negative):
+                doc[1] *= scale_amount
+
         return scored_postings
+
+    def compute_document_sentiment(self, doc_id):
+        doc_file = open('processed_docs/%d' % doc_id,'r')
+
+        doc_terms = doc_file.readlines()
+        doc_terms = map(lambda x: x[:-1].split(), doc_terms)
+        doc_terms = {term[0]:int(term[1]) for term in doc_terms}
+
+        doc_term_sentiments = []
+
+        for term in doc_terms:
+            if term in self.dictionary:
+                doc_term_sentiments.append(self.dictionary[term][1])
+            else:
+                doc_term_sentiments.append(0)
+
+        return sum(doc_term_sentiments)
 
 
 if __name__ == '__main__':
     q = QueryHandler()
 
-    print("----Reuter's Index----")
+    print("----Concordia Web Crawl Index----")
     while True:
         raw_query = raw_input('\n\nEnter your query: ')
         print '\n'
@@ -248,7 +286,7 @@ if __name__ == '__main__':
         query = q.parse_query(raw_query)
         posts, term_freqs = q.get_postings(query)
 
-        query_sentiment = QueryHandler.get_terms_sentiment(query)
+        query_sentiment = q.get_terms_sentiment(query)
 
         # intersection results no longer given because ranking is more important
         results = q.union_postings(posts)
@@ -257,7 +295,7 @@ if __name__ == '__main__':
         results = q.bm25_scorer(results, term_freqs, 0.75, 1.6)
 
         # modify score with sentiment score
-        results = QueryHandler.sentiment_scorer(results, query_sentiment)
+        results = q.sentiment_scorer(results, query_sentiment)
 
         # sort results
         results = sorted(results, key=lambda x: x[1], reverse=True)
@@ -265,4 +303,9 @@ if __name__ == '__main__':
         # keep only the doc_id
         results = map(lambda x : x[0], results)
 
-        print 'Results: %s' % results
+        # map doc_id to url
+        results = map(lambda doc_id: q.urls[doc_id], results)
+
+        print 'Results: '
+        for url in results:
+            print url

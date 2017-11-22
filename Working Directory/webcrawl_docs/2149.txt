@@ -1,0 +1,331 @@
+Concordia University
+https://www.concordia.ca/content/concordia/en/faculty.html
+Study resources
+Calendar - Graduate
+Calendar - Undergraduate
+Class schedules
+Class cancellations
+Course registration
+Important academic dates
+More academic resources
+Campus services
+Concordia Stores
+IT services
+Job opportunities
+Security
+Shuttle bus
+Student Service Centre (Birks)
+All campus services
+What's new
+Calendar of events
+Latest news
+Media Relations
+Faculties, Schools & Colleges
+Arts and Science
+Engineering and Computer Science
+Fine Arts
+John Molson School of Business
+School of Graduate Studies
+All Schools, Colleges & Departments
+Quick links  
+Webmail Library Cspace
+Study resources  
+Calendar - Graduate
+Calendar - Undergraduate
+Class schedules
+Class cancellations
+Course registration
+Important academic dates
+More academic resources
+Campus services  
+Concordia Stores
+IT services
+Job opportunities
+Security
+Shuttle bus
+Student Service Centre (Birks)
+All campus services
+What's new  
+Calendar of events
+Latest news
+Media Relations
+Faculties, Schools & Colleges  
+Arts and Science
+Engineering and Computer Science
+Fine Arts
+John Molson School of Business
+School of Graduate Studies
+All Schools, Colleges & Departments
+Quick links The Campaign for Concordia
+MyConcordia
+Cspace
+Webmail
+Library
+Directories
+A-Z
+Maps
+Future students
+Student hub
+Alumni & friends
+Parents
+Faculty & staff
+Media
+Concordia University
+Concordia University
+MyConcordia Shuttle bus Maps
+About
+Administration & governance
+Strategic directions
+Quartier Concordia
+History
+Working at Concordia
+Sustainability hub
+Community engagement
+Indigenous Directions
+Quick links
+Fast facts
+Offices A-Z
+News
+Events
+Academics
+Undergraduate programs
+Graduate programs
+Faculties, Schools & Colleges
+Continuing education
+Co-operative education
+Online courses
+Study abroad
+Quick links
+Student Success Centre
+Graduate & Professional Skills
+Academic integrity
+Recruitment events
+Admissions
+Undergraduate
+Graduate
+International student admissions
+Financial aid & awards
+Tours & events
+Quick links
+Tuition & fees
+Student housing
+Concordia Continuing Education
+Campus life
+Arts & culture hub
+Athletics
+Get involved
+Food & housing
+Orientation & new students
+Recreation, sports & fitness
+Services & support
+Quick links
+Student Success Centre
+Residence life
+Jobs on campus
+University of the Streets Café
+Dean of Students
+Sustainability Hub
+Research
+Research units
+Research Chairs
+Resources for researchers
+Students and postdocs
+Funding opportunities
+Quick links
+Strategic research plan
+Explore research, teaching & learning
+ConRAD
+About the research sector
+International
+International student admissions
+Visiting & exchange students
+Partnerships
+Academic visitors
+Quick links
+Concordia International
+International Students Office
+Global alumni
+Cotutelle
+The Campaign for Concordia
+Study resources
+Calendar - Graduate
+Calendar - Undergraduate
+Class schedules
+Class cancellations
+Course registration
+Important academic dates
+More academic resources
+Campus services
+Concordia Stores
+IT services
+Job opportunities
+Security
+Shuttle bus
+Student Service Centre (Birks)
+All campus services
+What's new
+Calendar of events
+Latest news
+Media Relations
+Faculties, Schools & Colleges
+Arts and Science
+Engineering and Computer Science
+Fine Arts
+John Molson School of Business
+School of Graduate Studies
+All Schools, Colleges & Departments
+Quick links  
+Webmail Library Cspace
+Study resources  
+Calendar - Graduate
+Calendar - Undergraduate
+Class schedules
+Class cancellations
+Course registration
+Important academic dates
+More academic resources
+Campus services  
+Concordia Stores
+IT services
+Job opportunities
+Security
+Shuttle bus
+Student Service Centre (Birks)
+All campus services
+What's new  
+Calendar of events
+Latest news
+Media Relations
+Faculties, Schools & Colleges  
+Arts and Science
+Engineering and Computer Science
+Fine Arts
+John Molson School of Business
+School of Graduate Studies
+All Schools, Colleges & Departments
+Information for...  
+Future students
+Student hub
+Alumni & friends
+Parents
+Faculty & staff
+Media
+Concordia
+Directories
+Search
+Concordia University
+Home
+ / 
+Faculty
+Facebook
+Twitter
+LinkedIn
+GooglePlus
+Dr. Pablo Bianucci, PhD
+Associate Professor, Physics
+Graduate Program Director, Physics
+Biography    Research activities    Selected publications    Teaching activities   
+Office:
+L-SP 367-21  
+Richard J. Renaud Science Complex,
+7141 Sherbrooke W.
+Phone:
+(514) 848-2424 ext. 3352
+Email:
+pablo.bianucci@concordia.ca
+Website(s):
+Bianucci Research Group
+Pablo Bianucci's Explore Concordia page
+Education
+PhD (The University of Texas at Austin)
+Research interests
+Physics and applications of nano- and micro-photonic devices
+Optical properties of nanomaterials
+Interaction of nanomaterials with optical resonators
+Applications of optical resonators
+View Pablo Bianucci's CV
+Research activities
+Micro- and nano-photonics
+Photonics is using light to transfer and process information instead of electrons. Thanks to the properties of photons (the virtual particles that carry light), photonics has the potential for creating faster and more power-efficient devices than electronics. One of the building blocks for photonic circuits is the optical micro-resonator, which keeps light confined in both space and time. Micro-resonators are the basis of many photonic devices, such as filters, modulators, delay lines, etc. We are interested in exploring optical micro-resonators with new geometries and materials for creating new micro- and nano-photonic devices.
+Optical properties of nanomaterials
+The optical properties of semiconductor nanostructures are incredibly rich. In collaboration with Dr. John Capobianco , in the Department of Chemistry and Biochemistry, we grow ZnO nanostructures using solution-based methods.
+Slowing down trapped light
+By carefully sculpting periodic patterns in dielectric media it is possible to slow down its group velocity (the velocity at which a wave can carry information). We have combined that patterning with microring resonators, to find the effect of combining confinement of light at the microscale with slow light.
+Simulated magnetic field profile of a resonant mode in a photonic crystal ring resonator
+Photo credit: Kathleen McGarvey-Lechable
+Scanning electron microscope image of a photonic crystal ring resonator fabricated on the Silicon-on-Insulator platform.
+Photo credit: Kathleen McGarvey-Lechable and Amir Hassanpour
+Scanning electron microscope images of patterned nanorods on silicon substrates. Panel A is a view from the top, while insets B and C are 60-degree-tilted views. The Scale bars indicate 1 µm for A and B, and 200 nm for inset C.
+Photo credit: Amir Hassanpour
+Selected publications
+K. McGarvey-Lechable and P. Bianucci, “ Slow light in mass-produced, dispersion-engineered photonic crystal ring resonators ", Optics Express 25, 3916 (2017)
+A. Hassanpour, N. Bogdan, J. A. Capobianco, and P. Bianucci, “ Hydrothermal selective growth of low-aspect-ratio isolated ZnO nanorods ", Materials & Design 119, 464 (2017)
+P. Bianucci, “ Optical microbottle resonators for sensing ", Sensors 16, 1841 (2016) 
+H. Ghali, H. Chibli, J. L. Nadeau, P. Bianucci, and Y.-A. Peter, “ Real-time detection of Staphylococcus Aureus using whispering gallery mode optical microdisks ", Biosensors 6, 20 (2016)
+K. McGarvey-Lechable, and P. Bianucci, " Maximizing slow-light enhancement in one-dimensional photonic crystal ring resonators ", Optics Express 22, 26032 (2014) .
+M. H. Tavakoli-Dastjerdi, M. Djavid, S. Arafin, X. Liu, P. Bianucci, Z. Mi, and P. J. Poole,“ Optically pumped rolled-up InAs/InGaAsP quantum dash lasers at room temperature ”, Semiconductor Science and Technology 28, 094007 (2013)
+P. Bianucci, S. Mukherjee, M. H. Tavakoli-Dastjerdi, P. J. Poole, and Z. Mi,“ InGaAsP/InAs quantum dot microtube lasers ”, Applied Physics Letters 101, 031104–4 (2012)
+View my full list of publications .
+Teaching activities
+Analytical mechanics (PHYS 245)
+In this course, we apply calculus and vector calculus to describe and predict the motion of macroscopic objects.
+Solid State Physics (PHYS 358)
+This course is an introduction to the Physics of crystalline materials.
+Back to top
+© Concordia University
+Concordia University - Call us at 514-848-2424
+About
+Academics
+Admissions
+Campus life
+Research
+International
+Future students
+Current students
+Alumni & friends
+Parents
+Faculty & staff
+Media
+Sir George Williams Campus
+1455 De Maisonneuve Blvd. W.
+Montreal, Quebec, Canada
+H3G 1M8
+See SGW Campus map
+Loyola Campus
+7141 Sherbrooke Street W.
+Montreal, Quebec, Canada
+H4B 1R6
+See Loyola Campus map
+facebook
+twitter
+google
+youtube
+linkedin
+pinterest
+instagram
+flickr
+Concordia social
+© Concordia University
+Terms
+Privacy
+Accessibility
+Website feedback
+Share this page
+Concordia.ca
+Call us at
+514-848-2424
+Sir George Williams Campus
+1455 De Maisonneuve Blvd. W.
+Montreal, Quebec, Canada
+H3G 1M8
+See SGW Campus map
+Loyola Campus
+7141 Sherbrooke Street W.
+Montreal, Quebec, Canada
+H4B 1R6
+See Loyola Campus map
+Website feedback
+Terms
+Privacy
+Accessibility
+© Concordia University

@@ -1,0 +1,100 @@
+this unofficial website is sponsored by a student association
+IMCA+ArtX=Depot
+IMCA Resources Center
+IMCA Video Editing Suites
+IMCA Production Studios
+IMCA Project Lab & Workshop
+IMCA EART Studios
+IMCA Depot staff
+IMCA Graduation Show
+IMCA-SC
+Academy of Art Video Art
+ARTX Facilities
+Intermedia 
+video Editing suites
+The Intermedia/cyberarts program has six shared edit suites and one dub & transfer suite on the 6th floor of the EV building. Only students currently enrolled in a Video production class and who have paid the Class fees have access to these facilities 24h/7.  Click here to watch the tutorial on how to reserve editing time with the Online Booking System.
+ONLINE BOOKING SYSTEM
+Policies and procedures (simplified):
+Make a reservation via our Online Booking System (OBS) for no more than 4 hours at the time. Your log for the OBS is; your class + the section, underscore ,family name (all lower case) e.g.: 210c_doe. Your password is your ID#.
+Go to the EV security desk and ask for the KEY# of the edit suite you reserved rather than the room#.
+Use your NETNAME info (MyConcordia) to log on the Computer. Do not store personal files on the computer desktop, documents etc. they will be erased at log out.*
+Close to the end of your shift you can add up to TWO hours your booking at the time if no one is schedule after you.
+At the end of your shift return the key to the EV security desk. Never pass the key to the next person yourself. The transfer of keys and responsibility belongs to the EV security desk.
+*It is mandatory to use an external hard drive.. We are not responsible of any lost files.
+**Learn How To Prepare your Hard Drive for IMCA Edit Suites**
+All six shared Editing Suites contain an Apple iMac 5K 27" computer (exception*), a pair of Yorkville Speakers Monitors, a 27" Dell Ultrasharp Video Reference Monitor, an audio mixer Alesis multimix4 USB, a Middle Atlantic Editing Desk, a Furman Power Conditioner, a littlite Gooseneck light.
+Edit Suite ev.6-420 - Key ev#51
+iMac 5K Quad 4GHz i7
+32GB DDR3 Ram
+USB 3.0 native
+Thunderbolt 2
+SD, SDHC etc. card reader
+Edit Suite ev.6-425 - Key EV#52
+iMac 5K Quad 4GHz i7
+32GB DDR3 Ram
+USB 3.0 native
+Thunderbolt 2
+SD, SDHC etc. card reader
+Edit Suite ev.6.-429 - KEY EV#53
+iMac 5K Quad 4GHz i7
+32GB DDR3 Ram
+USB 3.0 native
+Thunderbolt 2
+SD, SDHC etc. card reader
+*Edit Suite ev.6-805 - KEY EV#56
+iMac 5K Quad 4.2GHz i7
+32GB DDR3 Ram
+USB 3.0 native
+Thunderbolt 3
+SD, SDHC, etc. card reader
+Edit Suite ev.6-815 - KEY EV#59
+iMac 5K Quad 4GHz i7
+32GB DDR3 Ram
+USB 3.0 native
+Thunderbolt 2
+SD, SDHC etc. card reader
+Edit Suite ev.6-817 - KEY EV#58
+iMac 5K Quad 4GHz i7
+32GB DDR3 Ram
+USB 3.0 native
+Thunderbolt 2
+SD, SDHC etc. card reader
+*Dub & Transfer ev.6-618 - KEY EV#54
+iMac 5K Quad 4.2GHz i7
+32GB DDR3 Ram
+USB 3.0 native
+Thunderbolt 3
+SD, SDHC, etc. card reader
+Firewire 800
+Pegasus M4 RAID
+BlackMagic Intensity Pro
+During Video Depot open hours, this station is strictly reserved for dub and transfer, rendering and encoding of all kind. During this time, the students have to book time at the 6th floor Video Depot. Outside of depot open hours; overnights, holidays and weekends, students can book this edit suite via the OBS .
+VHS, S-VHS & VHSC (VHS Compact)
+DVD, HDVD and bluRay*
+DV, DVCAM, HDV
+Standard 8, Hi-8
+Digital 8*
+DAT, Mini Disk, CD and tape cassette
+Slides to Video*
+Super 8*
+etc..
+*Some equipment need to be patched or install in advance. Please advise the depot when you made your reservation in the Dub & Transfer/HDV Suites ev.6-618.
+*We don't have Betamax, Betacam SP, Digital Betacam and U-Matic for the moment
+Edit Suites' main Software
+Adobe After Effects CC
+Adobe Audition CC
+Adobe Illustrator CC
+Adobe Photoshop CC
+Adobe Premiere Pro CC
+Adobe Reader
+Adobe SpeedGrade CC
+Max MSP/Jitter (in some edit suites)
+Microsoft Office Suite
+MPEG StreamClip
+QuickTime Player Pro (and QT 7 Pro)
+Toast Titanium* (in some edit suites w/ DVD Burner)
+VLC Player
+etc.
+Create a free website
+Powered by
+✕

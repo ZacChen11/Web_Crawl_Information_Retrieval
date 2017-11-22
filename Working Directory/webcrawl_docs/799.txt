@@ -1,0 +1,239 @@
+Concordia University
+https://www.concordia.ca/content/shared/en/events/offices/vprgs/sgs/2017/11/30/phd-oral-exam-150-seyed-mohammad-reza-attarzadeh-niaki-mechanical-engineering.html
+Study resources
+Calendar - Graduate
+Calendar - Undergraduate
+Class schedules
+Class cancellations
+Course registration
+Important academic dates
+More academic resources
+Campus services
+Concordia Stores
+IT services
+Job opportunities
+Security
+Shuttle bus
+Student Service Centre (Birks)
+All campus services
+What's new
+Calendar of events
+Latest news
+Media Relations
+Faculties, Schools & Colleges
+Arts and Science
+Engineering and Computer Science
+Fine Arts
+John Molson School of Business
+School of Graduate Studies
+All Schools, Colleges & Departments
+Quick links  
+Webmail Library Cspace
+Study resources  
+Calendar - Graduate
+Calendar - Undergraduate
+Class schedules
+Class cancellations
+Course registration
+Important academic dates
+More academic resources
+Campus services  
+Concordia Stores
+IT services
+Job opportunities
+Security
+Shuttle bus
+Student Service Centre (Birks)
+All campus services
+What's new  
+Calendar of events
+Latest news
+Media Relations
+Faculties, Schools & Colleges  
+Arts and Science
+Engineering and Computer Science
+Fine Arts
+John Molson School of Business
+School of Graduate Studies
+All Schools, Colleges & Departments
+Quick links The Campaign for Concordia
+MyConcordia
+Cspace
+Webmail
+Library
+Directories
+A-Z
+Maps
+Future students
+Student hub
+Alumni & friends
+Parents
+Faculty & staff
+Media
+Concordia University
+Concordia University
+Events
+Calendar
+Academic dates
+University holidays
+Cancelled classes
+Planning & hosting
+The Campaign for Concordia
+Study resources
+Calendar - Graduate
+Calendar - Undergraduate
+Class schedules
+Class cancellations
+Course registration
+Important academic dates
+More academic resources
+Campus services
+Concordia Stores
+IT services
+Job opportunities
+Security
+Shuttle bus
+Student Service Centre (Birks)
+All campus services
+What's new
+Calendar of events
+Latest news
+Media Relations
+Faculties, Schools & Colleges
+Arts and Science
+Engineering and Computer Science
+Fine Arts
+John Molson School of Business
+School of Graduate Studies
+All Schools, Colleges & Departments
+Quick links  
+Webmail Library Cspace
+Study resources  
+Calendar - Graduate
+Calendar - Undergraduate
+Class schedules
+Class cancellations
+Course registration
+Important academic dates
+More academic resources
+Campus services  
+Concordia Stores
+IT services
+Job opportunities
+Security
+Shuttle bus
+Student Service Centre (Birks)
+All campus services
+What's new  
+Calendar of events
+Latest news
+Media Relations
+Faculties, Schools & Colleges  
+Arts and Science
+Engineering and Computer Science
+Fine Arts
+John Molson School of Business
+School of Graduate Studies
+All Schools, Colleges & Departments
+Information for...
+Future students
+Student hub
+Alumni & friends
+Parents
+Faculty & staff
+Media
+Concordia
+Directories
+Search
+Concordia University
+Events
+Concordia.ca
+ / 
+Events
+Facebook
+Twitter
+LinkedIn
+GooglePlus
+PhD Oral Exam - Seyed Mohammad Reza Attarzadeh Niaki, Mechanical Engineering
+Numerical Study of Cloud-Sized Droplet Impact and Freezing on Superhydrophobic Surfaces
+November 30, 2017, 1 p.m. – 4 p.m.
+When studying for a doctoral degree (PhD), candidates submit a thesis that provides a critical review of the current state of knowledge of the thesis subject as well as the student’s own contributions to the subject. The distinguishing criterion of doctoral graduate research is a significant and original contribution to knowledge.
+Once accepted, the candidate presents the thesis orally. This oral exam is open to the public.
+Abstract
+In-flight icing is a serious meteorological hazard caused by supercooled cloud particles (with an average size of 20–50 μm) that turn into ice as an immediate consequence of impact with an aircraft, and it poses a serious risk to the safety of the aircraft and its passengers. Anti-icing surface treatment is a potential solution to mitigate ice accretion and maintain optimal flying conditions. Superhydrophobic coatings inspired by nature (e.g., lotus leaf) have attracted much attention in recent years due to their excellent water repellent properties. These coatings have been extensively applied on various substrates for self-cleaning, anti-fogging, and anti-corrosive applications. The performance of these coatings depends on the chemical composition and their rough hierarchical surface morphology composed of micron and sub-micron-sized structures. Recently, there has been an increased interest to fabricate superhydrophobic coatings that can repel droplets of cloud-relevant sizes (20–50 μm) before they freeze to the surface in practical flight conditions (i.e., icephobic surfaces).
+The main goal of this work was to numerically model the hydrodynamic and thermal behaviour of cloud-sized droplets on superhydrophobic surfaces when interacting with micron-sized surface features. Consequently, by correlating the hydrophobicity and the icephobicity of the surface, we found viable solutions to counteract icing and to prevent ice accumulation on critical aerodynamic surfaces. For this purpose, we developed a computational model to analyze the hydrodynamics of the impact of the micro-droplet on a micro-structured superhydrophobic surface under room temperature and freezing (including rapid-cooling and supercooling) conditions. All coding and implementations were carried out in the OpenFOAM platform, which is a collection of open-source C++ libraries for computational continuum mechanics and CFD analysis.
+Superhydrophobic surfaces were directly modelled as a series of fine, micro-structured arrays with defined cross sections and patterns. Surface chemistry was included in the simulations using a dynamic contact angle model that describes well the hydrodynamics of a micro-droplet on rough surfaces. A multi-region transient solver for incompressible, laminar, multi-phase flow of non-isothermal, non-Newtonian fluids with conjugate heat transfer boundary conditions between solid and fluid regions was developed to simulate both the dynamics of the micro-droplet impact on the substrate and the associated heat transfer inside the droplet and the solid bulk simultaneously. In addition, a phase change (freezing) model was added to capture the onset of ice formation and freezing front of the liquid micro-droplet. The computational model was validated using experimental data reported in the literature. In addition, an analytical model was derived using the balance of energy before impact and at the maximum spreading stage, which we found to be in good agreement with the data obtained from simulations.
+Since aluminum (Al) is the base material used in aerospace industries, the thermo-physical properties of aluminum were extensively used in our simulations. Comparing laser-patterned aluminum substrates with a ceramic base composite material that has a low thermal diffusivity (such as titanium-dioxide), we showed that the onset of icing was significantly delayed on the ceramic-based substrate, as the droplet detached before freezing to the surface. Finally, a freezing model for the supercooled water droplet based on classical nucleation theory was developed. The model is an approximation for a supercooled droplet of the recalescence step, which was assumed to be initiated by heterogeneous nucleation from the substrate. This research extended our knowledge about the hydrodynamic and freezing mechanisms of a micro-droplet on superhydrophobic surfaces. The developed solvers can serve as a design tool to engineer the roughness and thermo-physical properties of superhydrophobic coatings to prevent the freezing of cloud-sized droplets in practical flight conditions.
+Where
+Room EV 11.119, Engineering, Computer Science and Visual Arts Integrated Complex (1515 St. Catherine W.), Sir George Williams Campus
+Cost
+This event is free
+Organizer
+Mary Appezzato
+Organization
+School of Graduate Studies
+Contact
+514-848-2424, ext. 3813
+Category
+Thesis defences
+Calendar
+Submit an event
+Latest news
+Back to top
+© Concordia University
+Concordia University - Call us at 514-848-2424
+About
+Academics
+Admissions
+Campus life
+Research
+International
+Future students
+Current students
+Alumni & friends
+Parents
+Faculty & staff
+Media
+Sir George Williams Campus
+1455 De Maisonneuve Blvd. W.
+Montreal, Quebec, Canada
+H3G 1M8
+See SGW Campus map
+Loyola Campus
+7141 Sherbrooke Street W.
+Montreal, Quebec, Canada
+H4B 1R6
+See Loyola Campus map
+facebook
+twitter
+google
+youtube
+linkedin
+pinterest
+instagram
+flickr
+Concordia social
+© Concordia University
+Terms
+Privacy
+Accessibility
+Website feedback
+Share this page
+Concordia.ca
+Call us at
+514-848-2424
+Sir George Williams Campus
+1455 De Maisonneuve Blvd. W.
+Montreal, Quebec, Canada
+H3G 1M8
+See SGW Campus map
+Loyola Campus
+7141 Sherbrooke Street W.
+Montreal, Quebec, Canada
+H4B 1R6
+See Loyola Campus map
+Website feedback
+Terms
+Privacy
+Accessibility
+© Concordia University

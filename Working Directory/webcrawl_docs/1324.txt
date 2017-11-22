@@ -1,0 +1,288 @@
+Study resources
+Calendar - Graduate
+Calendar - Undergraduate
+Class cancellations
+Class schedules
+Course registration
+Important academic dates
+More academic resources
+Campus services
+Concordia Stores
+IT services
+Job opportunities
+Security
+Shuttle bus
+Student Service Centre (Birks)
+All campus services
+What's New
+Calendar of events
+Latest news
+Media Relations
+Faculties, Schools & Colleges
+Arts and Science
+Engineering and Computer Science
+Fine Arts
+John Molson School of Business
+School of Graduate Studies
+All Schools, Colleges & Departments
+Concordia University
+Quick links The Campaign for Concordia
+MyConcordia
+Cspace
+Webmail
+Directories
+Hours
+A-Z
+Maps
+Library
+Ask a Librarian  
+Log into ... 
+My Library Account
+Renew books and more
+MyClues (mobile)
+Book a study room or scanner
+Reserve a space for your group online
+Interlibrary loans
+Request books from external libraries
+RefWorks
+Manage your citations and create bibliographies
+Article delivery
+Request a PDF of an article we have in our physical collection
+WebPrint
+Upload documents to print on campus
+Course reserves
+Online course readings
+Spectrum
+Deposit a thesis or article
+Library hours
+Ask a librarian
+A-Z
+Find
+Discovery Search
+Library Catalogue
+Databases by subject
+Course Reserves
+E-journals
+Interlibrary Loans (COLOMBO)
+Article Delivery
+Spectrum Research Repository
+Special Collections
+Additional resources & services
+Help & how-to
+Subject & course guides
+Finding...
+Writing...
+Citing...
+Using...
+Copyright & publishing
+Technology & connecting
+Ask a librarian
+Workshops
+General guides for users
+Borrowing & renewing
+Locations & hours
+Webster Library
+Vanier Library
+Grey Nuns Reading Room
+Study spaces
+Floor plans
+Book a group study room/scanner
+Room booking for academic events
+Computer availability
+Technology Sandbox
+About the library
+News & events
+Webster Library Transformation blog
+Librarians & staff
+University Librarian
+Policies & Code of Conduct
+Strategic Plan 2016/21
+Annual Report 2015/16
+Feedback & Suggestions
+Job opportunities
+Researcher-in-residence program
+Library Services Fund
+Giving to the Library
+LibQual+ survey & results
+Concordia University Press
+Call for Proposals for Public Art
+The Campaign for Concordia
+Log into...
+MyCLUES (mobile)
+Book a study room or scanner
+Interlibrary loans
+RefWorks
+Article delivery
+WebPrint
+Course reserves
+Spectrum
+Quick links
+Study resources
+Calendar - Graduate
+Calendar - Undergraduate
+Class cancellations
+Class schedules
+Course registration
+Important academic dates
+More academic resources
+Campus services
+Concordia Stores
+IT services
+Job opportunities
+Security
+Shuttle bus
+Student Service Centre (Birks)
+All campus services
+What's New
+Calendar of events
+Latest news
+Media Relations
+Faculties, Schools & Colleges
+Arts and Science
+Engineering and Computer Science
+Fine Arts
+John Molson School of Business
+School of Graduate Studies
+All Schools, Colleges & Departments
+Discovery Search
+Library
+Concordia
+Search
+« Back  |  Print  
+Print
+Email
+Facebook
+Twitter
+Concordia.ca   /   Library   /   Help & how-to   /   Workshops   /   Technology sandbox
+Technology Sandbox fall 2017 workshops
+On this page
+3D modelling 101
+3D printing 101
+Intro to Soldering
+3D modelling 102: OpenSCAD
+Intro to Linux
+Sketchup
+Sticker party
+Hyperbolic Space Crochet
+See also
+Technology Sandbox
+Library workshops
+GradProSkills Library workshops
+Student Success Centre Workshops
+3D modelling 101
+Speaker: Jasia Stuart, Technology Analyst, Concordia University Library
+How do you make a model in three dimensions? How do you make sure it is 3D printable? This introductory course will get you up and running; creating 3D models quickly and easily.   We will also look at different free software for 3D printing and which one is right for your project. Bring your laptop or sign one out from the Loans & Returns desk before the workshop.
+Open to everyone. 120 minutes.
+Wednesday, November 15, 2 - 4 p.m.
+Webster Library, LB-205
+Register
+3D printing 101
+Speaker: Jasia Stuart, Technology Analyst, Concordia University Library
+Printing is believing. Come and work through the process of 3D printing from A to Z. You'll take home the skills you need to 3D-print your own projects and a small, 3D-printed object. Bring your laptop or   sign one out from the Loans & Returns desk before the workshop.
+Open to everyone. 120 minutes.
+Thursday, November 16, 2 - 4 p.m.
+Webster Library, LB-205
+Register
+Intro to soldering
+Speaker: Tina Salameh, Technology Analyst, Concordia University Library
+In this 3-hour-long workshop, we will teach you everything you need to know about soldering to take your upcoming electronics project from the breadboard to the real world. We will learn about the tools of the   trade and the techniques that will make your soldering solid and reliable.
+By the end of our workshop you will have built one or two fun projects you can take home, and we will show you where you can go from there!
+Open to everyone. 180 minutes.
+Tuesday, November 7, 1:30 - 4:30 p.m.
+Webster Library, LB-205
+Register
+3D modelling 102: OpenSCAD
+Speaker: Sean Cooney, Technology Sandbox Technician, Concordia University Library
+So you want to model things in 3D (be it for 3D printing, digital art, blueprints, or for video-game content), but you’re unfamiliar with how to do it or the software you’re using doesn’t give you the fine control you need? Come to our workshop. OpenSCAD is free, open-source software for detailed, programmatically defined, primitive based rendering software. If that sounds complicated, you will be pleasantly surprised at how easy and intuitive the software is once you get started. Please bring a laptop you can install software on.
+Open to everyone. 120 minutes.
+Thursday, November 9, 2 - 4 p.m.
+Webster Library, LB-205
+Register
+Intro to Linux
+Speaker: Sean Cooney, Technology Sandbox Technician, Concordia University Library
+Have you heard of Linux and want to know more, or you haven’t heard of Linux but the words “free operating system” spark your interest?   Maybe you already know a little bit about Linux and want to learn the basics of how to use it; everyone is welcome at our Intro to Linux workshop!   In this workshop we’ll cover a bit of background of who, what, when, and why, and then go into some details on the ways in which using the operating system differs from Mac and Windows.   Raspberry Pi computers for using and experimenting with Linux will be provided.
+Tuesday, November 14, 2 - 4 p.m.
+Webster Library, LB-205
+Register
+Intro to Sketchup
+Speaker: Ruolin Wang, Technology Sandbox Assistant, Concordia University Library
+Sketchup is a popular 3D modeling software which has a wide range of uses in architectural design, interior design, civil and mechanical engineering. Compared to other 3D modeling software, Sketchup is easily to learn and supported by a friendly interface. Compelling walkthroughs, house staining and detailed models can be created in this software; Sketchup files can also be exported to other simulation software, such as Energy Plus, Wufi, Transys and others.
+This workshop will get you started on the right foot with Sketchup! We will look at basic commands to model the interior and exterior of buildings, and model a quick example. Finally we will look at some useful Sketchup plugins, for example one plugin makes it simple to 3D print your creation.
+Please bring a laptop with Sketchup installed on it. You can install Sketchup beforehand (30-day trial) using this link: https://www.sketchup.com/products/sketchup-pro/new-in-2017
+Friday, November 17, 1 - 3 p.m.
+Webster Library, LB-205
+Register
+Sticker time
+Speaker: Jasia Stuart, Technology Analyst, Concordia University Library
+This intro will walk you through the basics of using vector graphics. You'll then print your design as a small vinyl decal (cut-out sticker).   Bonus: the digital die cutting machine can also draw and cut paper; time allowing we will demonstrate these features. Bring your laptop or sign one out from the Loans & Returns desk.
+Open to everyone. 120 minutes.
+Tuesday, November 21, 2 - 4 p.m.
+Webster Library, LB-205
+Register
+Hyperbolic Space Crochet
+Speakers: Kathleen Botter, Systems Librarian & Jasia Stuart, Technology Analyst, Concordia University Library
+This is nerdy-math-crafting like you have never seen it before!
+Drop by the Technology Sandbox in November to learn how to crochet a model of hyperbolic space. This is nerdy-math-crafting like you have never seen it before! Warning: other mathematical models may also be explored, and you may leave with a greater appreciation for the connection between textiles and computing. We will teach you a little bit about hyperbolic space and the basic crochet stitches to get started.  Basic supplies provided and no prior crochet or math skills required!
+Drop by from 2 - 3:30 p.m. on November 7-10, 13-14, or 16-17 to get expert assistance with your project.
+page last updated on: Friday 3 November 2017
+Back to top
+CONCORDIA UNIVERSITY LIBRARY - Locations & phone numbers
+Home
+Find
+Help & how-to
+Locations & hours
+About the Library
+Undergraduate students
+Graduate students
+Faculty
+Administrative staff
+Support staff
+External community
+Webster Library
+1400 De Maisonneuve Blvd. W.
+1455 De Maisonneuve Blvd. W.
+Montreal, Quebec, Canada
+H3G 1M8
+See on map
+Vanier Library
+7141 Sherbrooke St. W.
+Montreal, Quebec, Canada
+H4B 1R6
+See on map
+facebook
+twitter
+google
+youtube
+linkedin
+pinterest
+instagram
+flickr
+Concordia social
+© Concordia University
+Terms
+Privacy
+Accessibility
+Feedback
+Provide feedback
+Feedback forms
+Thanks for your time. Please select your area of feedback.
+Give feedback about the Library's spaces, services, and/or collections
+Get help with my research, course work, or report a broken link
+Concordia social
+Concordia University Library Locations & phone numbers
+Webster Library
+1400 De Maisonneuve Blvd. W.
+1455 De Maisonneuve Blvd. W.
+Montreal, Quebec, Canada
+H3G 1M8
+See on map
+Vanier Library
+7141 Sherbrooke St. W.
+Montreal, Quebec, Canada
+H4B 1R6
+See on map
+Feedback
+Terms
+Privacy
+Accessibility
+© Concordia University

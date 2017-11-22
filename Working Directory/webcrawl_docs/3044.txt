@@ -1,0 +1,15 @@
+Notre organisme a à coeur l'équité, ainsi que d'offrir l'égalité des chances à toutes les personnes stagiaires ou employées. Si vous souhaitez vous pouvez nous faire part de votre appartenance à un groupe sous-représenté et/ou marginalisé. À compétence égale, nous choisirons la personne faisant partie d'un ou plusieurs groupes sous-représentés pour combler le poste. Au mieux de notre capacité, nous adapterons notre environnement de travail aux besoins de la personne candidate lorsqu'ils se présenteront.
+UTILE is an equal-opportunity employer and this project aims to be inclusive and welcoming to all. If you wish you may communicate your belonging to an under-represented group and/or marginalized community. Between candidates of equal skill, we will prioritize those belonging to one or more under-represented groups. We also commit to doing our best to adapt the work environment to any specific needs that may arise.
+Contact *
+Name
+Phone
+Email
+Are you a Concordia student? Étudiez-vous à Concordia?  *
+In which Faculty? Dans quelle Faculté?
+Are you involved in a university organization? Vous impliquez-vous dans un organisme universitaire?
+In which group(s), organization(s) and/or union(s)? Dans quel(s) groupe(s), organisme(s) et/ou association(s)?
+Are you also interested in getting involved outside of the committee? Souhaitez-vous aussi vous impliquer en-dehors du comité? *
+Questions, comments?
+Attachments
+Soumettre
+{"webformIdentifier":823918,"webformTheme":"clean","base_domain":"podio.com","recaptcha_enabled":false,"recaptcha_public_key":null,"locale":"en_GB","csrfToken":"iqoFo4FUclgf0W9VIM5non/+CmDI4iw4UhsAbxEwVVH8l4ztzqy1Pi3FGSaCpZg0bgkci4P1uM6hVJSkbu/grg==","asset_host":"https://d2cmuesa4snpwn.cloudfront.net/webforms"}

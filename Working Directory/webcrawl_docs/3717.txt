@@ -1,0 +1,28 @@
+JMCC Recruitment Application
+Name *
+Student ID *
+Email *
+Phone Number *
+Year of Study as of Fall 2017 *
+Major *
+Number of Credits I am taking in Fall 2017 *
+Are you available and in Montreal starting August 15th? *
+If no, please explain why and when you will be coming back to Montreal.
+Will you be working in the Fall semester? How many hours? *
+Categories that you are interested to compete in: (Please note that non-academic tryouts will be held in September) *
+Academics
+Social
+Debate
+Stock Simulation
+Sports
+Participation
+Quiz
+If academics, select a discipline (First Choice) Please note that you will only be trying out for your first choice, unless you choose ACCO, FINA or TAX (for any of your 3 choices) in which case that will be your only tryout.
+If academics, select a discipline (Second Choice)
+If academics, select a discipline (Third Choice)
+I have attached my transcript to this form *
+I have attached my CV to this form *
+Please attach a photo to make it easier during the tryouts *
+Attachments
+Apply Now!
+{"webformIdentifier":1226108,"webformTheme":"flatly","base_domain":"podio.com","recaptcha_enabled":false,"recaptcha_public_key":null,"locale":"en_GB","csrfToken":"SBdr0Rp2Lmndb85yLdf+HGcdB9h47a50FuDg6p7IrZAxF5vdC75BPq4nThcdOLeWGCeyq0vIw6F141nxIETiew==","asset_host":"https://d2cmuesa4snpwn.cloudfront.net/webforms"}

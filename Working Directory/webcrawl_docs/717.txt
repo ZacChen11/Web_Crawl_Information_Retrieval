@@ -1,0 +1,238 @@
+Concordia University
+https://www.concordia.ca/content/shared/en/events/offices/vprgs/sgs/2017/11/21/phd-oral-exam-150-yuming-yin-mechanical-engineering.html
+Study resources
+Calendar - Graduate
+Calendar - Undergraduate
+Class schedules
+Class cancellations
+Course registration
+Important academic dates
+More academic resources
+Campus services
+Concordia Stores
+IT services
+Job opportunities
+Security
+Shuttle bus
+Student Service Centre (Birks)
+All campus services
+What's new
+Calendar of events
+Latest news
+Media Relations
+Faculties, Schools & Colleges
+Arts and Science
+Engineering and Computer Science
+Fine Arts
+John Molson School of Business
+School of Graduate Studies
+All Schools, Colleges & Departments
+Quick links  
+Webmail Library Cspace
+Study resources  
+Calendar - Graduate
+Calendar - Undergraduate
+Class schedules
+Class cancellations
+Course registration
+Important academic dates
+More academic resources
+Campus services  
+Concordia Stores
+IT services
+Job opportunities
+Security
+Shuttle bus
+Student Service Centre (Birks)
+All campus services
+What's new  
+Calendar of events
+Latest news
+Media Relations
+Faculties, Schools & Colleges  
+Arts and Science
+Engineering and Computer Science
+Fine Arts
+John Molson School of Business
+School of Graduate Studies
+All Schools, Colleges & Departments
+Quick links The Campaign for Concordia
+MyConcordia
+Cspace
+Webmail
+Library
+Directories
+A-Z
+Maps
+Future students
+Student hub
+Alumni & friends
+Parents
+Faculty & staff
+Media
+Concordia University
+Concordia University
+Events
+Calendar
+Academic dates
+University holidays
+Cancelled classes
+Planning & hosting
+The Campaign for Concordia
+Study resources
+Calendar - Graduate
+Calendar - Undergraduate
+Class schedules
+Class cancellations
+Course registration
+Important academic dates
+More academic resources
+Campus services
+Concordia Stores
+IT services
+Job opportunities
+Security
+Shuttle bus
+Student Service Centre (Birks)
+All campus services
+What's new
+Calendar of events
+Latest news
+Media Relations
+Faculties, Schools & Colleges
+Arts and Science
+Engineering and Computer Science
+Fine Arts
+John Molson School of Business
+School of Graduate Studies
+All Schools, Colleges & Departments
+Quick links  
+Webmail Library Cspace
+Study resources  
+Calendar - Graduate
+Calendar - Undergraduate
+Class schedules
+Class cancellations
+Course registration
+Important academic dates
+More academic resources
+Campus services  
+Concordia Stores
+IT services
+Job opportunities
+Security
+Shuttle bus
+Student Service Centre (Birks)
+All campus services
+What's new  
+Calendar of events
+Latest news
+Media Relations
+Faculties, Schools & Colleges  
+Arts and Science
+Engineering and Computer Science
+Fine Arts
+John Molson School of Business
+School of Graduate Studies
+All Schools, Colleges & Departments
+Information for...
+Future students
+Student hub
+Alumni & friends
+Parents
+Faculty & staff
+Media
+Concordia
+Directories
+Search
+Concordia University
+Events
+Concordia.ca
+ / 
+Events
+Facebook
+Twitter
+LinkedIn
+GooglePlus
+PhD Oral Exam - Yuming Yin, Mechanical Engineering
+November 21, 2017, 2 p.m. – 5 p.m.
+When studying for a doctoral degree (PhD), candidates submit a thesis that provides a critical review of the current state of knowledge of the thesis subject as well as the student’s own contributions to the subject. The distinguishing criterion of doctoral graduate research is a significant and original contribution to knowledge.
+Once accepted, the candidate presents the thesis orally. This oral exam is open to the public.
+Abstract
+Off-road vehicles employed in agriculture, construction, forestry and mining sectors are known to exhibit comprehensive levels of terrain-induced ride vibration and relatively lower directional stability limits, especially for the articulated frame-steered vehicles (AFSV). The transmitted whole-body vibration (WBV) exposure levels to the human operators generally exceed the safety limits defined in ISO-2631-1 and the European Community guidelines. Moreover, the directional stability limits are generally assessed neglecting the contributions due to terrain roughness and kineto-dynamics of the articulated frame steering (AFS) system. Increasing demand for high load capacity and high-speed off-road vehicles raises greater concerns for both the directional stability limits and WBV exposure. The criterion for acceptable handling and stability limits of such vehicles do not yet exist and need to be established. Furthermore, both directional stability performance and ride vibration characteristics are coupled and pose conflicting vehicle suspension design requirements. This dissertation research focuses on enhancement of ride, and roll- and yaw-plane stability performance measures of frame-steered vehicle via analysis of kineto-dynamics of the AFS system and hydro-pneumatic suspensions.
+A roll stability performance measure is initially proposed for off-road vehicles considering magnitude and spectral contents of the terrain elevations. The roll dynamics of an off-road vehicle operating on random rough terrains were investigated, where the two terrain-track profiles were synthesized considering coherency between them. It is shown that a measure based on steady-turning root-mean-square lateral acceleration corresponding to the sustained period of unity lateral-load-transfer-ratio prior to the absolute-rollover, could serve as a reliable measure of roll stability of vehicles operating on random rough terrains. The simulation results revealed adverse effects of terrain elevation magnitude on the roll stability, while a relatively higher coherency resulted in lower terrain roll-excitation and thereby higher roll stability. The yaw-plane stability limits of an AFSV are investigated in terms of free yaw-oscillations as well as transient steering characteristics through field measurements and simulations of kineto-dynamics of the AFS system. It was shown that employing hydraulic fluid with higher bulk modulus and increasing the steering arm lengths would yield higher yaw stiffness of the AFS system and thereby higher frequency of yaw-oscillations. Greater leakage flows and viscous seal friction within the AFS system struts caused higher yaw damping coefficient but worsened the steering gain and articulation rate. A design guidance of the AFS system is subsequently proposed. The essential objective measures are further identified considering the AFSV’s yaw oscillation/stability and steering performances, so as to seek an optimal design of the AFS system.
+For enhancing the ride performance of AFSV, a simple and low cost design of a hydro-pneumatic suspension (HPS) is proposed. The nonlinear stiffness and damping properties of the HPS strut that permits entrapment of gas into the hydraulic oil were characterized experimentally and analytically. The formation of the gas-oil emulsion was studied in the laboratory, and variations in the bulk modulus and mass density of the emulsion were formulated as a function of the gas volume fraction. The model results obtained under different excitations in the 0.1 to 8 Hz frequency range showed reasonably good agreements with the measured stiffness and damping properties of the HPS strut. The results showed that increasing the fluid compressibility causes increase in effective stiffness but considerable reduction in the damping in a highly nonlinear manner. Increasing the gas volume fraction resulted in substantial hysteresis in the force-deflection and force-velocity characteristics of the strut.
+A three-dimensional AFSV model is subsequently formulated integrating the hydro-mechanical AFS system and a hydro-pneumatic suspension. The HPS is implemented only at the front axle, which supports the driver cabin in order to preserve the roll stability of the vehicle. The validity of the model is illustrated through field measurements on a prototype vehicle. The suspension parameters are selected through design sensitivity analyses and optimization, considering integrated ride vibration, and roll- and yaw-plane stability performance measures. The results suggested that implementation of HPS to the front unit alone could help preserve the directional stability limits compared to the unsuspended prototype vehicle and reduce the ride vibration exposure by nearly 30%. The results of sensitivity analyses revealed that the directional stability performance limits are only slightly affected by the HPS parameters. Further reduction in the ride vibration exposure was attained with the optimal design, irrespective of the payload variations.
+Where
+Room EV 3.309, Engineering, Computer Science and Visual Arts Integrated Complex (1515 St. Catherine W.), Sir George Williams Campus
+Cost
+This event is free
+Organizer
+Mary Appezzato
+Organization
+School of Graduate Studies
+Contact
+514-848-2424, ext. 3813
+Category
+Thesis defences
+Calendar
+Submit an event
+Latest news
+Back to top
+© Concordia University
+Concordia University - Call us at 514-848-2424
+About
+Academics
+Admissions
+Campus life
+Research
+International
+Future students
+Current students
+Alumni & friends
+Parents
+Faculty & staff
+Media
+Sir George Williams Campus
+1455 De Maisonneuve Blvd. W.
+Montreal, Quebec, Canada
+H3G 1M8
+See SGW Campus map
+Loyola Campus
+7141 Sherbrooke Street W.
+Montreal, Quebec, Canada
+H4B 1R6
+See Loyola Campus map
+facebook
+twitter
+google
+youtube
+linkedin
+pinterest
+instagram
+flickr
+Concordia social
+© Concordia University
+Terms
+Privacy
+Accessibility
+Website feedback
+Share this page
+Concordia.ca
+Call us at
+514-848-2424
+Sir George Williams Campus
+1455 De Maisonneuve Blvd. W.
+Montreal, Quebec, Canada
+H3G 1M8
+See SGW Campus map
+Loyola Campus
+7141 Sherbrooke Street W.
+Montreal, Quebec, Canada
+H4B 1R6
+See Loyola Campus map
+Website feedback
+Terms
+Privacy
+Accessibility
+© Concordia University

@@ -1,0 +1,397 @@
+Concordia University
+http://www.concordia.ca/content/concordia/en/it/services/computer-labs-open-student-use.html
+Study resources
+Calendar - Graduate
+Calendar - Undergraduate
+Class schedules
+Class cancellations
+Course registration
+Important academic dates
+More academic resources
+Campus services
+Concordia Stores
+IT services
+Job opportunities
+Security
+Shuttle bus
+Student Service Centre (Birks)
+All campus services
+What's new
+Calendar of events
+Latest news
+Media Relations
+Faculties, Schools & Colleges
+Arts and Science
+Engineering and Computer Science
+Fine Arts
+John Molson School of Business
+School of Graduate Studies
+All Schools, Colleges & Departments
+Quick links  
+Webmail Library Cspace
+Study resources  
+Calendar - Graduate
+Calendar - Undergraduate
+Class schedules
+Class cancellations
+Course registration
+Important academic dates
+More academic resources
+Campus services  
+Concordia Stores
+IT services
+Job opportunities
+Security
+Shuttle bus
+Student Service Centre (Birks)
+All campus services
+What's new  
+Calendar of events
+Latest news
+Media Relations
+Faculties, Schools & Colleges  
+Arts and Science
+Engineering and Computer Science
+Fine Arts
+John Molson School of Business
+School of Graduate Studies
+All Schools, Colleges & Departments
+Quick links The Campaign for Concordia
+MyConcordia
+Cspace
+Webmail
+Library
+Directories
+A-Z
+Maps
+Future students
+Student hub
+Alumni & friends
+Parents
+Faculty & staff
+Media
+Concordia University
+Concordia University
+IT Services
+Services
+Get help
+Get started
+IT security
+IT groups
+The Campaign for Concordia
+Study resources
+Calendar - Graduate
+Calendar - Undergraduate
+Class schedules
+Class cancellations
+Course registration
+Important academic dates
+More academic resources
+Campus services
+Concordia Stores
+IT services
+Job opportunities
+Security
+Shuttle bus
+Student Service Centre (Birks)
+All campus services
+What's new
+Calendar of events
+Latest news
+Media Relations
+Faculties, Schools & Colleges
+Arts and Science
+Engineering and Computer Science
+Fine Arts
+John Molson School of Business
+School of Graduate Studies
+All Schools, Colleges & Departments
+Quick links  
+Webmail Library Cspace
+Study resources  
+Calendar - Graduate
+Calendar - Undergraduate
+Class schedules
+Class cancellations
+Course registration
+Important academic dates
+More academic resources
+Campus services  
+Concordia Stores
+IT services
+Job opportunities
+Security
+Shuttle bus
+Student Service Centre (Birks)
+All campus services
+What's new  
+Calendar of events
+Latest news
+Media Relations
+Faculties, Schools & Colleges  
+Arts and Science
+Engineering and Computer Science
+Fine Arts
+John Molson School of Business
+School of Graduate Studies
+All Schools, Colleges & Departments
+Information for...
+Future students
+Student hub
+Alumni & friends
+Parents
+Faculty & staff
+Media
+Concordia
+Directories
+Search
+Concordia University
+IT Services
+Concordia.ca
+ / 
+IT services
+ / 
+Services
+ / 
+Computer & media labs - open use
+Facebook
+Twitter
+LinkedIn
+GooglePlus
+Computer & media labs - open use
+Concordia offers a wide range of computing resources, electronic, and media-related equipment to the academic community.The labs on this page are open for use by all Concordia students and do not require a reservation or access code.
+If you would like to reserve a lab, please visit our teaching use page. The labs on that page may be reserved for academic or work-related purposes.
+Please contact your particular department for more information about their departmental labs.
+ 
+Related policy: Policy on computing facilities VPS-30
+Who can use it?
+Faculty, staff, students, & alumni
+How much does it cost?
+There is no cost associated with this service.
+How to get it
+Active students, employees, and faculty have access to the open use labs with their Concordia netname without reservation.
+Service availability
+For specific operating hours, select a lab from the documentation section below.
+Documentation
+SGW-H-923
+Hours of availability:
+Mon-Fri: 8:00 a.m. to 7:00 p.m.
+Note: hours are subject to change during the Summer months
+Support:
+Hall Building - H421 or H925
+Phone: 514-848-2424 ext 3435 or 7613
+help@concordia.ca
+Hardware:
+1 x Intel Core i5-2400 3.1GHz Quad Core, 4GB RAM, 250GB HD, DVD±RW, NVIDIA Quadro 600/1GB, eSATA, Windows 7 Enterprise. (Instructors) - (Portal or Local machine Login Capability)
+32 x Intel Core i5-2400 3.1GHz Quad Core, 4GB RAM, 250GB HD, DVD±RW, NVIDIA Quadro 600/1GB, eSATA, Windows 7 Enterprise.PC’s (Portal or Local Machine Login Capability)
+Printing:
+2 DPrint - Xerox
+Software:
+Visual Studio
+Concordia’s standard PC software package
+NOTE: This lab is 'open use' as well as a 'teaching lab'. Students may use this lab whenever is has not been reserved for academic purposes.
+SGW-H-980
+Hours of availability:
+Mon-Fri: 8:00 a.m. to 7:00 p.m.
+Note: hours are subject to change during the Summer months
+Support:
+Hall Building - H421 or H925
+Phone: 514-848-2424 ext 3435 or 7613
+help@concordia.ca
+Hardware:
+32 HPZ210 x Intel Core i5-cpu, 2.67GHz Quad Core, 4GB RAM, 232GB HD, DVD±RW.
+Windows 7 Enterprise PC’s (Portal or Local Machine Login Capability)
+Printing:
+2 DPrint - Xerox
+Software:
+Concordia’s standard PC software package
+SGW-LB-2nd, 3rd, & 4th floors
+Hours of availability:
+Hours of availability are posted on the "Hours" page of the Libraries website.
+Note: Concordia ID cards are required in order to enter the Webster Library and the Vanier Library between 11pm and 7am - hours are subject to change.
+For immediate support:
+Reference and Information Services
+Webster Library
+LB-2nd floor
+Tel.: 514-848-2424 ext. 7700
+For all other support requests:
+Service Desk
+Phone: 514-848-2424 ext. 7613
+Hardware:
+The Webster Library offers several hundred wired computer workstations as well as a fleet of wireless laptops and iPads available for loan.
+An example configuration:
+Intel Core i5-2400 3.1GHz Quad Core, 4GB RAM, 250GB HD, DVD±RW, NVIDIA Quadro 600/1GB, eSATA, Windows 7 Enterprise.PC’s (Portal Login Capability)
+For more information on Library workstations, visit the Using Library Computers page.
+Printing:
+7 DPrint - Xerox
+Software:
+For a complete list of software visit the Software at the Library information page.  
+Loyola-CC-213
+Hours of availability:
+Mon-Fri: 8:00 a.m. to 8:30 p.m.
+Note: hours are subject to change during the Summer months
+Support:
+CC Building - CC-207
+Phone: 514-848-2424 ext 3466
+help@concordia.ca
+Hardware:
+This lab is equipped with a data projector and is suitable to hold classes.
+21 x Intel Core i5-2400 3.1GHz Quad Core, 4GB RAM, 250GB HD, DVD RW, NVIDIA Quadro 600/1GB, eSATA, Windows 7 Enterprise. PCs.
+Printing:
+DPrint Xerox
+Software:
+Visual Basic, Visual C++
+Concordia’s standard PC software package
+NOTE: This lab is 'open use' as well as 'teaching use'. This lab is open whenever it has not been reserved for a scheduled event.
+Loyola-CC-214.1
+Hours of availability:
+Mon-Fri: 8:30 a.m. to 8:30 p.m.
+Note: hours are subject to change during the summer months
+Support:
+CC Building - CC-207
+Phone: 514-848-2424 ext 3466
+help@concordia.ca
+Hardware:
+Intel Core i5-2400 3.1 GHz Quad Core, 4GB RAM, 250GB HD, DVD RW, NVIDIA Quadro 600/1GB, eSATA, Windows 7 Enterprise. PCs.
+Printing:
+DPrint Xerox
+Software:
+Visual Basic, Visual C++
+Concordia’s standard PC software package
+Loyola-CC-215
+Hours of availability:
+Mon-Fri: 8:00 a.m. to 8:30 p.m.
+Note: hours are subject to change during the Summer months
+Support: 
+CC Building - CC-207
+Phone: 514-848-2424 ext 3466
+help@concordia.ca
+Hardware:
+1 x Intel Core i5-2400 3.1GHz Quad Core, 4GB RAM, 250GB HD, DVD±RW, NVIDIA Quadro 600/1GB, eSATA, Windows 7 Enterprise. (Instructors) - (Portal or Local machine Login Capability)
+32 x Intel Core i5-2400 3.1GHz Quad Core, 4GB RAM, 250GB HD, DVD±RW, NVIDIA Quadro 600/1GB, eSATA, Windows 7 Enterprise.PC’s (Portal or Local Machine Login Capability)
+Printing:
+2 DPrint - Xerox
+Software:
+Visual Basic, Visual C++
+Concordia’s standard PC software package
+NOTE: This lab is 'open use' as well as 'teaching use'. This lab is open whenever it has not been reserved for a scheduled event.
+VL-1st, 2nd, & 3rd floors
+Hours of availability:
+Hours of availability are posted on the "Hours" page of the Libraries website .
+Note: Concordia ID cards are required in order to enter the Webster Library and the Vanier Library between 11pm and 7am - hours are subject to change.
+For immediate support:
+Reference and Information Services
+Vanier Library
+VL1
+Tel: 514-848-2424 ext. 7766
+For all other support requests:
+Service Desk
+Phone: 514-848-2424 ext. 7613
+Hardware:
+The Vanier Library offers approximately 75 wired computer workstations as well as a fleet of wireless laptops and iPads available for loan.
+An example configuration:
+Intel Core i5-2400 3.1GHz Quad Core, 4GB RAM, 250GB HD, DVD±RW, NVIDIA Quadro 600/1GB, eSATA, Windows 7 Enterprise.PC’s (Portal Login Capability)
+For more information on Library workstations, visit the Using Library Computers page.
+Printing:
+7 DPrint - Xerox
+Software:
+For a complete list of software, visit the Software at the Library information page.
+NOTE: Certain workstations may be reserved. Please consult with the Library ( library.concordia.ca ) for service details and booking availabilities.
+FAQ
+What are the lab regulations?
+1. Food and drink are strictly prohibited.
+2. Phone calls should not be answered in the lab.
+3. Users must treat the eqipment with respect, and be conscious of the students around them.
+How do I log into the computer?
+To access the computer, you must log in using the same netname and password as the MyConcordia Portal.
+Can I install software on a lab computer?
+Only licensed software can be installed on University computers.  
+What is the standard software package installed on PC lab and classroom computers?
+While other software may be present, there is a standard software package installed on PC workstations in  classrooms ,  open-use labs , and  teaching labs .
+This package includes:
+Microsoft Office 2010 (including Word, PowerPoint, Excel, Access)
+SPSS, Mathematica, Maple
+7zip
+FastStone Image Viewer
+FireFox, Internet Explorer, Chrome
+Sophos Anti-Virus
+iTunes, Quicktime
+Adobe Acrobat Reader
+Flash plugin, Java plugin, Microsoft Silverlight plugin
+VLC Player
+How do I book a lab?
+The 'open use' labs cannot be reserved. For a list of labs that can be reserved, take a look through the labs available for teaching use .
+Can I access a Library workstation if I’m not a member of the Concordia community?
+You may be eligible to access the Library workstations if you meet certain conditions. Visit the Guest Accounts page for more information.
+See also
+Computer & media labs - teaching use
+Computer, media labs & performance spaces - Faculty of Fine Arts
+Computer & media labs - Faculty of Arts and Science
+Computer labs - Department of Geography, Planning & Environment
+Computer labs - John Molson School of Business
+DPrint - self serve (students)
+Equipment loan & rental
+Group study spaces - open use
+Was this page useful to you?
+Rate
+This form is for feedback only. Technical support requests should be submitted by email to help@concordia.ca or phone 514-848-2424, ext. 7613.
+Page suggestions:
+Submit
+Back to top
+© Concordia University
+Concordia University - Call us at 514-848-2424
+About
+Academics
+Admissions
+Campus life
+Research
+International
+Future students
+Current students
+Alumni & friends
+Parents
+Faculty & staff
+Media
+Sir George Williams Campus
+1455 De Maisonneuve Blvd. W.
+Montreal, Quebec, Canada
+H3G 1M8
+See SGW Campus map
+Loyola Campus
+7141 Sherbrooke Street W.
+Montreal, Quebec, Canada
+H4B 1R6
+See Loyola Campus map
+facebook
+twitter
+google
+youtube
+linkedin
+pinterest
+instagram
+flickr
+Concordia social
+© Concordia University
+Terms
+Privacy
+Accessibility
+Website feedback
+Share this page
+Concordia.ca
+Call us at
+514-848-2424
+Sir George Williams Campus
+1455 De Maisonneuve Blvd. W.
+Montreal, Quebec, Canada
+H3G 1M8
+See SGW Campus map
+Loyola Campus
+7141 Sherbrooke Street W.
+Montreal, Quebec, Canada
+H4B 1R6
+See Loyola Campus map
+Website feedback
+Terms
+Privacy
+Accessibility
+© Concordia University

@@ -1,0 +1,463 @@
+Concordia University
+https://www.concordia.ca/content/concordia/en/artsci/geography-planning-environment/faculty.html
+Study resources
+Calendar - Graduate
+Calendar - Undergraduate
+Class schedules
+Class cancellations
+Course registration
+Important academic dates
+More academic resources
+Campus services
+Concordia Stores
+IT services
+Job opportunities
+Security
+Shuttle bus
+Student Service Centre (Birks)
+All campus services
+What's new
+Calendar of events
+Latest news
+Media Relations
+Faculties, Schools & Colleges
+Arts and Science
+Engineering and Computer Science
+Fine Arts
+John Molson School of Business
+School of Graduate Studies
+All Schools, Colleges & Departments
+Quick links  
+Webmail Library Cspace
+Study resources  
+Calendar - Graduate
+Calendar - Undergraduate
+Class schedules
+Class cancellations
+Course registration
+Important academic dates
+More academic resources
+Campus services  
+Concordia Stores
+IT services
+Job opportunities
+Security
+Shuttle bus
+Student Service Centre (Birks)
+All campus services
+What's new  
+Calendar of events
+Latest news
+Media Relations
+Faculties, Schools & Colleges  
+Arts and Science
+Engineering and Computer Science
+Fine Arts
+John Molson School of Business
+School of Graduate Studies
+All Schools, Colleges & Departments
+Quick links The Campaign for Concordia
+MyConcordia
+Cspace
+Webmail
+Library
+Directories
+A-Z
+Maps
+Concordia University
+Concordia University
+Department of Geography, Planning & Environment
+About the department
+Faculty
+Staff
+Job opportunities
+Programs
+Undergraduate
+Graduate
+Current students
+Summer GIS Certificate
+Research
+Research interests
+Publications
+Facilities
+Research centres
+Student life
+Student groups
+Student projects
+Career options
+The Campaign for Concordia
+Study resources
+Calendar - Graduate
+Calendar - Undergraduate
+Class schedules
+Class cancellations
+Course registration
+Important academic dates
+More academic resources
+Campus services
+Concordia Stores
+IT services
+Job opportunities
+Security
+Shuttle bus
+Student Service Centre (Birks)
+All campus services
+What's new
+Calendar of events
+Latest news
+Media Relations
+Faculties, Schools & Colleges
+Arts and Science
+Engineering and Computer Science
+Fine Arts
+John Molson School of Business
+School of Graduate Studies
+All Schools, Colleges & Departments
+Quick links  
+Webmail Library Cspace
+Study resources  
+Calendar - Graduate
+Calendar - Undergraduate
+Class schedules
+Class cancellations
+Course registration
+Important academic dates
+More academic resources
+Campus services  
+Concordia Stores
+IT services
+Job opportunities
+Security
+Shuttle bus
+Student Service Centre (Birks)
+All campus services
+What's new  
+Calendar of events
+Latest news
+Media Relations
+Faculties, Schools & Colleges  
+Arts and Science
+Engineering and Computer Science
+Fine Arts
+John Molson School of Business
+School of Graduate Studies
+All Schools, Colleges & Departments
+Concordia
+Directories
+Search
+Concordia University
+Department of Geography, Planning & Environment
+Concordia.ca
+ / 
+Faculty of Arts and Science
+ / 
+Department of Geography, Planning, Environment
+ / 
+Faculty
+Facebook
+Twitter
+LinkedIn
+GooglePlus
+Zachary Patterson, PhD
+Associate Professor, Geography, Planning and Environment
+Tier-II CRC in Transportation and Land Use Linkages for Regional Sustainability
+Biography    Teaching activities    Research activities    Selected publications    TRIP Lab    News & Press Releases   
+Office:
+S-H 1255-15  
+Henry F. Hall Building,
+1455 De Maisonneuve W.
+Phone:
+(514) 848-2424 ext. 3492
+Email:
+Zachary.Patterson@concordia.ca
+Zachary Patterson's
+Explore Concordia page
+Tweets by @ProfPatterson
+Zachary is Tier-II Canada Research Chair in Transportation and Land Use Linkages for Regional Sustainability. He received his BA (Honours Anthropology) from McGill University in Montreal, his Master's (Economics) from Simon Fraser University in Vancouver and PhD (Geography) from McGill. He was also a postdoctoral researcher at the Ecole polytechnique fédérale de Lausanne in Switzerland in the Transport and Mobility Laboratory ( TRANSP-OR ). Professionally he worked as an economist at the NAFTA Commission for Environmental Cooperation and as transportation modeler at the Montreal regional public transportation planner, l'Agence métropolitaine de transport. Zachary's research focuses on the modeling of transportation, the environment, land-use and their linkages. He is currently a member of the Transportation Research Board's Land Development Committee (ADD30), and of the Interuniversity Research Centre on Enterprise Networks, Logistics and Transportation ( CIRRELT ).
+Teaching activities
+Advanced Quantitative Methods
+(Fall 2015)
+Over the course of the semester, students will become familiar with the R programming environment at least for the conducting of statistical analysis, and hopefully also for data manipulation and preparation. They will become familiar with the kinds of statistical analysis that is typically used in the fields of geography, planning and environmental studies. They will also work towards understanding the type of statistical analysis that is likely to be done as part of their master’s thesis. Ideally, as part of the term project, the student will be able to work with the same data set they expect to use in the analysis for their thesis. Alternatively, another data set that resembles the data they expect to use for their thesis will be used.
+It is open to graduate students. Download most recent course outline  here .
+Analyzing Choice
+(Winter 2014)
+Over the course of this class, students learn to design, implement and analyse the data, from a stated choice survey. The topic of the survey will have to do with an important environmental question. It is open to undergraduate and undergraduate students. Download the most recent undergraduate course outline here .
+Transportation GIS
+(Winter 2016)
+Download the latest course outline .    This course introduces students to the transportation    planning and modeling process aided by the use of a    GIS-based transportation decision aid tool. A real-world    case-study region and transportation system is used     to illustrate the different elements of the planning     and modeling process. The course aims to highlight     both the strengths and weaknesses (particularly with     regards to how it treats the interaction between the     transportation system and land-use) of the traditional     transportation planning approach.
+Research activities
+Current research projects
+L’utilisation des téléphones intelligents pour la collecte de données sur les habitudes de déplacement individuelles (FRSC - Nouveaux chercheurs), Principal Investigator
+Entente de recherche et devéloppement (Agence métropolitaine de transport - AMT), Principal investigator
+Nouveau Modèle Urbain: vers la mise en place d'un cadre intégré de modélisation du développement urbain et des transports dans la région de Montréal (Ministère des Transports du Québec), Principal-investigator, Co-PI: Ahmed El-Geneidy, School of Urban Planning, McGill University
+Canada Research Chair in Transportation-Land-use linkages and regional sustainability (SSHRC), Prinicipal-investigator
+Operating Grant: Preference stability in transportation and land-use modeling for sustainable transportation (SSHRC), principal investigator.
+Securité des carrefours giratoires au Québec (FQRNT), collaborator.
+Empirical analysis of the relationship between urban form, public transit supply and transport sector greenhouse gas emissions in the Quebec urban context (FQRNT), collaborator.
+Circulation et qualité de l’air : Parachèvement de l’Autoroute 25 (Ministère des transports, Québec), collaborator.
+Selected publications
+Refereed publications
+Saddier, Simon, et al. " Fickle or Flexible? Assessing Paratransit Reliability with Smartphones in Accra, Ghana ." Transportation Research Record: Journal of the Transportation Research Board 2650 (2017): 9-17.
+Ricardo Daziano, Owen Waygood and Zachary Patterson. Increasing the Influence of CO2 Emissions Information on Car Purchase. Journal of Cleaner Production, 2017. https://doi.org/10.1016/j.jclepro.2017.07.001
+Zachary Patterson, Javad Mostofi-Darbani*, Ali Rezaei*, and John Zacharias. Comparing Text-only and Virtual Reality Discrete Choice Experiments of Neighborhood Choice. Landscape and Urban Planning, 157(January), pp. 63-74, 2017.
+Amir Zahabi, Ajang Ajzachi and Zachary Patterson. Transit Trip Itinerary Inference with GTFS and Smartphone Data. Accepted in Transportation Research Record: Journal of the Transportation Research Board, 2017.
+Simon Saddier, Zachary Patterson, Alex Johnson and Natalie Wiseman. Fickle or Flexible? Assessing Paratransit Reliability with Smartphones in Accra, Ghana. Accepted in Transportation Research Record: Journal of the Transportation Research Board, 2017.
+Zachary Patterson and Kyle Fitzsimmons. DataMobile Travel Survey Experiment. Transportation Research Record: Journal of the Transportation Research Board January, Vol. 2594, pp. 35-43, 2016.
+Seyed Amir Zahabi, Annie Chang, Luis Miranda-Moreno and Zachary Patterson. "Exploring the link between the neighborhood typologies, bicycle infrastructure and commuting cycling over time and the potential impact on commuter GHG emissions." Transportation Research Part D: Transport and Environment 47 (2016): 89-103.
+Simon Saddier, Zachary Patterson, Alex Johnson, Megan Chan. Mapping the Jitney Network with Smartphones in Accra, Ghana: The AccraMobile Experiment. Transportation Research Record: Journal of the Transportation Research Board January, Vol. 2581, pp. 113-122, 2016.
+Natalie Wiseman and Zachary Patterson. Testing Block Subdivision Algorithms. Journal of Geographical Systems, 18(1), pp 17-43, 2016.
+Amir Zahabi, Luis Miranda-Moreno, Zachary Patterson, and Philippe Barla. Spatio-temporal analysis of car distance and greenhouse gases and the effect of built environment: A latent class regression analysis. Accepted in Transportation Research Part A: Policy and Practice, 77, pp. 1-13, 2015.
+Zachary Patterson and Steven Farber. Potential Path Areas and Activity Spaces in application: A review.  Transport Reviews35(6), 679-700, 2015.
+Amir Zahabi, Luis Miranda-Moreno, Zachary Patterson, and Philippe Barla. Impacts of built environment and emerging green technologies on daily transportation greenhouse gas emissionsin Quebec cities: Disaggregate modeling approach. Transportation, 2014, p. 1-22.
+Zachary Patterson, Simon Saddier, Ali Rezaei and Kevin Manaugh. 2014. Use of the Urban Core Index to Analyze Residential Mobility: The Case of Seniors in Canadian Metropolitan Regions. Journal of Transport Geography - DOI: 10.1016/j.jtrangeo.2014.08.013
+Mario Cano-Perdomo, Ali Rezaei, Zachary Patterson, Nicolas Saunier and Luis Miranda-Moreno. 2014. Pedestrian Preferences with Respect to Roundabouts - A Video-based Stated Preference Survey. Accident Analysis and Prevention. Volume 70, pp. 84-91.
+Annelise Grube-Cavers and Zachary Patterson. 2014.  Urban Rapid Rail Transit and Gentrification in Canadian Urban Centres – A Survival Analysis Approach. Urban Studies. DOI - http://usj.sagepub.com/content/early/2014/03/17/0042098014524287
+Amir Zahabi, Luis Miranda-Moreno, Zachary Patterson, and Philippe Barla. Urban transportation greenhouse gas emissions and its link with urban form, transit accessibility and emerging green technologies: A Montreal case study. Transportation Research Record. Volume 2375, pp. 45-54.
+Commuting trade-offs and distance reduction in two-worker households. Julien Surprenant-Legault, Zachary Patterson and Ahmed El-Geneidy. Transportation Research A: Policy and Practice. Volume 51, May 2013, Pages 12–28
+Christopher Harding, Zachary Patterson, Luis Miranda-Moreno and S. Amir Zahabi. A spatial and temporal comparative analysis of the effects of land use clusters on activity spaces in three Quebec Cities. Accepted for Publication in Environment and Planning B, Special Issue on Activity Space Research from the 2012 IATBR.
+Jacob Larsen, Zachary Patterson and Ahmed El-Geneidy. Build it. But where? The Use of Geographic Information Systems in Identifying Locations for New Cycling Infrastructure. International Journal of Sustainable Transportation, 7(4), 299–317, 2013.
+Christopher Harding, Zachary Patterson and Luis Miranda-Moreno. Modeling the Effect of Land Use on Activity Spaces. Transportation Research Record (2323), 2012.
+Amir Zahabi, Luis Miranda-Moreno, Zachary Patterson, and Philippe Barla. A methodology for evaluating the effect of land-use, parking policy and transit supply on mode choice of downtown commuters. Journal of Transportation and Land Use, Vol. 5, No. 2, 2012.
+Nithya Vijayakumar, Ahmed El-Geneidy, and Zachary Patterson. Driving to suburban rail stations: Identifying variables that influence driving distances. Transportation Research Record (2219): 97–103, 2011.
+Nikolaus Fries, Gerard de Jong, Zachary Patterson, and Ulrich Weidmann. Market potential and value of sustainable freight transportation chains - a discrete choice approach. Transportation Research Record, 2168:33-42, 2010.
+Zachary Patterson, Mark Kryvobokov, Fabrice Marchal, and Michel Bierlaire. Disaggregate models with aggregate data: Two UrbanSim applications. Journal of Transport and Land Use, 3(2), 2010.
+Zachary Patterson, Gordon O. Ewing, and Murtaza Haider (2010). Howdifferent is carrier choice for third party logistics companies? A mixed-logit approach. Transportation Research Part E: Logistics andTransportation, 46, pp. 764-774, 2010.
+Zachary Patterson and Michel Bierlaire. Development of prototypeUrbanSim models. Environment and Planning B:Planning and Design, 37(2):344-366, 2010.
+Zachary Patterson, Gordon Ewing, and Murtaza Haider. The potential for premium-intermodal services to reduce freight CO2 emissions in the Quebec City - Windsor Corridor. Transportation Research D: Transport and Environment, 13(1):1-9, 2008.
+Zachary Patterson, Gordon Ewing, and Murtaza Haider. Shipper mistrust of rail use: First stated preference carrier choice survey for the Quebec City - Windsor Corridor. Transportation Research Record, 2008:67-74, 2007a.
+Zachary Patterson, Gordon Ewing, and Murtaza Haider. A gender-based analysis of work trip mode choice of suburban Montreal commuters using stated preference data. Transportation Research Record, 1924:85-93, 2005a.
+Book chapters
+Ahmed El-Geneidy, Zachary Patterson, and Evelyne St. Louis. Transport and land-use interactions in cities: Getting closer to opportunities, chapter 10, pages 175–193. Canadian Cities in Transition. University of Oxford Press, fifth edition, 2015.
+Scott Vaughan, Chantal Line Carpentier, Zachary Patterson, and Paul Miller. Beyond Kyoto: Canadian Energy Policy in the Sustainable Development Era,Chapter 6 - Canada-U.S. Electricity Trade and Climate Change, pages 151–173. University of Toronto Press, Toronto, Canada, 2005.
+Peer-reviewed technical reports
+Chantal Line Carpentier and Zachary Patterson. Understanding and anticipating environmental change in North America: Building blocks for better public policy. CEC Publication Series 2, NAFTA Commission for Environmental Cooperation, Montreal, Canada, 2003a.
+Paul J. Miller, Zachary Patterson, and Scott Vaughan. Estimating future air pollution from new electric power generation. Working Paper 2, NAFTA Commission for Environmental Cooperation, Montreal, Canada, 2002.
+Working paper produced as part of secretariat report to the CEC Council under Article 13 of the North American Agreement on Environmental Cooperation.
+Zachary Patterson. Modeling techniques and estimating environmental outcomes. Working Paper 5, NAFTA Commission for Environmental Cooperation, Montreal, Canada, 2002. Secretariat Report to Council under Article 13 of the North American Agreement on Environmental Cooperation.
+Scott Vaughan, Zachary Patterson, Paul Miller, and Greg Block. Environmental challenges and opportunities of the evolving North American electricity market. Working Paper 1, NAFTA Commission for Environmental Cooperation, Montreal, Canada, 2002. Secretariat Report to Council under Article 13 of the North American Agreement on Environmental Cooperation.
+Changing biodiversity, changing markets: Links between agricultural trade, markets and biodiversity. Background Paper, NAFTA Commission for Environmental Cooperation, Montreal, Canada, 2002. Discussion paper for the January 2002 NAFTA Commission for Environmental Cooperation meeting on “Assessing the Environmental Effects of Trade”.
+Proceedings
+Amir Zahabi, Luis Miranda-Moreno, Zachary Patterson, Philippe Barla, and Christopher Har- ding. Transportation greenhouse gas emissions and its relationship with urban form, transit accessibility and emerging green technologies: A montreal case study. 15th edition of the Eu- ropean Working Group on Transportation (EWGT), Elsevier Procedia Social and Behavioural Sciences, September 2012c. Paris, France.
+Christopher Harding, Zachary Patterson, and Luis Miranda-Moreno. A spatial and temporal analysis of the effects of land use clusters on activity spaces of residents in Montreal and Que- bec. Paper presented at the Conference of the International Association for Travel Behaviour Research, July 2012b. Toronto, Canada.
+Zachary Patterson and Annelise Grube-Cavers. Metros and gentrification in Montreal: A survival analysis approach. Paper presented in session 233 of the 91st Annual Meeting of the Transportation Research Board, January 2012. Washington, DC.
+Christopher Harding, Zachary Patterson, Luis Miranda-Moreno, and Amir Zahabi. Modeling the effect of land use on activity spaces. Paper presented in session 795 of the 91st Annual Meeting of the Transportation Research Board, January 2012b. Washington, DC.
+S
+abrina Chan, Luis Miranda-Moreno, and Zachary Patterson. Analysis of greenhouse gas emissions for city passenger trains: Is electricity an obvious option for montreal commuter trains? Paper presented in session 309 of the 91st Annual Meeting of the Transportation Research Board, January 2012. Washington, DC.
+￼ Amir Zahabi, Luis Miranda-Moreno, Zachary Patterson, and Philippe Barla. Evaluating the impact of travel demand management strategies on greenhouse gases for downtown commuters in rail catchment areas. Paper presented in session 299 of the 91st Annual Meeting of the Transportation Research Board, January 2012. Washington, DC.
+Amir Zahabi, Luis Miranda-Moreno, Zachary Patterson, and Philippe Barla. A methodology for evaluating the effect of land-use , parking policy and transit supply on mode choice of downtown commuters. In Proceedings of the World Symposium on Transport and Land Use Research, Whistler, BC, July 2011. World Society on Transport and Land Use Research.
+Zachary Patterson, Ka Kee Chu, Maxime Formond, and Daniel Bergeron. A technique to estimate disaggregate park and ride travel times. In Proceedings of the 90th Annual Meeting of the Transportation Research Board, Washington, DC, January 2011. Transportation Research Board. No. : 11-0693.
+Nithya Vijayakumar, Ahmed El-Geneidy, and Zachary Patterson. Driving to suburban rail stations: Identifying variables that influence driving distances. In Proceedings of the 90th Annual Meeting of the Transportation Research Board, Washington, DC, January 2011. Transportation Research Board. No. : 11-0821.
+Zachary Patterson and Michel Bierlaire. Development of prototype UrbanSim models. In Proceedings of the 88th Annual Meeting of the Transportation Research Board, Washington, DC, January 2009. Transportation Research Board. No. :09-2015.
+Zachary Patterson and Michel Bierlaire. Development of prototype UrbanSim models. In Proceedings of the European Transport Conference, Noordwijkerhout, Netherlands, October 2008a.
+Nikolaus Fries and Zachary Patterson. Carrier or mode? the dilemma of shipper choice in freight modelling. In Proceedings of the 8th Swiss Transport Research Conference, Monte Verit, Switzerland, October 2008.
+Zachary Patterson and Michel Bierlaire. Development of prototype UrbanSim models. In Proceedings of the 8th Swiss Transport Research Conference, Monte Verità, Switzerland, October 2008b.
+Zachary Patterson and Philippe Thalmann. Road pricing as a means to reduce congestion. In L’aménagement de l’espace, talon d’Achille du développement Durable?, Institut de développement territorial, EPFL, Lausanne, June 2008.
+Zachary Patterson, Gordon O. Ewing, and Murtaza Haider. How different is carrier choice for third party logistics companies? a mixed-logit approach. In Proceedings of the 87th Annual Meeting of the Transportation Research Board, Washington, DC, January 2008b. Transportation Research Board. Reference Number: 08-0740.
+Zachary Patterson and Michel Bierlaire. An UrbanSim model of Brussels within a short timeline. In Proceedings of the 7th Swiss Transport Research Conference, Monte Verità, Switzerland, September 2007.
+Zachary Patterson. Mode and carrier choice in the Quebec City -Windsor Corridor: A random parameters approach. In Proceedings of the 6th Triennal Symposium on Transportation Analysis (TRISTAN VI), Phuket Island, Thailand, June 2007.
+Zachary Patterson, Gordon O. Ewing, and Murtaza Haider. Is carrier choice different for 3PLs and other end-shippers? Some preliminary findings. In Proceedings of the 42nd Canadian Transportation Research Forum, pages 343–356, Winnipeg, Canada, June 2007b. Canadian Transportation Research Forum.
+Murtaza Haider, Zachary Patterson, and Gordon O. Ewing. Do logistics managers in Quebec differ in risk perception from those in Ontario? a cross-cultural study. In Proceedings of the 42nd Canadian Transportation Research Forum, pages 219–233, Winnipeg, Canada, June 2007. Canadian Transportation Research Forum.
+Zachary Patterson, Gordon O. Ewing, and Murtaza Haider. Shipper mistrust of rail use: First stated-preference carrier choice survey for Quebec City-Windsor Corridor. In Proceedings of the 86th Annual Meeting of the Transportation Research Board, Washington, DC, January 2007c. Transportation Research Board. Reference Number: 07-0614.
+Zachary Patterson, Gordon O. Ewing, and Murtaza Haider. The potential for premium-intermodal services to reduce freight carbon dioxide emissions in the Quebec City - Windsor Corridor: A stated preference application. In Proceedings of the 86th Annual Meeting of the Transportation Research Board, Washington, DC, January 2007d. Transportation Research Board. Reference Number: 07-0891.
+Zachary Patterson, Gordon O. Ewing, and Murtaza Haider. The first carrier choice survey for the Quebec City - Windsor Corridor: Shipper preferences suggest uphill battle for increasing rail freight market share. In Proceedings of the 41st Canadian Transportation Research Forum, pages 128–142, Quebec City, Canada, May 2006a. Canadian Transportation Research Forum.
+Zachary Patterson, Gordon O. Ewing, and Murtaza Haider. The first carrier choice survey for the Quebec City - Windsor Corridor: Shipper preferences suggest uphill battle for increasing rail freight market share. In Proceedings of the 6th Swiss Transport Research Conference, Monte Verità, Switzerland, March 2006b.
+Zachary Patterson, Murtaza Haider, and Gordon O. Ewing. Developing a conceptual framework for the integration of urban with international freight transportation models. In Proceedings of the National Urban Freight Conference, Long Beach,CA, February 2006c. METRANS Transportation Center.
+Zachary Patterson, Murtaza Haider and Gordon O. Ewing. Did September 11 affect freight mode split in the Quebec - New York Corridor? In Proceedings of the 84th Annual Meeting of the Transportation Research Board, Washington, DC,January 2005. Transportation Research Board. Reference Number: 05-2033.
+Zachary Patterson, Gordon O. Ewing, and Murtaza Haider. A gender-based analysis of work trip mode choice of suburban Montreal commuters using stated preference data. In Proceedings of the 84th Annual Meeting of the Transportation Research Board, Washington, DC, January 2005b. Transportation Research Board.
+Other technical reports
+Zachary Patterson and Ricardo Hurtubia. Development of a prototype UrbanSim model for the Lausanne-Morges region of Switzerland. Technical report, EPFL - Transport and Mobility Laboratory, August 2008.
+Gordon O. Ewing, Murtaza Haider, and Zachary Patterson. Decreasing GHG emissions through the use of premium-TOFC services in the Quebec City – Windsor Corridor: A shipper’s perspective using stated preference techniques. Technical Report, McGill University, Montreal, Canada, June 2006. Report submitted to Transport Canada under the Transportation Planning and Modal Integration Initiatives Program.
+Zachary Patterson. The need for rail infrastructure investment on the Montreal- Toronto Corridor. Technical Report, McGill University, School of Urban Planning, Montreal, Canada, 2003.
+Zachary Patterson and Michael McLean. Calgary LRT: Bucking the trend of low ridership and cost overruns? Technical Report, McGill University, School of Urban Planning, Montreal, Canada, 2003.
+Zachary Patterson. The effects of the late 1990’s oil price shock on transportation and energy use demand in Canada - a cursory analysis. Technical Report, Transportation and Energy Use Division, Natural Resources Canada, Ottawa, Canada, 2001.
+Zachary Patterson. An attempt at the hedonic estimation of willingness to pay for fuel efficiency in light duty vehicles in Canada in 1997. Technical Report, Transportation and Energy Use Division, Natural Resources Canada, Ottawa, Canada, 2000.
+Zachary Patterson. Gasoline demand elasticity in Quebec - can rapid tax increases change gasoline demand elasticity? A preliminary analysis. Technical Report, Transportation and Energy Use Division, Natural Resources Canada, Ottawa, Canada, 2000.
+TRIP Lab
+TRIP Lab Smartphone Travel Survey Platform Workshop
+May 25 and 26, Concordia University
+Download the Workshop Agenda
+The TRIP Lab is holding a 2-day workshop on Smartphone Travel Surveys and how to use its new Smartphone Travel Survey Platform at Concordia University.
+The TRIP Lab platform enables researchers to create their own free smartphone travel survey application.
+The Platform is useful for anyone who wants to collect and analyze data on commuting and urban travel behaviour, including:
+transportation planning authorities: transit operators, ministries of transportation, etc.
+academic researchers: faculty and students from civil engineering, urban planning, geography, health, etc.
+not-for-profits and community groups with a transportation focus
+Registration is free, but spaces are limited.
+Required: Smartphone [Android 4.1 (Jellybean, API 16) or Apple (iOS8.0 and above,  iPhone4S or newer)]
+To register, please write to triplab.workshop@gmail.com
+Welcome to the lab
+The Transportation Research  for Integrated Planning (TRIP) Lab was founded in October 2011 as part of a  Canadian Foundation for Innovation (CFI) grant associated with a Tier-II Canada  Research Chair in Transportation and Land-use Linkages for Regional Sustainability.  The TRIP lab is equipped with high-powered computers and servers for  geographical and statistical analysis and is able to house up to 10 student  researchers. It is also home to unique and expansive transportation and  land-use data for Montreal as well as other major urban regions across the  country. Analysis of this data is made possible by cutting-edge and  sophisticated software for geographical analysis, transportation modeling and  statistical analysis.
+Research  in the TRIP lab focuses on the modeling of transportation, the environment,  land-use and their linkages. It also involves using new technologies to collect  data on where people decide to live and how they move around the city.  Recently, a smartphone  travel survey application                and platform ( Itinerum™ ) has been developed to  conduct origin-destination of members of the Concordia community.
+Research on urban transportation at Concordia:
+Department of Geography, Planning & Environment
+Department of Building, Civil & Environmental Engineering
+Current opportunities (with funding) in the TRIP Lab
+PhD student to work on the DataMobile Smartphone Survey App Project ( itinerum.ca ). Co-supervision with Prof. Bilal Farooq of Polytechnique Montréal. Expertise required: spatial database programming and management (e.g. Postgres/PostGIS); Python, JavaScript, Processing; Socket programming, distributed systems; Machine learning. Find out more here .
+Master's or PhD students interested in inference from, and processing of, transportation data collected with smart phones. Experience with (or willing to learn about) Open Source GIS (e.g. QGIS) and programming (especially Python) required.
+Master's or PhD students with capacity or experience in smartphone app (iOS and Android) development for transportation-related data collection.
+Current students
+Name
+Degree
+Research Area
+Co-supervisor
+Unit
+Kyle Fitzsimmons
+BA
+Data Collection with Smartphones
+GPE, Concordia
+Guilhem Poucin
+MEng
+Pedestrian Behaviour and WIFI Data
+Bilal Farooq
+Polytechnique Montreal
+Mohsen Rezeai
+MSc
+Inference from Smartphone Data
+GPE, Concordia
+Natalie Wiseman
+MSc
+Block Subdivision Algorithms
+GPE, Concordia
+Ali Yazdizadeh
+MSc
+Visual SP Surveys
+GPE, Concordia
+Dr. Amir Zahabi
+Postdoc       
+Transit Route Inference from Smartphone Data
+GPE, Concordia
+Former students
+Name
+Degree
+Research Area
+Co-supervisor
+Unit
+Mario Cano Perdomo
+MSc
+Stated Choice and Roundabout Design
+Nicolas Saunier
+GPE, Concordia
+Megan Chan
+MEnv Intern
+Transit Route Mapping in Accra, Ghana
+GPE, Concordia
+Javad Darbani   
+MSc
+Video Games and SP Surveys
+GPE, Concordia
+Annie Chang     
+MEng
+Land use and emissions
+Miranda-Moreno
+Civ. Eng., McGill
+Sabrina Chan
+MEng
+Transit and emissions 
+Miranda-Moreno
+Civ. Eng., McGill
+Annelise Grube-Cavers
+MSc
+Transport and gentrification 
+GPE, Concordia
+Christopher Harding
+MSc
+Land-use and emissions 
+GPE, Concordia
+Sean Mayzes
+Summer Intern
+Transit Route Mapping in Accra, Ghana
+GPE, Concordia
+Dr. Ali Rezeai
+Postdoc
+Stated and Revealed Household Location Choice
+GPE, Concordia
+Razafindramary Robson
+BEng
+Smart phone data collection
+Soft. Eng., Concordia
+Simon Saddier
+Intern
+Baby boomer res. choice
+GPE, Concordia
+Sydney Swaine-Simon
+BEng
+Unity and Stated Choice Surveys
+Soft. Eng., Concordia
+Nikhil Tangirala
+Summer Intern
+Transit Route Mapping in Accra, Ghana
+Geography, McGill
+Phil Viau
+USRA Scholar
+Smartphone data collection
+GPE, Concordia
+Recent working papers
+Zachary Patterson and Kyle Fitzsimmons. DataMobile: A Smartphone Travel Survey Experiment. TRIP Lab Working Paper 2016-02, TRIP Lab; Montreal, Canada, 2016 (Accepted for Publication in the Transportation Research Record).
+Ali Rezaei and Zachary Patterson. Detecting, non-transitive, inconsistent responses in discrete choice experiments. Working Paper 2015-30, CIRRELT,  Montreal, Canada, 2015 (submitted to Transportation).
+Natalie Wiseman and Zachary Patterson. Testing block subdivision algorithms on block designs. Working Paper 2015-26, CIRRELT,  Montreal, Canada, 2015.
+Seyed Amir Zahabi and Zachary Patterson. Towards transit trip itinerary inference from smartphone data: A case study from Montreal, Canada. CIRRELT Working Paper 2016-07 , CIRRELT, Montreal, Canada, 2016.
+Natalie Wiseman and Zachary Patterson. Modeling road network type. Working Paper 2015-7, TRIP Lab, Montreal, Canada, 2015 (Accepted for presentation at TRB 2016).
+Simon Saddier, Zachary Patterson, Alex Johnson, and Megan Chan. Mapping Accra’s jitney network with smartphones: the AccraMobile experiment. Working Paper 2015-8, Concordia University TRIP Lab, Montreal, Canada, 2015 (Accepted for publication in the Transportation Research Record and for presentation at TRB 2016).
+Ali Rezaei and Zachary Patterson. Detecting inconsistent responses in sp surveys: The weighted systematic consistency test. Working Paper 2015-10, TRIP Lab, Montreal, Canada, August 2015 (Accepted for presentation at TRB 2016).
+Ali Rezaei and Zachary Patterson. A systematic test for identifying inconsistency, learning and fatigue effects in stated choice surveys. Working Paper 2015-9, TRIP Lab, Montreal, Canada, August 2015 (Presented at 2015 IATBR).
+Zachary Patterson, Christopher Harding, Amir Zahabi and Luis Miranda-Moreno. Residential Location, High Capacity Transportation Infrastructure and Their Influences on Emissions and Travel Dispersal, CIRRELT Working Paper 2013-81.
+Mario Cano-Perdomo, Ali Rezaei, Zachary Patterson, Nicolas Saunier and Luis Miranda-Moreno. Pedestrian Preferences with Respect to Roundabouts - A Video-based Stated Preference Survey.CIRRELT Working Paper 2013-82.
+Javad Mostofi Darbani, Ali Rezaei, Zachary Patterson, John Zacharias. Video Game vs. Traditional Text-only SP Survey of Neighborhood Choice. Presented in session 786 of the 93nd Annual Meeting of the Transportation Research Board, January 2013. Washington, DC.
+Christopher Harding, Zachary Patterson and Kay Axhausen. Neighborhood and Regional Effects on Trip Disperal: A Case Study Using Data from the 9 larges Metropolitan Regions in Switzerland. Presented in session 774 of the 93nd Annual Meeting of the Transportation Research Board, January 2013. Washington, DC.
+Ali Rezaei and Zachary Patterson. Differences between Owners and Renters in Household Location Choice Models: Accounting for the Evolution of Choice Behavior in Montreal over One and a Half Decades, TRIP Lab Working Paper 2013-1.
+Annelise Grube-Cavers and Zachary Patterson. Urban Rapid Rail Transit and Gentrification in Canadian Urban Centres – A Survival Analysis Approach, CIRRELT Paper 2013-06. CIRRELT, Montreal.
+Christopher Harding, Zachary Patterson and Luis Miranda-Moreno. Activity Space Geometry and Its Effect on Mode Choice. To be presented in session 731 of the 92nd Annual Meeting of the Transportation Research Board, January 2012. Washington, DC.
+News & Press Releases
+Concordia news stories
+MTLTrajet: an app with street smarts
+Back to top
+© Concordia University
+Concordia University - Call us at 514-848-2424
+About the Faculty
+Academics
+Research & graduate studies
+Student services
+Alumni
+Sir George Williams Campus
+1455 De Maisonneuve Blvd. W.
+Montreal, Quebec, Canada
+H3G 1M8
+See SGW Campus map
+Loyola Campus
+7141 Sherbrooke Street W.
+Montreal, Quebec, Canada
+H4B 1R6
+See Loyola Campus map
+facebook
+twitter
+google
+youtube
+linkedin
+pinterest
+instagram
+flickr
+Concordia social
+© Concordia University
+Terms
+Privacy
+Accessibility
+Website feedback
+Share this page
+Concordia.ca
+Call us at
+514-848-2424
+Sir George Williams Campus
+1455 De Maisonneuve Blvd. W.
+Montreal, Quebec, Canada
+H3G 1M8
+See SGW Campus map
+Loyola Campus
+7141 Sherbrooke Street W.
+Montreal, Quebec, Canada
+H4B 1R6
+See Loyola Campus map
+Website feedback
+Terms
+Privacy
+Accessibility
+© Concordia University

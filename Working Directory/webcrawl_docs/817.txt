@@ -1,0 +1,241 @@
+Concordia University
+https://www.concordia.ca/content/shared/en/events/offices/vprgs/sgs/2017/12/04/phd-oral-exam-150-mohamed-nabil-tolba-information-and-systems-engineering.html
+Study resources
+Calendar - Graduate
+Calendar - Undergraduate
+Class schedules
+Class cancellations
+Course registration
+Important academic dates
+More academic resources
+Campus services
+Concordia Stores
+IT services
+Job opportunities
+Security
+Shuttle bus
+Student Service Centre (Birks)
+All campus services
+What's new
+Calendar of events
+Latest news
+Media Relations
+Faculties, Schools & Colleges
+Arts and Science
+Engineering and Computer Science
+Fine Arts
+John Molson School of Business
+School of Graduate Studies
+All Schools, Colleges & Departments
+Quick links  
+Webmail Library Cspace
+Study resources  
+Calendar - Graduate
+Calendar - Undergraduate
+Class schedules
+Class cancellations
+Course registration
+Important academic dates
+More academic resources
+Campus services  
+Concordia Stores
+IT services
+Job opportunities
+Security
+Shuttle bus
+Student Service Centre (Birks)
+All campus services
+What's new  
+Calendar of events
+Latest news
+Media Relations
+Faculties, Schools & Colleges  
+Arts and Science
+Engineering and Computer Science
+Fine Arts
+John Molson School of Business
+School of Graduate Studies
+All Schools, Colleges & Departments
+Quick links The Campaign for Concordia
+MyConcordia
+Cspace
+Webmail
+Library
+Directories
+A-Z
+Maps
+Future students
+Student hub
+Alumni & friends
+Parents
+Faculty & staff
+Media
+Concordia University
+Concordia University
+Events
+Calendar
+Academic dates
+University holidays
+Cancelled classes
+Planning & hosting
+The Campaign for Concordia
+Study resources
+Calendar - Graduate
+Calendar - Undergraduate
+Class schedules
+Class cancellations
+Course registration
+Important academic dates
+More academic resources
+Campus services
+Concordia Stores
+IT services
+Job opportunities
+Security
+Shuttle bus
+Student Service Centre (Birks)
+All campus services
+What's new
+Calendar of events
+Latest news
+Media Relations
+Faculties, Schools & Colleges
+Arts and Science
+Engineering and Computer Science
+Fine Arts
+John Molson School of Business
+School of Graduate Studies
+All Schools, Colleges & Departments
+Quick links  
+Webmail Library Cspace
+Study resources  
+Calendar - Graduate
+Calendar - Undergraduate
+Class schedules
+Class cancellations
+Course registration
+Important academic dates
+More academic resources
+Campus services  
+Concordia Stores
+IT services
+Job opportunities
+Security
+Shuttle bus
+Student Service Centre (Birks)
+All campus services
+What's new  
+Calendar of events
+Latest news
+Media Relations
+Faculties, Schools & Colleges  
+Arts and Science
+Engineering and Computer Science
+Fine Arts
+John Molson School of Business
+School of Graduate Studies
+All Schools, Colleges & Departments
+Information for...
+Future students
+Student hub
+Alumni & friends
+Parents
+Faculty & staff
+Media
+Concordia
+Directories
+Search
+Concordia University
+Events
+Concordia.ca
+ / 
+Events
+Facebook
+Twitter
+LinkedIn
+GooglePlus
+PhD Oral Exam - Mohamed Nabil Tolba, Information and Systems Engineering
+Cryptanalysis of Block Ciphers with New Design Strategies
+December 4, 2017, 10:30 a.m. – 1:30 p.m.
+When studying for a doctoral degree (PhD), candidates submit a thesis that provides a critical review of the current state of knowledge of the thesis subject as well as the student’s own contributions to the subject. The distinguishing criterion of doctoral graduate research is a significant and original contribution to knowledge.
+Once accepted, the candidate presents the thesis orally. This oral exam is open to the public.
+Abstract
+Block ciphers are among the mostly widely used symmetric key cryptographic primitives, which are fundamental building blocks in cryptographic/security systems. Most of the public-key primitives are based on hard mathematical problems such as the integer factorization in the RSA algorithm and discrete logarithm problem in the DiffieHellman. Therefore, their security are mathematically proven. In contrast, symmetric-key primitives are usually not constructed based on well-defined hard mathematical problems. Hence, in order to get some assurance in their claimed security properties, they must be studied against different types of cryptanalytic techniques. Our research is dedicated to the cryptanalysis of block ciphers. In particular, throughout this thesis, we investigate the security of some block ciphers construced with new design strategies. These new strategies include (i) employing simple round function, and modest key schedule, (ii) using another input called tweak rather than the usual two inputs of the block ciphers, the plaintext and the key, to instantiate different permutations for the same key. This type of block ciphers is called a tweakable block cipher, (iii) employing linear and non-linear components that are energy efficient to provide low energy consumption block ciphers, (iv) employing optimal diffusion linear transformation layer while following the AES-based construction to provide faster diffusion rate, and (v) using rather weak but larger S-boxes in addition to simple linear transformation layers to provide provable security of ARX-based block ciphers against single characteristic differential and linear cryptanalysis.
+The results presented in this thesis can be summarized as follows:
+Initially, We analyze the security of two lightweight block ciphers, namely, Khudra and Piccolo against Meet-in-the-Middle (MitM) attack based on the Demirci and Sel¸cuk approach exploiting the simple design of the key schedule and round function. Next, we investigate the security of two tweakable block ciphers, namely, Kiasu-BC and SKINNY. According to the designers, the best attack on Kiasu-BC covers 7 rounds. However, we exploited the tweak to present 8-round attack using MitM with efficient enumeration cryptanalysis. Then, we improve the previous results of the impossible differential cryptanalysis on SKINNY exploiting the tweakey schedule and linear transformation layer.
+Afterwards, we study the security of new low energy consumption block cipher, namely, Midori128 where we present the longest impossible differential distinguishers that cover complete 7 rounds. Then, we utilized 4 of these distinguishers to launch key recovery attack against 11 rounds of Midori128 to improve the previous results on this cipher using the impossible differential cryptanalysis. Then, using the truncated differential cryptanalysis, we are able to attack 13 rounds of Midori128 utilizing a 10-round differential distinguisher.
+We also analyze Kuznyechik, the standard Russian federation block cipher, against MitM with efficient enumeration cryptanalysis where We improve the previous results on Kuznyechik, using MitM attack with efficient enumeration, by presenting 6-round attack. Unlike the previous attack, our attack exploits the exact values of the coefficients of the MDS transformation that is used in the cipher.
+Finally, we present key recovery attacks using the multidimensional zero-correlation cryptanalysis against SPARX-128, which follows the long trail design strategy, to provide provable security of ARX-based block ciphers against single characteristic differential and linear cryptanalysis.
+Where
+Room EV 11.119, Engineering, Computer Science and Visual Arts Integrated Complex (1515 St. Catherine W.), Sir George Williams Campus
+Cost
+This event is free
+Organizer
+Mary Appezzato
+Organization
+School of Graduate Studies
+Contact
+514-848-2424, ext. 3813
+Category
+Thesis defences
+Calendar
+Submit an event
+Latest news
+Back to top
+© Concordia University
+Concordia University - Call us at 514-848-2424
+About
+Academics
+Admissions
+Campus life
+Research
+International
+Future students
+Current students
+Alumni & friends
+Parents
+Faculty & staff
+Media
+Sir George Williams Campus
+1455 De Maisonneuve Blvd. W.
+Montreal, Quebec, Canada
+H3G 1M8
+See SGW Campus map
+Loyola Campus
+7141 Sherbrooke Street W.
+Montreal, Quebec, Canada
+H4B 1R6
+See Loyola Campus map
+facebook
+twitter
+google
+youtube
+linkedin
+pinterest
+instagram
+flickr
+Concordia social
+© Concordia University
+Terms
+Privacy
+Accessibility
+Website feedback
+Share this page
+Concordia.ca
+Call us at
+514-848-2424
+Sir George Williams Campus
+1455 De Maisonneuve Blvd. W.
+Montreal, Quebec, Canada
+H3G 1M8
+See SGW Campus map
+Loyola Campus
+7141 Sherbrooke Street W.
+Montreal, Quebec, Canada
+H4B 1R6
+See Loyola Campus map
+Website feedback
+Terms
+Privacy
+Accessibility
+© Concordia University

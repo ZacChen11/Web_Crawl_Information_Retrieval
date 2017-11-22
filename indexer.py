@@ -2,8 +2,11 @@ import sys
 from token_streamer import TokenStreamer
 from token_streamer import CorpusStatsStreamer
 from token_streamer import DocumentSentimentStreamer
+from token_streamer import TermCollectorStreamer
+
 from os import remove
 import time
+import sentiment_dictionary
 
 
 def create_index():
@@ -13,7 +16,8 @@ def create_index():
     i, blocks = 0, []
     base_stream = TokenStreamer()
     stats_stream = CorpusStatsStreamer(base_stream)
-    stream = DocumentSentimentStreamer(stats_stream)
+    stream = TermCollectorStreamer(stats_stream)
+    # stream = DocumentSentimentStreamer(terms_collector_stream)
 
     while stream.has_next():
         d, p = spimi_invert(stream, i)
@@ -68,7 +72,11 @@ def write_block_to_disk(block, i):
         postings_list = block[key]
 
         # write each key to a new line in dictionary file
-        dict_file.write(key+'\n')
+        try:
+            dict_file.write(key.encode('utf-8')+'\n')
+        except:
+                print key
+
         for posting in postings_list:
             # write each posting to corresponding line in postings file
             postings_file.write(','.join(map(str, posting)))
@@ -87,8 +95,11 @@ def merge_blocks(block_names):
     print 'Merging blocks...'
 
     # create new files for final merged dictionary and postings
-    final_dict = open('reuters.dict', 'w')
-    final_postings = open('reuters.postings', 'w')
+    final_dict = open('webcrawl.dict', 'w')
+    final_postings = open('webcrawl.postings', 'w')
+
+    # open sentiment dictionary to save to index
+    sd = sentiment_dictionary.SentimentDictionary()
 
     # initialize lists
     dict_read_buffer = []
@@ -109,8 +120,14 @@ def merge_blocks(block_names):
         # determine smallest term in all buffers
         min_term = min(dict_read_buffer)
 
+        # get term's sentiment value
+        if min_term[:-1] in sentiment_dictionary.SentimentDictionary.dictionary:
+            sentiment_value = sentiment_dictionary.SentimentDictionary.dictionary[min_term[:-1]]
+        else:
+            sentiment_value = 0
+
         # write min term to file and the current position in the postings file (pointer to line)
-        final_dict.write(str(min_term)[:-1]+','+str(final_postings.tell())+'\n')
+        final_dict.write(str(min_term)[:-1]+','+str(final_postings.tell())+','+str(sentiment_value)+'\n')
 
         # for every block with min term, write postings to file and update read buffer
         # postings are already in order

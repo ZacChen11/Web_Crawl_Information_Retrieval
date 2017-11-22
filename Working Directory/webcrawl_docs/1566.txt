@@ -1,0 +1,105 @@
+Accessibility Tools
+Skip to Content
+Accessibility
+Text Size: N/A
+Breadcrumb
+Concordia Home
+Hardware Verification Group Home
+ 
+ 
+Search
+HVG
+All of Concordia
+Staff & Faculty Directory
+Search Query
+ 
+Main Menu
+Research
+Publications
+People
+Alumni
+Laboratories
+Partners
+Events
+Honours
+ 
+Homepage
+ 
+Who we are
+HVG (Hardware Verification Group) is one of the several research labs in the department of Electrical and Computer Engineering in Concordia University .
+HVG mission is the development of methodologies, algorithms and tools for the formal and semi-formal verification of hardware, embedded and physical systems.
+HVG was founded in 1996 by Prof. Sofiène Tahar and is currently composed of more than 20 members .
+HVG conducted several projects in collaboration with national and international industry and academic partners.
+HVG research is funded by various national granting agencies and sponsored by several local and international industries .
+Social Events
+Click the image above to go to our albums!
+What we do
+Formal Analysis of Probabilistic Systems
+Formal Analysis of Optical Systems
+Formal Analysis of Control Systems
+Analog and Mixed Signal Analysis
+SystemC TLM Verification
+Formal Verification of Cloud Systems
+Analysis and Verification Tools
+Industrial Applications
+HVG in the news
+“Student success is more gratifying than any prize”
+Concordia NOW E-Newsletter, November 30, 2016
+“Qui sécurise les systèmes de sécurité?”
+Émission La Grande Équation: March 2, 2016
+“La Verification” (Dossier technologies de l’information)
+Edition: Octobre-Novembre 2009
+The OIQ premier magazine (PLAN)
+“Putting the tea in teaching”
+May 21, 2009 Vol.4, No.16
+“Ingénierie - A la traque des défaillances catastrophiques”
+Edition du samedi 02 et du dimanche 03 mai 2009
+Version Francaise English Chinese
+ 
+ 
+Partners
+Organized Conferences
+More about HVG
+Winter 2007 “Can he check your (micro) chip?”
+Spring 2005 “HVG - ECE’s Electronic Dream Team “
+Feb 2005 “Significant Innovations 2004-2005″
+Fall 2004 “Concordia Group helps Pioneer System-on-Chip Research”
+ 
+Quick Link
+Contact Us
+HVG Helpdesk
+Technical Reports
+Recent Publications
+Formalized Probability Theory and Applications using Theorem Proving, (IGI Global Pub, 2015)
+Network Security Technologies: Design and Applications (IGI Global Pub, 2014)
+Lyapunov-Based Adaptive State of Charge and State of Health Estimation for Lithium-Ion Batteries (TIE, 2015)
+Formal Probabilistic Analysis of Detection Properties in Wireless Sensor Networks (FAC 2014)
+Formal Analysis of Optical Systems (MCS 2014)
+Towards Enhancing Analog Circuits Sizing using SMT-based Techniques (DAC 2015)
+On the Formal Analysis of Photonic Signal Processing Systems (FMICS 2015)
+On the Formal Verification of Optical Quantum Gates in HOL (FMICS 2015)
+ 
+ 
+Concordia University
+Tools & Quicklinks
+A-Z Index
+Directory
+Campus Map
+Shuttle Bus Schedule
+MyConcordia
+Webmail
+Libraries
+Jobs
+Giving to Concordia
+ 
+Concordia University - Hardware Verification Group
+1455 de Maisonneuve Blvd. W, EV005.139, Montreal, Quebec, Canada H3G 1M8
+Telephone (1) 514-848-2424 ext. 3114
+Contact Us | Webmaster | University Mailing Address
+Copyright © 2017 Concordia University | Legal Notice
+Back to Top
+Page Info
+Page Title: Homepage - Concordia University - Montreal, Quebec, Canada
+Page URL:http://hvg.ece.concordia.ca/index.php ...
+Date Printed: Tue November 21, 2017
+ 

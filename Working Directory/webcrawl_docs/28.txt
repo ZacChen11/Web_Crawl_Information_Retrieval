@@ -1,0 +1,3 @@
+Welcome to Weblogic Application Server 12.1
+Please click here to PeopleSoft logon page
+ 

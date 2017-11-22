@@ -1,0 +1,336 @@
+Study resources
+Calendar - Graduate
+Calendar - Undergraduate
+Class cancellations
+Class schedules
+Course registration
+Important academic dates
+More academic resources
+Campus services
+Concordia Stores
+IT services
+Job opportunities
+Security
+Shuttle bus
+Student Service Centre (Birks)
+All campus services
+What's New
+Calendar of events
+Latest news
+Media Relations
+Faculties, Schools & Colleges
+Arts and Science
+Engineering and Computer Science
+Fine Arts
+John Molson School of Business
+School of Graduate Studies
+All Schools, Colleges & Departments
+Concordia University
+Quick links The Campaign for Concordia
+MyConcordia
+Cspace
+Webmail
+Directories
+Hours
+A-Z
+Maps
+Library
+Ask a Librarian  
+Log into ... 
+My Library Account
+Renew books and more
+MyClues (mobile)
+Book a study room or scanner
+Reserve a space for your group online
+Interlibrary loans
+Request books from external libraries
+RefWorks
+Manage your citations and create bibliographies
+Article delivery
+Request a PDF of an article we have in our physical collection
+WebPrint
+Upload documents to print on campus
+Course reserves
+Online course readings
+Spectrum
+Deposit a thesis or article
+Library hours
+Ask a librarian
+A-Z
+Find
+Discovery Search
+Library Catalogue
+Databases by subject
+Course Reserves
+E-journals
+Interlibrary Loans (COLOMBO)
+Article Delivery
+Spectrum Research Repository
+Special Collections
+Additional resources & services
+Help & how-to
+Subject & course guides
+Finding...
+Writing...
+Citing...
+Using...
+Copyright & publishing
+Technology & connecting
+Ask a librarian
+Workshops
+General guides for users
+Borrowing & renewing
+Locations & hours
+Webster Library
+Vanier Library
+Grey Nuns Reading Room
+Study spaces
+Floor plans
+Book a group study room/scanner
+Room booking for academic events
+Computer availability
+Technology Sandbox
+About the library
+News & events
+Webster Library Transformation blog
+Librarians & staff
+University Librarian
+Policies & Code of Conduct
+Strategic Plan 2016/21
+Annual Report 2015/16
+Feedback & Suggestions
+Job opportunities
+Researcher-in-residence program
+Library Services Fund
+Giving to the Library
+LibQual+ survey & results
+Concordia University Press
+Call for Proposals for Public Art
+The Campaign for Concordia
+Log into...
+MyCLUES (mobile)
+Book a study room or scanner
+Interlibrary loans
+RefWorks
+Article delivery
+WebPrint
+Course reserves
+Spectrum
+Quick links
+Study resources
+Calendar - Graduate
+Calendar - Undergraduate
+Class cancellations
+Class schedules
+Course registration
+Important academic dates
+More academic resources
+Campus services
+Concordia Stores
+IT services
+Job opportunities
+Security
+Shuttle bus
+Student Service Centre (Birks)
+All campus services
+What's New
+Calendar of events
+Latest news
+Media Relations
+Faculties, Schools & Colleges
+Arts and Science
+Engineering and Computer Science
+Fine Arts
+John Molson School of Business
+School of Graduate Studies
+All Schools, Colleges & Departments
+Discovery Search
+Library
+Concordia
+Search
+« Back  |  Print  
+Print
+Email
+Facebook
+Twitter
+Concordia.ca   /   Library   /   Help & how-to   /   Citing   /   Refworks
+RefWorks
+On this page
+What is RefWorks?
+Help
+Write-N-Cite
+What is the Group Code?
+Transferring to (or from) other software
+What happens when I graduate?
+What is RefMobile?
+Important information regarding links beginning with https
+RefWorks June 17, 2015 migration to U.S. based server
+See also
+Export/import instructions
+for databases and the library catalogue
+Login to RefWorks
+New to RefWorks? Click on "Sign Up for a New Account" from the main login page. If you're off the campus network you will need to enter a group code, which is: RWConcordUMont
+What is RefWorks?
+RefWorks is a Web-based tool that allows you to:
+manage and organize the bibliographic references you find in library catalogues, databases, and on the web
+prepare a bibliography or reference list automatically
+insert and automatically format in-text citations and a bibliography into a paper using Microsoft Word
+Help
+RefWorks User Guide
+RefWorks How-to Videos
+Export/Import Instructions for Databases
+Who should I contact if I need help or if I have questions?
+You can contact RefWorks support at refworks.support@proquest.com or +1.800.889.3358 (toll-free in Canada and U.S.)
+Or, you can contact your Concordia librarian:
+Login to your RefWorks account.
+Click on "Help" then "Email Your Librarian".
+You can also ask for help using our Ask a Librarian service.
+Using Write-N-Cite
+Please note that Write-N-Cite is not compatible with Word 2016 (Mac).
+Installing the Write-N-Cite plug-in for MS Word
+Login to your RefWorks account
+Click on "Tools" and select "Write-N-Cite"
+Copy the code that is displayed on the screen (a long code with mixed characters)
+Download and install Write-n-Cite
+Open Microsoft Word, click on the RefWorks tab
+Click on the login icon, and paste in the code that you copied (no need to provide username, password or Group Code)
+Using Write-N-Cite
+Which Write-N-Cite is Right for Me?
+Working With Write-N-Cite 4
+Write-N-Cite 4 Advanced Features, Preference and Other Options
+What is the Group Code?
+If you are prompted to enter a Group Code, please enter: RWConcordUMont
+Please note that the group code is case sensitive.
+Transferring to (or from) other software
+Transferring references to or from other bibliographic management software
+(e.g. EndNote, ProCite, Zotero etc.)
+Importing into RefWorks from other bibligraphic management software
+Exporting from RefWorks to Zotero
+Exporting from Mendeley Desktop to RefWorks (PDF)
+What happens when I graduate?
+All alumni of subscribing academic institutions will have life-long access to RefWorks. Access will continue to be available an institution’s alumni as long as that institution subscribes.
+If you are prompted to enter a Group Code, please enter: RWConcordUMont
+Please note that the group code is case sensitive.
+What is RefMobile?
+RefMobile ( http://refworks.scholarsportal.info/mobile ) gives you access to your references in RefWorks from your smartphone or mobile device. To access RefMobile, you will require:
+Your 'Log-in Name'
+Your 'Password'
+The 'Group Code'
+Click here (and select "Forgot your log-in?") in order to have these 3 things emailed to you.
+Important information regarding links beginning with https
+On August 23, 2017 our proxy began using a new method to access subscription resources via https to minimize browser certificate warnings such as this:
+Currently, to link to documents (like articles) to which Concordia Library subscribes, a "proxy" must be added to the link. A regular link might look like this:
+http://dx.doi.org/10.1016/j.paid.2015.04.008
+A "proxied" link will look like this:
+http://0-dx.doi.org.mercury.concordia.ca/10.1016/j.paid.2015
+.04.008
+The change that is occurring affects links that begin with https, instead of http. For links     beginning with https, it is recommended that the link be changed to begin with http. If the http     version of the link does not point to the desired resource, it is possible to manually create a link     which will work by replacing the periods, in a portion of the link, to dashes:
+Original link:
+https://0-www.resource.com.mercury.concordia.ca/path
+New link:
+https://0-www-resource-com.mercuryconcordia.ca/path
+RefWorks' June 17, 2015 migration to U.S. based server
+How did RefWorks change?
+Concordia Libraries’ RefWorks service, which is a voluntary service, moved from being hosted on a Canadian server to a U.S. based server.
+As a result of the migration your citations, files if any, e-mail address and name are stored on the US server and will be subject to legislation applicable in the US, including the US PATRIOT ACT, which allows US authorities to have access to the personal information that you provide.
+When did this happen?
+The migration happened on June 17, 2015.
+Why did Concordia's RefWorks service move to an American server?
+Concordia's RefWorks service moved to an American server because the Canadian service, which has been hosted through a library consortium called Scholars Portal, has been discontinued.
+What changed?
+In short, there are no major changes to how the service works, and everything essentially functions as it did on the Canadian server. As a result of the migration process, however, Concordia RefWorks users will need to be aware of some technical changes (listed below).
+The URL (i.e. web address) of our RefWorks service changed, so you will need to update any bookmarks or links pointing to our RefWorks service. For the new URL, scroll to the top of this page and click "Login to RefWorks".
+The URL (i.e. web address) of any shared accounts or shared folders (via RefShare) has also changed. To obtain the new URL for a shared account or for any shared folders, follow these steps:
+Log into your RefWorks account.
+Click on the "Organize & Share Folders" tab.
+For the new URL of your shared account, go to "Share Entire Database", mouse over icon of the folder with a person popping out of it, and click on "Share Link".
+For the new URL of any shared folder(s), go to the folder(s), mouse over the icon of the folder with a person popping out of it, and click on "Share Link".
+Any RefWorks users who use Write-N-Cite will need to re-install this software plug-in, which will have a new name: ProQuest for Word. Here's how:
+First, uninstall Write-n-Cite from your computer using these instructions.
+Then, make sure your computer has the latest versions of the following programs: Microsoft Word , Java , Visual Studios Tools for Windows .
+Log into your RefWorks account.
+Click on "Tools" then "ProQuest for Word" (i.e. formerly Write-n-Cite).
+Follow the instructions to download and install the new version of ProQuest for Word (i.e. formerly Write-N-Cite).
+Any RefWorks Write-n-Cite users who started using Write-n-Cite on a document before the migration will have to change some settings in MS Word to continue to be able to work on the same document with the new version of Write-n-Cite. Here are the instructions for Macs and PCs .
+Once the migration is complete, some users will receive an email that indicates a new login name (which will be the email address used to create your account).
+The U.S. based version of RefWorks integrates any folders or databases shared with you directly into your RefWorks account. Watch this short video to learn more.
+The U.S. based version of RefWorks will also provide RefWorks account holders with free access to ProQuest's new web-based reference and document management software called Flow, which is in beta mode (i.e. still being developed), and that will eventually replace the current version of RefWorks (i.e. Flow is essentially RefWorks 3.0). More info about Flow can be found here .
+Any RefWorks users who use the RefGrab-it bookmarklet will need to update it. Here's how:
+Delete the current bookmarklet.
+Then, login to your account here and then follow these instructions .
+What are my options if I don't want my account hosted on the U.S. RefWorks server?
+If you would not like your account hosted on the U.S. RefWorks server you can export your data and then delete your account.
+First you need to export the data from your account. You can then move it to other research management software such as Zotero . But please be aware that Zotero's servers are also hosted in the United States. General instructions on how to export your references can be found here . Instructions on how to export your references to Zotero can be found here . RefWorks users should also be aware that your folder structure, attachments, and shared folders will not export and will be lost during this process.
+Then, we can delete your RefWorks account. In order to do this, please contact your librarian:
+Login to your RefWorks account.
+Click on "Help" then "Email Your Librarian".
+Please provide your RefWorks username and indicate that you would like to delete your account.
+Who should I contact if I need help or if I have questions?
+You can contact RefWorks support at refworks.support@proquest.com or +1.800.889.3358 (toll-free in Canada and U.S.)
+Or, you can contact your Concordia librarian:
+Login to your RefWorks account.
+Click on "Help" then "Email Your Librarian".
+You can also ask for help using our Ask a Librarian service.
+ 
+page last updated on: Thursday 14 September 2017
+Back to top
+CONCORDIA UNIVERSITY LIBRARY - Locations & phone numbers
+Home
+Find
+Help & how-to
+Locations & hours
+About the Library
+Undergraduate students
+Graduate students
+Faculty
+Administrative staff
+Support staff
+External community
+Webster Library
+1400 De Maisonneuve Blvd. W.
+1455 De Maisonneuve Blvd. W.
+Montreal, Quebec, Canada
+H3G 1M8
+See on map
+Vanier Library
+7141 Sherbrooke St. W.
+Montreal, Quebec, Canada
+H4B 1R6
+See on map
+facebook
+twitter
+google
+youtube
+linkedin
+pinterest
+instagram
+flickr
+Concordia social
+© Concordia University
+Terms
+Privacy
+Accessibility
+Feedback
+Provide feedback
+Feedback forms
+Thanks for your time. Please select your area of feedback.
+Give feedback about the Library's spaces, services, and/or collections
+Get help with my research, course work, or report a broken link
+Concordia social
+Concordia University Library Locations & phone numbers
+Webster Library
+1400 De Maisonneuve Blvd. W.
+1455 De Maisonneuve Blvd. W.
+Montreal, Quebec, Canada
+H3G 1M8
+See on map
+Vanier Library
+7141 Sherbrooke St. W.
+Montreal, Quebec, Canada
+H4B 1R6
+See on map
+Feedback
+Terms
+Privacy
+Accessibility
+© Concordia University

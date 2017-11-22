@@ -1,0 +1,272 @@
+Study resources
+Calendar - Graduate
+Calendar - Undergraduate
+Class cancellations
+Class schedules
+Course registration
+Important academic dates
+More academic resources
+Campus services
+Concordia Stores
+IT services
+Job opportunities
+Security
+Shuttle bus
+Student Service Centre (Birks)
+All campus services
+What's New
+Calendar of events
+Latest news
+Media Relations
+Faculties, Schools & Colleges
+Arts and Science
+Engineering and Computer Science
+Fine Arts
+John Molson School of Business
+School of Graduate Studies
+All Schools, Colleges & Departments
+Concordia University
+Quick links The Campaign for Concordia
+MyConcordia
+Cspace
+Webmail
+Directories
+Hours
+A-Z
+Maps
+Library
+Ask a Librarian  
+Log into ... 
+My Library Account
+Renew books and more
+MyClues (mobile)
+Book a study room or scanner
+Reserve a space for your group online
+Interlibrary loans
+Request books from external libraries
+RefWorks
+Manage your citations and create bibliographies
+Article delivery
+Request a PDF of an article we have in our physical collection
+WebPrint
+Upload documents to print on campus
+Course reserves
+Online course readings
+Spectrum
+Deposit a thesis or article
+Library hours
+Ask a librarian
+A-Z
+Find
+Discovery Search
+Library Catalogue
+Databases by subject
+Course Reserves
+E-journals
+Interlibrary Loans (COLOMBO)
+Article Delivery
+Spectrum Research Repository
+Special Collections
+Additional resources & services
+Help & how-to
+Subject & course guides
+Finding...
+Writing...
+Citing...
+Using...
+Copyright & publishing
+Technology & connecting
+Ask a librarian
+Workshops
+General guides for users
+Borrowing & renewing
+Locations & hours
+Webster Library
+Vanier Library
+Grey Nuns Reading Room
+Study spaces
+Floor plans
+Book a group study room/scanner
+Room booking for academic events
+Computer availability
+Technology Sandbox
+About the library
+News & events
+Webster Library Transformation blog
+Librarians & staff
+University Librarian
+Policies & Code of Conduct
+Strategic Plan 2016/21
+Annual Report 2015/16
+Feedback & Suggestions
+Job opportunities
+Researcher-in-residence program
+Library Services Fund
+Giving to the Library
+LibQual+ survey & results
+Concordia University Press
+Call for Proposals for Public Art
+The Campaign for Concordia
+Log into...
+MyCLUES (mobile)
+Book a study room or scanner
+Interlibrary loans
+RefWorks
+Article delivery
+WebPrint
+Course reserves
+Spectrum
+Quick links
+Study resources
+Calendar - Graduate
+Calendar - Undergraduate
+Class cancellations
+Class schedules
+Course registration
+Important academic dates
+More academic resources
+Campus services
+Concordia Stores
+IT services
+Job opportunities
+Security
+Shuttle bus
+Student Service Centre (Birks)
+All campus services
+What's New
+Calendar of events
+Latest news
+Media Relations
+Faculties, Schools & Colleges
+Arts and Science
+Engineering and Computer Science
+Fine Arts
+John Molson School of Business
+School of Graduate Studies
+All Schools, Colleges & Departments
+Discovery Search
+Library
+Concordia
+Search
+« Back  |  Print  
+Print
+Email
+Facebook
+Twitter
+Concordia.ca   /   Library   /   Help & how-to   /   Using   /   Discovery search faqs
+Discovery search FAQs
+On this page
+What is the discovery search?
+How do I use the discovery search?
+Do I have to use the limiting options, or facets, on the left?
+How do I acccess the full text?
+What if there is no PDF or Full Text button on the right?
+How do I find books and other items in the library?
+I have a digital object identifier (DOI). Can I use it to search?
+Can I search by ISBN and ISSN?
+Can I search by call number?
+Can I search by course code?
+Can I still use CLUES?
+Where did MyCLUES go?
+Is my library account affected?
+See also
+Library Catalogue (CLUES)
+Databases by subject
+What is the discovery search?
+The discovery search is a new search tool which allows you to search both the library's physical and digital collection at the same time and receive results in a single list.  The discovery search is best described as a keyword search which will expose you to a large variety of library print and subscription materials related to your topic.  Search results include relevant materials found in the library catalogue (CLUES), plus a large proportion of our subscription database articles in full-text, ebooks, images, and more!
+How do I use the discovery search?
+Follow the link to http://encore.concordia.ca and type your keywords into the search box and click the go button.  Your results will include not only physical items in the library — such as books and print journals — but will also include results for articles and ebooks in our digital collection which can be accessed immediately.
+Do I have to use the limiting options, or facets, on the left?
+Using the facets is not required, but can be very helpful!   For example, after you do your search, you can use the Library Catalogue facet to limit to materials physically located in the library.
+If you want to limit your keyword search to only articles in academic journals, try using the Academic Journals in the Format list:
+ 
+How do I access the full text?
+View full-text by clicking on the PDF, Full Text, and Find it @ Concordia buttons that appear:
+What if there is no PDF or Full Text button on the right?
+Try clicking on title of the article in your results list.  This will bring you to a more complete description of the item.  Links should appear on the left.  You may need to use the Find It @ Concordia button or other button on this page to see if full-text is available.
+How do I find books and other items in the library?
+Library material will display a location and a call number where the item is shelved.  If the material is request-able, a “REQUEST IT” button will display.  Use it to place your request!
+I have a digital object identifier (DOI). Can I use it to search?
+Yes. A digital object identifier (DOI) is an alphanumeric string assigned by a publisher when an article is made available online. Thousands of DOIs are indexed in the discovery search, and more are being added daily.
+Your DOI may find the full-text/PDF right away:
+Or it may return a “Find It @ Concordia” button for you to use:
+Can I search by ISBN and ISSN?
+Common identifiers such as ISBN and ISSN and can also be typed into the search box.
+ISBNs can be entered with or without dashes, but removing ISBN dashes is sometimes more precise:
+ISSNs can also be searched with or without dashes, but may be inconsistent. Add a filter such as "Journals (PRINT)" or "E-Journals" to narrow result.
+Can I search by call number?
+Yes.  If you have a call number, enter it in the search box.  If you only know the beginning of the call number, try entering it.  You may also find using the "Library Catalogue" or "Library Location" filters helpful for more exactitude.
+Can I search by course code?
+Find textbooks on reserve by entering the course code (e.g., phil 260) -- into the discovery search box, then view the "Course Code" facet in the left-hand column.  Sometimes it can help to add the term ‘textbooks’ to the search.  Click on the course code to view results.
+An icon resembling a chalk board
+indicates a course textbook on reserve.
+Can I still use the CLUES Library Catalogue?
+Yes.  CLUES remains available at http://clues.concordia.ca .
+Where did MyCLUES go?
+MyCLUES has been renamed to My Library Account.  It is directly accessible through both CLUES and the discovery search.  My Library Account has been updated and will look and feel similar the discovery search.
+Is my library account affected?
+When you login using the new discovery search, you will see the new look and feel. When you use the Classic Catalogue (CLUES),  you may see the older view.
+Either way, your My Library Account information – holds, checkouts, fines, etc. – remains the same. But alerts are no longer available.
+Faculty, staff, and external users who wish to change the email address associated with their library account should contact the library at lib-Circulation@concordia.ca .
+page last updated on: Thursday 14 September 2017
+Back to top
+CONCORDIA UNIVERSITY LIBRARY - Locations & phone numbers
+Home
+Find
+Help & how-to
+Locations & hours
+About the Library
+Undergraduate students
+Graduate students
+Faculty
+Administrative staff
+Support staff
+External community
+Webster Library
+1400 De Maisonneuve Blvd. W.
+1455 De Maisonneuve Blvd. W.
+Montreal, Quebec, Canada
+H3G 1M8
+See on map
+Vanier Library
+7141 Sherbrooke St. W.
+Montreal, Quebec, Canada
+H4B 1R6
+See on map
+facebook
+twitter
+google
+youtube
+linkedin
+pinterest
+instagram
+flickr
+Concordia social
+© Concordia University
+Terms
+Privacy
+Accessibility
+Feedback
+Provide feedback
+Feedback forms
+Thanks for your time. Please select your area of feedback.
+Give feedback about the Library's spaces, services, and/or collections
+Get help with my research, course work, or report a broken link
+Concordia social
+Concordia University Library Locations & phone numbers
+Webster Library
+1400 De Maisonneuve Blvd. W.
+1455 De Maisonneuve Blvd. W.
+Montreal, Quebec, Canada
+H3G 1M8
+See on map
+Vanier Library
+7141 Sherbrooke St. W.
+Montreal, Quebec, Canada
+H4B 1R6
+See on map
+Feedback
+Terms
+Privacy
+Accessibility
+© Concordia University

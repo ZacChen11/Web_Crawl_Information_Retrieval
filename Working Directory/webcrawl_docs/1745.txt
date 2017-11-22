@@ -1,0 +1,409 @@
+Concordia University
+https://www.concordia.ca/content/concordia/en/it/services/basic-phone.html
+Study resources
+Calendar - Graduate
+Calendar - Undergraduate
+Class schedules
+Class cancellations
+Course registration
+Important academic dates
+More academic resources
+Campus services
+Concordia Stores
+IT services
+Job opportunities
+Security
+Shuttle bus
+Student Service Centre (Birks)
+All campus services
+What's new
+Calendar of events
+Latest news
+Media Relations
+Faculties, Schools & Colleges
+Arts and Science
+Engineering and Computer Science
+Fine Arts
+John Molson School of Business
+School of Graduate Studies
+All Schools, Colleges & Departments
+Quick links  
+Webmail Library Cspace
+Study resources  
+Calendar - Graduate
+Calendar - Undergraduate
+Class schedules
+Class cancellations
+Course registration
+Important academic dates
+More academic resources
+Campus services  
+Concordia Stores
+IT services
+Job opportunities
+Security
+Shuttle bus
+Student Service Centre (Birks)
+All campus services
+What's new  
+Calendar of events
+Latest news
+Media Relations
+Faculties, Schools & Colleges  
+Arts and Science
+Engineering and Computer Science
+Fine Arts
+John Molson School of Business
+School of Graduate Studies
+All Schools, Colleges & Departments
+Quick links The Campaign for Concordia
+MyConcordia
+Cspace
+Webmail
+Library
+Directories
+A-Z
+Maps
+Future students
+Student hub
+Alumni & friends
+Parents
+Faculty & staff
+Media
+Concordia University
+Concordia University
+IT Services
+Services
+Get help
+Get started
+IT security
+IT groups
+The Campaign for Concordia
+Study resources
+Calendar - Graduate
+Calendar - Undergraduate
+Class schedules
+Class cancellations
+Course registration
+Important academic dates
+More academic resources
+Campus services
+Concordia Stores
+IT services
+Job opportunities
+Security
+Shuttle bus
+Student Service Centre (Birks)
+All campus services
+What's new
+Calendar of events
+Latest news
+Media Relations
+Faculties, Schools & Colleges
+Arts and Science
+Engineering and Computer Science
+Fine Arts
+John Molson School of Business
+School of Graduate Studies
+All Schools, Colleges & Departments
+Quick links  
+Webmail Library Cspace
+Study resources  
+Calendar - Graduate
+Calendar - Undergraduate
+Class schedules
+Class cancellations
+Course registration
+Important academic dates
+More academic resources
+Campus services  
+Concordia Stores
+IT services
+Job opportunities
+Security
+Shuttle bus
+Student Service Centre (Birks)
+All campus services
+What's new  
+Calendar of events
+Latest news
+Media Relations
+Faculties, Schools & Colleges  
+Arts and Science
+Engineering and Computer Science
+Fine Arts
+John Molson School of Business
+School of Graduate Studies
+All Schools, Colleges & Departments
+Information for...
+Future students
+Student hub
+Alumni & friends
+Parents
+Faculty & staff
+Media
+Concordia
+Directories
+Search
+Concordia University
+IT Services
+Concordia.ca
+ / 
+IT services
+ / 
+Services
+ / 
+Basic phone service
+Facebook
+Twitter
+LinkedIn
+GooglePlus
+Basic phone service
+Concordia’s Voice Services team offers basic phone service to active faculty and staff. Departments are responsible for purchasing telephone sets from a selection of IITS approved equipment. This technology will allow users to make internal and local calls from their on-campus location.
+Who can use it?
+Faculty and staff
+How much does it cost?
+For detailed information about monthly billing and installation fees, please see the cost details .
+How to get it
+All requests for telephone services must be submitted by phone or email to the Service Desk . Requests must be made by your departmental telephone  VoIP coordinator . Please review the information required for a request before contacting the Service Desk.
+If you would like to know how much your department is being billed for telephone services, please submit an inquiry to the  Service Desk .
+Service availability
+24/7
+Documentation
+Billable services
+All installation and recurrant costs associated with the basic phone service are determined based on the department or unit where they operate. The billable services include, but are not limited to lines for:
+- Part-time faculty and staff
+- TBA (no full-time replacement on record, permanent or temporary)
+- Part-time faculty offices
+- Research
+- Labs
+- Retired faculty
+- Faculty on sabbatical
+- Fax machines
+- Interact machines
+- Alarms
+- Emergency phones
+- Conference room phones
+- Phones for casual use
+- Phones for students
+- Courtesy phones
+- Classroom phones
+- Video conferencing lines (not IP)
+- Event lines
+Other billable services associated with this service include:
+- Installation and moves of lines
+- Voice-mail
+- Phone feature changes
+- Phone set changes
+- Software number (second line on phone set)
+- Long distance, 411, operator assisted calls
+Cost details
+To add a new IP service:
+Install single-line telephone or fax line (port activation, configuration and deployment): $50
+Install multi-line telephone (port activation, configuration and deployment): $60
+Install add-On Module (configuration and deployment): $35
+Install Voice Mail: $25
+Menu system planning and installation: $25/box
+Long Distance Authorization Code (programming): $25
+Activate temporary VoIP jack (48 hour maximum): $25
+Activate temporary VoIP jack (more than 48 hours less than 1 month): $55
+To add new features or software changes:
+Feature changes for 1 to 5 telephone lines: $25
+Add second line on a multi-line set (after installation): $25
+To change telephone set types (upgrade):
+Single-line set: $25
+Multi-lline set: $35
+To move a phone or fax:
+Telephone or fax move: $25
+To disconnect or remove a service:
+No fee is charged fpr te removal of a VOIP phone line or voice mail
+VoIP monthly rental rates:
+Phone, analogue phone or device (fax, interact, etc): $30
+Second phone same extension: $30
+Second line on multi-line set $5
+Voice Mail: $7
+Menu System: $10 per box to a maximum of 150$
+Conference Unit 7935: $25/day
+Service package
+For Departments whose budget code falls under the University’s General Operating Fund, the monthly fee for the basic service package will be paid through the University’s central telecommunications budget in each of the following cases:
+• One package for each full-time faculty member or visiting scholar;
+• One package for each full-time administrative or professional staff member;
+• One package for each group of three full-time support staff.
+In cases where there is heavy telephone usage, or where line sharing is not practical, IITS may allocate additional lines.
+• One package that shall serve as the departmental line.
+This line shall also be assigned as the standard installation of a staff member of the department.
+Note: Installation charges are billed to the department or unit in where the service operates.
+For departments and units whose budget code does not fall under the University’s General Operating Fund, or for those that have service requirements above the basic package, telephone services can be ordered through Voice Services with the understanding that all telephone services will be billed to the department or unit in which they operate. Please consult the cost details section of our website.
+Basic package
+In buildings serviced by the VoIP network, the basic package includes:
+(1) A telephone connection (line)
+• One telephone line with standard features
+o Call forward, call transfer, call display, call hold, call back, immediate divert conference call, join, direct transfer
+• Optional features
+o Call waiting, call pick-up group, call park.*
+• Access to long-distance dialing, 411 and outside operator services are available upon request.
+Note: Costs incurred by use of these services are borne by the department or unit where they operate.
+(2) A network connection
+In buildings where only analogue service is available, the basic package includes:
+(1) A telephone connection (line)
+• One telephone line with standard features as described on the Voice Services website under Analogue.
+The Basic Package does not include:
+• The telephone set. Departments are responsible for ordering the phone set from a selection of IITS-approved Telephone Equipment. Equipment may be ordered through the Concordia University Computer Store.
+• Voice-mail: Available for a cost of $25 for installation and $7 per month.
+VoIP coordinators
+Cisco telephone user guides
+Cisco 7800 series
+7800 series quick start guide
+7800 series quick reference
+Cisco 7910 
+Feature list
+7910 quick reference
+7910 guide de référence rapide
+Cisco 7911/7912
+Feature list  
+7912 quick reference  
+7912 guide de référence rapide  
+Online tutorial 7911/7906 
+Online tutorial 7912
+Cisco 7940/7942
+Feature list  
+7942 quick reference  
+Online tutorial 7942/7941
+Cisco 7960/7962
+Feature list  
+7962 quick reference  
+Online tutorial 7961
+Cisco 7970/7975
+Feature list  
+7975 quick reference  
+Online tutorial 7970/7975
+Cisco 7921
+7921 quick reference
+Cisco 6921/6941/6945
+6941/6945 quick reference
+Feature: Cisco unified CM user options (configure my phone)
+Cisco unified CM user options allows users the ease of a web-based access to their personal settings and features such as speed dial, personal address book, forwarding, etc.
+To access unified CM user options while on campus, please visit https://callmanager.concordia.ca/ccmuser and log in with your netname and password (you can safely click 'yes' in response to any security alerts that may appear.
+If you are off-campus, Cisco unified CM user options is also available through the MyConcordia portal, in the 'Accounts and settings' tab under the name 'Phone configuration'.
+Feature: Single number reach (SNR)
+SNR is a feature that allows for a call placed to a given extension to reach/ring multiple destinations simultaneously, such as a desk phone and a cell phone for example. This allows the end user to pick up work calls on his\her cell phone (or any other phone) and only advertise a single number to reach him\her. SNR is schedulable from the end user configuration web page and can be turned on or off from the phone set at the push of a button. For more information, eligibility requirements and configuration requests please contact the Service Desk.
+Feature: Presence
+Presence is a feature which allows end-users to display their availability and advertise a preferred means to be reached in the form of a status. The presence status of the end-user is made available to other users who have subscribed to it. This service is available to end-users via a web based profile page or from the CUPC application, a soft phone and instant messaging client for CUCM. For more information, eligibility requirements and configuration requests please contact the Service Desk .
+FAQ
+What information is required when requesting phone services?
+All phone service requests must be submitted to the Service Desk  by your departmental VOIP coordinator .
+New Installation:
+-  Location: building, room and jack number.
+-  Employee name, title and employee ID number.
+-  Indicate whether the new phone requires long distance and/or voice mail.
+-  If you are installing a multi-line set, please indicate the additional lines that you wish to see on the set and indicate if they are to ring or flash only.
+-  Budget code.
+-  If using an existing telephone set: provide the model of the phone, the 12 character MAC address number located on the back of the telephone set and date of purchase.
+-  If purchasing a new telephone set: After submitting your request to the  Service Desk , contact Steven Zulkarnian at the Computer Store ( steven.zulkarnain@concordia.ca ) with your ticket number to purchase a new set. A one-time license fee is required for new equipment. Information about license fees can be found in the  cost details  on this webpage.
+Telephone Move:
+-  Telephone number.
+-  Netname.
+-  Current location (building, room, jack #).
+-  New location (building, room, jack #).
+-  Budget code.
+Telephone Disconnect:
+-  Telephone number.
+-  Location (building, room, jack #).
+Note: There are no service fees for disconnections of service.
+Telephone Re-assignment:
+-  Telephone number.
+-  Location.
+-  Current user information. Please indicate whether this person is on leave, no longer employed by the university or moving to another location.
+-  New user information and coordinates (including title and employee id).
+Note: there are no service fees for telephone re-assignments.
+Feature Change:
+-  Telephone number.
+-  User information.
+-  Feature to be added or removed.
+-  Budget code.
+Upgrade a Telephone Set:
+-  Telephone number and current model of telephone set.
+-  User information.
+-  Location.
+-  Model of new telephone set 
+How do I know how much my department is being billed?
+If you would like to know how much your department is being billed for telephone services, submit an inquiry to the  Service Desk .
+How do I order a new telephone and accessories?
+The Concordia Computer Store stocks Cisco IP phones and accessories such as headsets, curly cords and ethernet cables. 
+When placing an order for a phone, simply submit a request for telephone service to the Service Desk by calling ext. 7613 or by sending an e-mail to the Service Desk  . Please note that the Service Desk will only accept requests from  Telephone Coordinators  for phone orders. The Service Desk will issue you a ticket number for reference. You must then contact Steven Zulkarnain ( steven.zulkarnain@concordia.ca ) from the Computer Store and quote the ticket number given to you by the Service Desk.
+The phone will be delivered directly to Voice Services for programming and will be installed by one of our technicians.
+How do I change the information on a telephone's call display?
+This is a programming change that is done by Voice Services. The VOIP coordinatori for your department must contact the Service Desk by email in order to request the call display update.
+I am unable to forward my phone line to an external number. How do I get this service?
+ By default, many phones are restricted to forwarding their calls to internal numbers. Please contact the Service Desk to request external call forwarding.
+How can I add or modify an extension number on my telephone?
+Voice services must program this for you. Please contact the Service Desk to request this programming modification. Please note: The Service Desk will only accept requests from VOIP coordinators for phone orders.  
+Where can I find information on the costs related to telephone services?
+Please visit our cost details section for details. If you have further questions, please submit an inquiry to the Service Desk .   
+See also
+Telephone directories
+Long distance service
+Voice mail
+Was this page useful to you?
+Rate
+This form is for feedback only. Technical support requests should be submitted by email to help@concordia.ca or phone 514-848-2424, ext. 7613.
+Page suggestions:
+Submit
+Back to top
+© Concordia University
+Concordia University - Call us at 514-848-2424
+About
+Academics
+Admissions
+Campus life
+Research
+International
+Future students
+Current students
+Alumni & friends
+Parents
+Faculty & staff
+Media
+Sir George Williams Campus
+1455 De Maisonneuve Blvd. W.
+Montreal, Quebec, Canada
+H3G 1M8
+See SGW Campus map
+Loyola Campus
+7141 Sherbrooke Street W.
+Montreal, Quebec, Canada
+H4B 1R6
+See Loyola Campus map
+facebook
+twitter
+google
+youtube
+linkedin
+pinterest
+instagram
+flickr
+Concordia social
+© Concordia University
+Terms
+Privacy
+Accessibility
+Website feedback
+Share this page
+Concordia.ca
+Call us at
+514-848-2424
+Sir George Williams Campus
+1455 De Maisonneuve Blvd. W.
+Montreal, Quebec, Canada
+H3G 1M8
+See SGW Campus map
+Loyola Campus
+7141 Sherbrooke Street W.
+Montreal, Quebec, Canada
+H4B 1R6
+See Loyola Campus map
+Website feedback
+Terms
+Privacy
+Accessibility
+© Concordia University

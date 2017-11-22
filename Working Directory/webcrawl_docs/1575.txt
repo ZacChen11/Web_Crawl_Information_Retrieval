@@ -1,0 +1,382 @@
+Concordia University
+https://www.concordia.ca/content/concordia/en/offices/iits.html
+Study resources
+Calendar - Graduate
+Calendar - Undergraduate
+Class schedules
+Class cancellations
+Course registration
+Important academic dates
+More academic resources
+Campus services
+Concordia Stores
+IT services
+Job opportunities
+Security
+Shuttle bus
+Student Service Centre (Birks)
+All campus services
+What's new
+Calendar of events
+Latest news
+Media Relations
+Faculties, Schools & Colleges
+Arts and Science
+Engineering and Computer Science
+Fine Arts
+John Molson School of Business
+School of Graduate Studies
+All Schools, Colleges & Departments
+Quick links  
+Webmail Library Cspace
+Study resources  
+Calendar - Graduate
+Calendar - Undergraduate
+Class schedules
+Class cancellations
+Course registration
+Important academic dates
+More academic resources
+Campus services  
+Concordia Stores
+IT services
+Job opportunities
+Security
+Shuttle bus
+Student Service Centre (Birks)
+All campus services
+What's new  
+Calendar of events
+Latest news
+Media Relations
+Faculties, Schools & Colleges  
+Arts and Science
+Engineering and Computer Science
+Fine Arts
+John Molson School of Business
+School of Graduate Studies
+All Schools, Colleges & Departments
+Quick links The Campaign for Concordia
+MyConcordia
+Cspace
+Webmail
+Library
+Directories
+A-Z
+Maps
+Future students
+Student hub
+Alumni & friends
+Parents
+Faculty & staff
+Media
+Concordia University
+Concordia University
+MyConcordia Shuttle bus Maps
+About
+Administration & governance
+Strategic directions
+Quartier Concordia
+History
+Working at Concordia
+Sustainability hub
+Community engagement
+Indigenous Directions
+Quick links
+Fast facts
+Offices A-Z
+News
+Events
+Academics
+Undergraduate programs
+Graduate programs
+Faculties, Schools & Colleges
+Continuing education
+Co-operative education
+Online courses
+Study abroad
+Quick links
+Student Success Centre
+Graduate & Professional Skills
+Academic integrity
+Recruitment events
+Admissions
+Undergraduate
+Graduate
+International student admissions
+Financial aid & awards
+Tours & events
+Quick links
+Tuition & fees
+Student housing
+Concordia Continuing Education
+Campus life
+Arts & culture hub
+Athletics
+Get involved
+Food & housing
+Orientation & new students
+Recreation, sports & fitness
+Services & support
+Quick links
+Student Success Centre
+Residence life
+Jobs on campus
+University of the Streets Café
+Dean of Students
+Sustainability Hub
+Research
+Research units
+Research Chairs
+Resources for researchers
+Students and postdocs
+Funding opportunities
+Quick links
+Strategic research plan
+Explore research, teaching & learning
+ConRAD
+About the research sector
+International
+International student admissions
+Visiting & exchange students
+Partnerships
+Academic visitors
+Quick links
+Concordia International
+International Students Office
+Global alumni
+Cotutelle
+The Campaign for Concordia
+Study resources
+Calendar - Graduate
+Calendar - Undergraduate
+Class schedules
+Class cancellations
+Course registration
+Important academic dates
+More academic resources
+Campus services
+Concordia Stores
+IT services
+Job opportunities
+Security
+Shuttle bus
+Student Service Centre (Birks)
+All campus services
+What's new
+Calendar of events
+Latest news
+Media Relations
+Faculties, Schools & Colleges
+Arts and Science
+Engineering and Computer Science
+Fine Arts
+John Molson School of Business
+School of Graduate Studies
+All Schools, Colleges & Departments
+Quick links  
+Webmail Library Cspace
+Study resources  
+Calendar - Graduate
+Calendar - Undergraduate
+Class schedules
+Class cancellations
+Course registration
+Important academic dates
+More academic resources
+Campus services  
+Concordia Stores
+IT services
+Job opportunities
+Security
+Shuttle bus
+Student Service Centre (Birks)
+All campus services
+What's new  
+Calendar of events
+Latest news
+Media Relations
+Faculties, Schools & Colleges  
+Arts and Science
+Engineering and Computer Science
+Fine Arts
+John Molson School of Business
+School of Graduate Studies
+All Schools, Colleges & Departments
+Information for...  
+Future students
+Student hub
+Alumni & friends
+Parents
+Faculty & staff
+Media
+Concordia
+Directories
+Search
+Concordia University
+Home
+ / 
+Offices
+ / 
+IITS
+Facebook
+Twitter
+LinkedIn
+GooglePlus
+Instructional & Information Technology Services (IITS)
+Instructional and Information Technology Services (IITS) provides services that are essential to a functioning university. Setting up user accounts and configuring desktop systems are only a small part of what we do to fill the diverse needs of Concordia's students, faculty and staff members.
+Browse through the IT Service Catalog to see the range of services that are offered.
+To learn more about what we do, browse through one of our five departments:
+Departments
+Administrative and Training Services
+ 
+The Administrative and Training Services group provides a range of integrated IITS services, technology systems, and supports the operation of the IITS department.
+Reception & Switchboard  
+Reception & Switchboard Services provides information and directory assistance to the university community and general public. Their operators respond to inquiries and direct callers or visitors to the appropriate staff, faculty or university resource. Operators also set up, administer and monitor operator-assisted conference calls with multiple parties in various locations, facilitating meetings with IITS staff members.
+Administrative  
+The Administrative Services group facilitates the procurement of goods and services requested by the department, tracks delivery of orders and ensures the timely payment of invoices. They are also responsible for billing and accounting for the services IITS provides the university community.
+Training  
+The IITS Training and Support team helps faculty and staff to effectively use the Moodle system by administering the application itself, delivering instructor-led training, creating and maintaining documentation and advising--over the phone or through individual sessions
+The team also helps with the development of Moodle sites in partnership with individual site owners, identifying, technical solutions for the presentation and delivery of course materials. Addressing particularly complex requests may call for a special initiative. Workshops, which are regularly scheduled, are also designed to educate staff and faculty about the technical aspects of Moodle’s features and functions.
+ 
+Application Portfolio Management
+ 
+The Application Portfolio Management team is made up of the following five development and support groups:
+Administrative Systems
+Student Systems
+Faculty Systems
+Human Resources Information Systems (HRIS)  
+Database Administration group
+These groups work with the Concordia community to enhance the user experience by creating or improving current application functionality. Each team provides analytic, development, support and project management expertise to their respective areas. They are also responsible for continuously improving service delivery by staying abreast of technological or process-oriented changes and facilitating information access and sharing across the university.
+Student Systems
+The Student Systems group develops and provides support for various student applications that include:
+Web registration
+Student accounts
+Student transcripts and records
+Moodle
+Student Information System 
+Faculty Systems
+The Faculty Systems group develops and provides support for all systems that serve faculty needs, including:
+The Faculty Resource Information System 
+Grade entry
+Admission reports
+Course evaluations
+Provotrack
+Human Resources Information Systems 
+The HRIS group manages and supports the Human Resources application and works closely with the HR team to ensure the smooth operation of the HRIS. The group also develops interfaces to and from the HRIS as well as custom screens.
+Administrative Systems
+The Administrative Systems group develops and supports all systems that serve faculty and staff, except for HRIS. Examples include:
+Banner finance
+Banner alumni
+Millennium
+Digital Store systems
+Database Administration Group (Quality Assurance)
+The Database Administration and Quality Assurance group ensures that all central databases are backed up, optimized and up to date with the latest patches. The group also ensures that source code or database objects are secure and tested before migration to production systems.
+ 
+IT Architecture, Security and Planning
+ 
+The IT Architecture, Security, & Planning group is responsible for the development and maintenance of a university-wide IT strategic plan, IT security governance and control, and IT standardization, including the management of a software license master agreement.
+The group represents IITS at all levels of project planning and development as part of the IT strategic plan. This includes the financial plan and governance bodies, providing authoritative advice on current and potential maintenance issues to senior administrators, and evaluating the overall effectiveness of the plan to ensure goals and objectives are met and in line with the university’s mission. The group, which stays on top of the latest IT trends, also oversees the development and implementation of initiatives that support the university's strategic direction.
+ 
+IT Infrastructure and Operations
+ 
+The IT Infrastructure & Operations unit is composed of the following groups:
+Infrastructure Services
+The Infrastructure Services group is responsible for implementing, managing and supporting
+· Server and storage infrastructure.
+· Authentication (Netname), communication (Email), and collaboration services (Lync).
+This group performs server systems administration activities in support of academic and administrative functions.
+Network Services
+The Network Services group is responsible for the University's wired and wireless network infrastructure and security.
+Voice Services
+The Voice Services group manages and supports telecommunications services within the University. These include telephone, fax, and voicemail services.
+Operations & Production Services
+Operations & Production Services manages the IITS data centers as well as the systems located in these spaces. Activities include monitoring the environment and security of these specialized facilities and ensuring that these systems are backed up as scheduled. This group also manages the IITS Exam Scoring service.
+Quality Services Development
+Quality Services Development is focused on developing service and system disaster recovery plans, which includes activities such as testing and improving systems reliability/availability.
+User Services
+ 
+IITS User Services comprises the following teams who provide support services to the university community:
+Service Desk
+The Service Desk team provides first level support by phone, email, or in person (H925) to students, faculty and staff. They identify and resolve technical issues with equipment, wireless access, software, email, web applications, and more. The Service Desk team answers how-to questions, troubleshoots technology-related incidents, and ensures requests are resolved. They also manages the IITS computer labs on the Hall Building's 9th floor.
+Service Centres
+The multi-disciplinary teams in the Services Centres provide on-site technical assistance and support for equipment installed in classrooms and for faculty and staff computers. They provide consulting services for computer upgrades and manage computer installations.  The Service Centres operate 3 service counters  in the Hall Building, John Molson School of Business building and Loyola Campus CC building providing 1st line technical support and for equipment loan and rental. They also provide audio visual set-up and technical support for on-campus events held. The Service Centres manage various IITS computer labs that are available for teaching and for open use by students.
+Desktop Technologies
+The Desktop Technologies group manages desktop-related tools, computer images and internal systems.  They provide solutions to resolve complex issues related to faculty and staff computers and manage computer and software provisioning contracts.
+Cinemas
+IITS Cinemas provides professional technical support and event planning for both the Concordia community and external clients in four venues located on the Sir George Williams Campus (downtown). The team provides support for academic classes, screenings, conferences, film festivals and other multimedia events.
+Audio Visual Team
+The team of audio-visual specialists provide consultation, design and coordination services on audio visual/ multimedia facilities required during the creation or renewal of classrooms, amphitheaters, conference rooms, research centers or any other areas. They work hand-in-hand with internal project managers and external equipment and service providers to deliver quality environments for professors and departments.
+ 
+Join the Conversation
+Follow IITS on Twitter @ConcordiaIITS
+Contact the Service Desk
+(514) 848-2424, ext. 7613
+help@concordia.ca
+Submit a ticket
+Walk-in
+Hall building H-925
+Other resources
+CANARIE
+RISC
+CUCCIO
+Eduroam
+Educause
+Back to top
+© Concordia University
+Concordia University - Call us at 514-848-2424
+About
+Academics
+Admissions
+Campus life
+Research
+International
+Future students
+Current students
+Alumni & friends
+Parents
+Faculty & staff
+Media
+Sir George Williams Campus
+1455 De Maisonneuve Blvd. W.
+Montreal, Quebec, Canada
+H3G 1M8
+See SGW Campus map
+Loyola Campus
+7141 Sherbrooke Street W.
+Montreal, Quebec, Canada
+H4B 1R6
+See Loyola Campus map
+facebook
+twitter
+google
+youtube
+linkedin
+pinterest
+instagram
+flickr
+Concordia social
+© Concordia University
+Terms
+Privacy
+Accessibility
+Website feedback
+Share this page
+Concordia.ca
+Call us at
+514-848-2424
+Sir George Williams Campus
+1455 De Maisonneuve Blvd. W.
+Montreal, Quebec, Canada
+H3G 1M8
+See SGW Campus map
+Loyola Campus
+7141 Sherbrooke Street W.
+Montreal, Quebec, Canada
+H4B 1R6
+See Loyola Campus map
+Website feedback
+Terms
+Privacy
+Accessibility
+© Concordia University

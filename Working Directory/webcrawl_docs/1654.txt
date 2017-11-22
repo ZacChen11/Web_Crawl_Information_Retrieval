@@ -1,0 +1,361 @@
+Concordia University
+http://www.concordia.ca/content/concordia/en/it/services/concordia-wireless-network.html
+Study resources
+Calendar - Graduate
+Calendar - Undergraduate
+Class schedules
+Class cancellations
+Course registration
+Important academic dates
+More academic resources
+Campus services
+Concordia Stores
+IT services
+Job opportunities
+Security
+Shuttle bus
+Student Service Centre (Birks)
+All campus services
+What's new
+Calendar of events
+Latest news
+Media Relations
+Faculties, Schools & Colleges
+Arts and Science
+Engineering and Computer Science
+Fine Arts
+John Molson School of Business
+School of Graduate Studies
+All Schools, Colleges & Departments
+Quick links  
+Webmail Library Cspace
+Study resources  
+Calendar - Graduate
+Calendar - Undergraduate
+Class schedules
+Class cancellations
+Course registration
+Important academic dates
+More academic resources
+Campus services  
+Concordia Stores
+IT services
+Job opportunities
+Security
+Shuttle bus
+Student Service Centre (Birks)
+All campus services
+What's new  
+Calendar of events
+Latest news
+Media Relations
+Faculties, Schools & Colleges  
+Arts and Science
+Engineering and Computer Science
+Fine Arts
+John Molson School of Business
+School of Graduate Studies
+All Schools, Colleges & Departments
+Quick links The Campaign for Concordia
+MyConcordia
+Cspace
+Webmail
+Library
+Directories
+A-Z
+Maps
+Future students
+Student hub
+Alumni & friends
+Parents
+Faculty & staff
+Media
+Concordia University
+Concordia University
+IT Services
+Services
+Get help
+Get started
+IT security
+IT groups
+The Campaign for Concordia
+Study resources
+Calendar - Graduate
+Calendar - Undergraduate
+Class schedules
+Class cancellations
+Course registration
+Important academic dates
+More academic resources
+Campus services
+Concordia Stores
+IT services
+Job opportunities
+Security
+Shuttle bus
+Student Service Centre (Birks)
+All campus services
+What's new
+Calendar of events
+Latest news
+Media Relations
+Faculties, Schools & Colleges
+Arts and Science
+Engineering and Computer Science
+Fine Arts
+John Molson School of Business
+School of Graduate Studies
+All Schools, Colleges & Departments
+Quick links  
+Webmail Library Cspace
+Study resources  
+Calendar - Graduate
+Calendar - Undergraduate
+Class schedules
+Class cancellations
+Course registration
+Important academic dates
+More academic resources
+Campus services  
+Concordia Stores
+IT services
+Job opportunities
+Security
+Shuttle bus
+Student Service Centre (Birks)
+All campus services
+What's new  
+Calendar of events
+Latest news
+Media Relations
+Faculties, Schools & Colleges  
+Arts and Science
+Engineering and Computer Science
+Fine Arts
+John Molson School of Business
+School of Graduate Studies
+All Schools, Colleges & Departments
+Information for...
+Future students
+Student hub
+Alumni & friends
+Parents
+Faculty & staff
+Media
+Concordia
+Directories
+Search
+Concordia University
+IT Services
+Concordia.ca
+ / 
+IT services
+ / 
+Services
+ / 
+Concordia wireless network
+Facebook
+Twitter
+LinkedIn
+GooglePlus
+Concordia wireless network
+Concordia University provides wireless networking for all of its currently active faculty, staff, and registered students. Due to the nature of Concordia's secure network, most devices must be configured before using the wireless for the first time. Please select your device or operating system from the list in the documentation section for full configuration details. To connect to Concordia's wireless network with a configured device, you must have a Netname account . Please ensure that you have activated your netname before configuring your device.
+Guest wireless accounts may be granted to visitors who are sponsored by a Concordia department and unable to connect via the eduroam wireless network .  
+Who can use it?
+Faculty, staff, and students registered for classes in the current semester
+How much does it cost?
+There is no cost associated with this service.
+How to get it
+For information on how to configure your device for wireless use at Concordia, please select the option from the documentation section on this page that best matches the device you are using.
+To request a guest wireless account, send the details (employee sponsor name, length of time wireless is needed, and purpose of guest account) to the Service Desk at least 24 hours in advance via our Webform .
+Wireless guest accounts for Hospitality events are available by request through your event coordinator and a price list is available through the Equipment Loan and Rental page. For do-it-yourself (DIY) events, complete the Equipment & technician web form.  Once submitted,  you will receive an email confirmation. The request must be submitted 3 days prior to the event.
+Service availability
+24/7
+Documentation
+Windows 10 configuration
+Most Windows 10 devices will not require configuration and will connect automatically if you select the ConcordiaUniversity network and provide a valid netname and password when prompted.
+If your device fails to connect, follow these steps:
+1. Right click on the Network icon and choose 'Open Network and Sharing Center'.
+2. Select 'Set up a new connection or network'.
+4. A new window will open, allowing you to choose a connection option. Select 'Manually conect to a wireless network' and click 'Next'.
+5. Enter the information as shown in the image below and then click 'Next'.
+6. Another window should open stating that you have successfully added ConcordiaUniversity.
+Select 'Change connection settings'.
+7. The Wireless Network Properties window will appear. Select the 'Connection' tab and check the first and third boxes (Connect automatically when this network is in range & Connect even if the network is not broadcasting its name (SSID)).
+8. Select the Security tab. The network authentication method should be Microsoft Protected EAP (PEAP).
+You may also choose to remember the credentials by checking the applicable box, then click 'Settings'.
+9. A pop-up window will open.
+Unselect 'Verify the server's identity by validating the certificate', then click 'Configure'.
+10. A pop-up window named 'EAP MSCHAPv2 Properties' will appear.
+By default, this option will be selected - unselect it and click OK.
+11. This will bring you back to the Wireless Network Properties window.
+Select the 'Advanced settings' button.
+12. In the Advanced settings window, select 'Specify authentication mode' and select 'User or computer authentication'.
+Click OK.
+Windows 7 configuration
+Requirements:
+- Fully updated operating system
+- Make certain your wireless card is enabled and that the antenna isn't turned off if it's built in
+- You need to be logged into Windows using an account with administrative privileges
+Steps to follow:
+- Click Start > Control panel > View network status and tasks. If you are using the classic contro panel view, click on Network and Sharing Center.
+- Click Manage wireless networks > Add > Manually connect to a wireless network > Manually create a network profile. 
+- In the space provided, enter the following information:
+Network name: ConcordiaUniversity
+Security type: WPA2-Enterprise
+Encryption type: AES
+- Check the following two boxes: Start this connection automatically and Connect even if the network is not broadcasting.
+- Click Next
+- Click Change connection settings > Security (tab) > Security type WPA2-Enterprise > Encryption type AES > Protected EAP (PEAP)
+- Click Settings and uncheck the Validate server certificate box.- Click Configure and uncheck the Automatically use my Windows logon name and password box.
+You will then be prompted for additional information. Click on that message, and enter your netname and password (same as MyConcordia portal).
+Please note: Some Windows users (Windows 7 and 8) receive a popup window the first time they access Concordia's wireless network. This popup window will ask users to accept a security certificate similar to the one required by Apple devices. This generaly occurs when the Windows operating system has not been updated for a long period of time.
+Windows vista configuration
+Requirements:
+- Microsoft Windows users will need to download the latest Service Pack and updates for their operating system.
+- Make certain your wireless card is enabled and that the antenna isn't turned off if it's built in
+- You need to be logged into Windows using an account with administrative privileges
+Steps to follow:
+- Click Start > Control panel > Open network and sharing center
+- Click the Wireless network connection icon
+- Click Manually connect to a wireless network > Next
+- In the spaces provided, enter the following information:
+Network name: ConcordiaUniversity
+Security type: WPA2-Enterprise
+Encryption type: AES
+- Check the following two boxes: Start this connection automatically and Connect even if the network is not broadcasting.
+- Click Next
+- Click Change connection settings > Security (tab) > Security type WPA2-Enterprise > Encryption type AES > Protected EAP (PEAP)
+- Uncheck the box next to Cache user information for subsequent connections to the network.
+- Click Settings and uncheck the Validate server certificate box.
+- Choose Secured password (EAP-MSCHAP V2) as Select Authentication Method.
+- Check Enable fast reconnect box and uncheck all other boxes.
+- Click Configure and uncheck the Automatically use my Windows logon name and password box.
+- Click OK
+You will then be prompted for additional information. Click on that message, and enter your netname and password (same as MyConcordia portal) and leave the logon domain blank.
+Mac OS-X configuration
+Before you begin, ensure that you have an AirPort card or a Wireless Network card that is supported by your Macintosh. Please see Apple Airport Support for more information on supported devices. Make sure that the AirPort software is up to date by running a software update in the system preferences under the apple menu.
+Mac OS 10.7 and above
+This describes the procedure used for connecting systems using Apple's OS X 10.7 or higher to the Concordia University Wireless network using PEAP and WPA2 protocols. The instructions here may not work on earlier versions of OS X and may vary depending on your configuration. For further information on OS X wireless support, lease visit the Apple website.
+Steps to follow:
+- Select ConcordiaUniversity from the wireless pull-down menu at the top right of your screen.
+- Enter your MyConcordia portal netname and password when prompted.
+- Click Remember this network if you would like your computer to automatically connect to Concordia's wireless network.
+- Click continue to accept the certificate when prompted.
+- You will be prompted to put in your admin (local) username and password. This is a username and password you would have created upon purchase of the computer.
+- You should now be connected to the Concordia University network. To verify your connection go to the WiFi pull down menu > Open network preferences and ensure that there is a green dot beside the WiFi connection.
+ 
+Mac OS 10.6
+This document describes the procedure used for connecting systems using Apple’s Os X Snow Leopard (10.6) to the Concordia University Wireless network using the PEAP and WPA2 protocols. The instructions here may not work on earlier versions of OS X (i.e., 10.4, 10.5) and may vary depending on your configuration. For further information on OS X wireless support, please visit the Apple website.
+If this is your first time connecting, you may be prompted to accept a certificate. This process should occur when you first log onto the network, but may happen earlier. The steps for certificate acceptance are found at the end of this document.
+Steps to follow:
+While there are other methods to connect to the network, we’d suggest you create a User Profile with the settings below stored in it. This will allow you to automatically connect to the network wherever it is available.If you have already created a profile, do not repeat this step.
+- Open the System preferences > Network.
+- Select AirPort > Advanced > 802.1x (tab)
+- Please verify that another user profile for Concordia University's wireless network is not already present. If you already have a profile and the settings are correct, do not create a new one.
+- Under the user profiles menu, select the [+] button, then select Add user profile
+- The name of the network should be Concordia University
+- In the username and password fields, type your netname and password (same as MyConcordia portal)
+- Optional: If you wish to be prompted for your password each time you log in, ensure the Always prompt for password box is checked.
+- In the authentication area, ensure that PEAP is checked.
+- In the Wireless Network pulldown, select ConcordiaUniversity. This will set the profile you have built to work automatically on the Concordia network. Ensure that WPA2 Enterprise is selected as a security type. Click OK.
+iPhone, iPad, & iPod touch
+The protocol used to secure Concordia’s wireless network is not supported on early versions of the iPhone Operating System. Updating your iPhone OS to the latest version is encouraged. For further information, please visit the Apple website.
+Steps to follow:
+- To connect to the Concordia University wireless network on your iPhone, open the Settings application from your home screen.
+- Open the Wi-Fi menu and select the Other network. You will then be prompted for a Network name, Security setting, Username and Password:
+Network name: ConcordiaUniversity
+Security setting: WPA2 Enterprise
+Username: MyConcordia netname
+Password: MyConcordia password
+- After correctly entering your netname and password, you will be prompted to accept an certificate.
+- Once the certificate has been accepted, you will be brought back to the Wi-Fi screen and ConcordiaUniversity should have a checkmark next to it.
+Android
+IITS is unable to provide official support or specific instructions for every device using the Android platform due to the copious amount of phones and tablets on the market. The following network settings should act as a general guideline:
+SSID: ConcordiaUniversity
+Authentication: WPA2 Enterprise
+Encryption: AES
+802.1x/EAP type: PEAP
+Authentication method: MS-CHAP V2
+When prompted for your username and password, you must enter your netname and password from the MyConcordia portal.
+FAQ
+What username and password do I use to access the wireless network?
+The username and password are the same as those used to access your MyConcordia portal (netname and password).
+Due to the nature of Concordia's secure network, most devices must be configured before using the wireless for the first time. If it is your first time connecting, please select your device or operating system from the list in the documentation section of this page and follow the steps provided.
+What platforms are officially supported by Concordia?
+Officially, Concordia supports: Windows 7, Windows Vista, Windows XP, MAc OS-X, iPhone, iPad, iPod touch, Blackberry, and Android.
+IITS is unable to provide specific instructions for devices not listed above. In addition, the IITS Service Desk and service areas are unable to provide official support for devices running Linus and Unix platforms. To aid in the setup, please refer to Concordia's wireless authentication protocol, listed below.
+SSID: ConcordiaUniversity
+Authentication: WPA2 Enterprise
+Encryption: AES
+802.1x/EAP type: PEAP
+Authentication method: MS-CHAP V2
+Why won't my computer accept new credentials for wireless access?
+When you successfully log on to a wireless or wired network that uses Protected Extensible Authentication Protocol (PEAP) authentication, your credentials are automatically stored in the computer for reuse. This may sometimes interfere with your computer's ability to accept new credentials. To learn how to clear your cache, visit the Microsoft support page .
+See also
+Eduroam wireless network
+Netname account management
+Network connection and support
+Was this page useful to you?
+Rate
+This form is for feedback only. Technical support requests should be submitted by email to help@concordia.ca or phone 514-848-2424, ext. 7613.
+Page suggestions:
+Submit
+Back to top
+© Concordia University
+Concordia University - Call us at 514-848-2424
+About
+Academics
+Admissions
+Campus life
+Research
+International
+Future students
+Current students
+Alumni & friends
+Parents
+Faculty & staff
+Media
+Sir George Williams Campus
+1455 De Maisonneuve Blvd. W.
+Montreal, Quebec, Canada
+H3G 1M8
+See SGW Campus map
+Loyola Campus
+7141 Sherbrooke Street W.
+Montreal, Quebec, Canada
+H4B 1R6
+See Loyola Campus map
+facebook
+twitter
+google
+youtube
+linkedin
+pinterest
+instagram
+flickr
+Concordia social
+© Concordia University
+Terms
+Privacy
+Accessibility
+Website feedback
+Share this page
+Concordia.ca
+Call us at
+514-848-2424
+Sir George Williams Campus
+1455 De Maisonneuve Blvd. W.
+Montreal, Quebec, Canada
+H3G 1M8
+See SGW Campus map
+Loyola Campus
+7141 Sherbrooke Street W.
+Montreal, Quebec, Canada
+H4B 1R6
+See Loyola Campus map
+Website feedback
+Terms
+Privacy
+Accessibility
+© Concordia University

@@ -1,0 +1,41 @@
+﻿
+Toggle navigation
+About Us
+Mission
+Our History
+Our Executive Team
+Blog
+Spacecraft Division
+ConSat-1
+Aleksandr
+Ground Station
+Rocketry Division
+Arcturus
+Aurelius
+Special Projects
+Robotics
+Sponsors
+Contact Us
+Join the Team!
+Contact Form
+FAQ
+Donate
+Spacecraft
+Spacecraft specializes in the design, construction and operation of satellites. Now, the team is working on completing 3 projects: Consat-1, Aleksandr and our Ground Station.
+About the Spacecraft Division
+Space Concordia’s Spacecraft Division specializes in the design, construction and operation of satellites. The team is comprised of a diverse group of undergraduate students united by their passion of space technology. The satellite division can be divided into two subdivisions: a space segment, dedicated to building and constructing satellites; and a ground segment, tasked to operate and communicate with these satellites from Earth. Furthermore, the team is working on completing 2 satellites within their space segment: Consat-1 and Aleksandr.
+For the past years, the team has entered both Consat-1 and Aleksandr in the Canadian Satellite Design Challenge (CSDC). Because of the team’s dedication and continuous efforts, the team has been awarded 1st place in CSDC1 (Consat-1), 2nd place in CSDC2 (Aleksandr), and finally, 1st place once again in CSDC3 (Aleksandr).
+Although the team has emerged victorious from the competition, the team has a lot of work left to do in order to secure a launch date for both satellites. Unfortunately, the competition does not guarantee a launch for the winning satellite. It costs approximately $225,000 USD to launch a satellite, and the team currently does not possess enough funds to reach that goal. However, with support from the general public, space corporations and perhaps the Canadian Space Agency, a launch date can be secured for both Consat-1 and Aleksandr.
+Competition Overview
+The Canadian Satellite Design Challenge (CSDC) is a Canada-wide competition where teams of undergraduate students are challenged to design and build a small satellite known as a “cubesat” or “nanosatellite”. These satellites have dimensions of 34x10x10 cm, and a mass of up to 4 kg.
+The competition follows a specific timeline that replicates a typical space program, but spread out in a period of 2 years. Milestones included a project management plan (PMP), a preliminary design review (PDR), a critical design review (CDR) and an environmental test. On each phase, all teams are judged and ranked according to the quality of their work. All in all, the competition can be resumed into 4 major phases: Plan, Design, Build & Test.
+CSDC has done much more than provide the society with a goal to work for. It has provided the team with the technical expertise and soft-skills necessary to strive in an ever growing industry. It has also provided a bright future for Canada’s Space Sector, by training the next generation of students, and by promoting space technology to the general public through numerous outreach activities. CSDC has been proven to be an excellent vehicle for enhancing the competitiveness and ensuring the growth of Canada’s aerospace and space sectors.
+For more information on the competition, please visit the competition website www.csdcms.ca
+PROJECTS
+Space Segment
+CONSAT-1
+Aleksandr
+Ground Segment
+Ground Station
+Follow Us
+       

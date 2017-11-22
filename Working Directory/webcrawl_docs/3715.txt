@@ -1,0 +1,666 @@
+TradingView  
+United States
+United Kingdom
+India
+Deutschland
+France
+España
+Italia
+Polska
+Türkiye
+Россия
+Brasil
+Indonesia
+Malaysia
+Việt Nam
+日本
+한국
+简体
+繁體
+TradingView
+Sign In
+Ticker Trading Ideas Educational Ideas Scripts People
+Profile Profile Settings Account and Billing My Support Tickets
+Priority Support
+Contact Support Ideas Published Followers Following Sign Out Sign In Black Friday Sale
+Up to 60% OFF
+Network Where Active Traders Exchange Ideas to Maximize Profit
+The best charts on the web and a community of investors who are passionate about sharing trading ideas.
+Launch Chart
+Learn More
+Ideas
+Asset Class
+Currencies
+Stocks
+Indices
+Futures
+Cryptocurrencies
+Bonds
+CFDs
+Trend Analysis
+Support and Resistance
+Supply and Demand
+Pivot Points
+Fibonacci
+Trend Lines
+Candlestick Analysis
+Multiple Time Frame Analysis
+Seasonality
+Fractals
+Cycles
+Harmonic Patterns
+AB=CD
+Three Drives
+Gartley
+Bat
+Butterfly
+Crab
+Cypher
+5-0
+Shark
+Chart Patterns
+Double Top or Bottom
+Head and Shoulders
+Wedge
+Cup and Handle
+Flag
+Pennant
+Rectangle
+Parallel Channel
+Pitchforks
+Triangle
+Indicators and Overlays
+Oscillators
+Centered Oscillators
+Volatility
+Volume
+Moving Average
+Breadth Indicators
+Bill Williams Indicators
+Wave Analysis
+Elliott Wave
+Neo Wave
+Sine Wave
+Wolfe Wave
+Kondratieff Wave
+Gann
+Gann Box
+Gann Fan
+Gann Square
+Beyond Technical Analysis
+Risk Management
+Trading Psychology
+Trading Plan
+Trading Tools
+Macroeconomics
+Fundamental Analysis
+Chart Art
+Bullseye
+Markets
+Currencies
+Economic Calendar
+Forex Signal Finder
+Major
+Minor
+Exotic
+Americas
+Europe
+Asia
+Pacific
+Middle East
+Africa
+Cross Rates
+DXY , EUR/USD , USD/JPY , GBP/USD , AUD/USD , USD/CAD
+Stocks
+Earnings Calendar
+Stock Screener
+Top Gainers
+Top Losers
+Most Active
+Large-Cap
+Small-Cap
+Most Volatile
+Overbought
+Oversold
+All Time High
+All Time Low
+MARVELL TECHNOLOGY GROUP LTD , GENERAL ELECTRIC COMPANY , INTERCLOUD SYS INC , SPDR S&P 500 , BANK OF AMERICA CORP , ISHARES MSCI EMERGING INDEX FUND
+Indices
+Major World Indices
+US Indices
+S&P Sectors
+S&P 500 , Nasdaq 100 , Dow 30 , Nikkei 225 , DAX , FTSE 100
+Futures
+Agricultural
+Energy
+Currencies
+Metals
+World Indices
+Interest Rates
+Gold , Silver , Crude Oil , Natural Gas , Coffee , Cotton
+Cryptocurrencies
+Cryptocurrency Screener
+Overview
+Bitcoin
+Ethereum
+Bitcoin Cash
+Ripple
+IOTA
+Litecoin
+Dash
+Ethereum Classic
+Monero
+Bitcoin / Dollar , Ethereum / Dollar , BCH / Dollar , Ripple / Dollar , Litecoin / Dollar , Ethereum Classic / Dollar
+Bonds
+Americas
+Europe
+Asia
+Pacific
+Middle East
+Africa
+US 10Y , Euro Bund , Germany 10Y , Japan 10Y , UK 10Y , India 10Y
+CFDs
+Agricultural
+Energy
+Metals
+World Indices
+Interest Rates
+GOLD (US$/OZ) , Brent Oil , Crude Oil , Natural Gas , PALLADIUM (US$/OZ) , SILVER (US$/OZ)
+Scripts
+Oscillators
+Relative Strength Index (RSI)
+Average Directional Index (ADX)
+Stochastic Oscillator
+Chande Momentum Oscillator (CMO)
+True Strength Index (TSI)
+Ultimate Oscillator (UO)
+Stochastic RSI
+Vortex Indicator (VI)
+Directional Movement Index (DMI)
+DeMarker Indicator (DeM)
+Centered Oscillators
+Moving Average Convergence Divergence (MACD)
+Commodity Channel Index (CCI)
+Fisher Transform
+Momentum Indicator (MOM)
+Woodies CCI
+TRIX
+Detrended Price Oscillator (DPO)
+Percent Price Oscillator (PPO)
+Bears Power
+Know Sure Thing (KST)
+Volatility
+Average True Range (ATR)
+Bollinger Bands (BB)
+Rate of Change (ROC)
+Donchian Channels
+Keltner Channels (KC)
+Parabolic Stop and Reverse (PSAR)
+Historical Volatility
+Standard Deviation
+Volatility Stop
+Chaikin Volatility (CHV)
+Trend Analysis
+Ichimoku Cloud
+Pivot Points
+Price/Earnings Ratio (P/E Ratio)
+Support and Resistance
+Commitment of Traders (COT)
+Linear Regression
+Pring Special K
+Zig Zag Indicator
+Candlestick Analysis
+Relative Strength Comparison (RSC)
+Volume
+Put/Call Ratio (PCR)
+Volume Indicator
+Money Flow Index (MFI)
+Chaikin Money Flow (CMF)
+Volume Profile
+Volume-weighted Average Price (VWAP)
+Accumulation / Distribution Line (ADL)
+Price Volume Trend (PVT)
+Ease of Movement (EOM)
+Negative Volume Index (NVI)
+Moving Average
+Exponential Moving Average (EMA)
+Weighted Moving Average (WMA)
+Simple Moving Average (SMA)
+Hull Moving Average (HMA)
+Kaufman's Adaptive Moving Average (KAMA)
+Smoothed Moving Average (SMMA)
+Variable Index Dynamic Average (VIDYA)
+Volume-weighted Moving Average (VWMA)
+Fractal Adaptive Moving Average (FRAMA)
+Double Exponential Moving Average (DEMA)
+Breadth Indicators
+On Balance Volume (OBV)
+McClellan Oscillator
+McClellan Summation Index
+Advance/Decline Ratio
+Cumulative Volume Index (CVI)
+Arms Index (TRIN)
+Advance/Decline Line
+High-Low Index
+Advance/Decline Volume Line
+Bill Williams Indicators
+Awesome Oscillator (AO)
+Williams Fractal
+Market Facilitation Index
+Williams Alligator
+Gator Oscillator
+Accelerator Oscillator (AC)
+Education
+Chart
+More Icon Copy
+How It Works
+Features
+Compare Plans
+House Rules
+Moderators
+Website & Broker Solutions
+Widgets
+Charting Library
+Brokerage Integration
+Advertising
+Status Page
+Feature Request
+Blog & News
+FAQ
+Help & Wiki
+Market Summary
+Indices
+Currencies
+Futures
+Crypto
+Bonds
+S&P 500
+S&P 500
+ 
+   
+Nasdaq 100
+NASDAQ 100
+ 
+   
+Dow 30
+The Dow Jones Industrial Average Index
+ 
+   
+Nikkei 225
+NIKKEI 225
+ 
+   
+DAX
+Index of the 30 Major German Companies
+ 
+   
+FTSE 100
+FTSE 100
+ 
+   
+Dollar Index
+US Dollar Currency Index
+ 
+   
+EURUSD
+Euro/U.S. Dollar
+ 
+   
+USDJPY
+U.S. Dollar/Japanese Yen
+ 
+   
+GBPUSD
+Pound Sterling/U.S. Dollar
+ 
+   
+AUDUSD
+Australian Dollar/U.S. Dollar
+ 
+   
+USDCAD
+U.S. Dollar/Canadian Dollar
+ 
+   
+Gold
+Gold / U.S. Dollar
+ 
+   
+Silver
+Silver/U.S. Dollar
+ 
+   
+Crude Oil
+Light Crude Oil Futures
+ 
+   
+Natural Gas
+Natural Gas Futures
+ 
+   
+Coffee
+Coffee Futures
+ 
+   
+Cotton
+Cotton
+ 
+   
+BTCUSD
+Bitcoin / Dollar
+ 
+   
+ETHUSD
+Ethereum / Dollar
+ 
+   
+BCHUSD
+BCH / Dollar
+ 
+   
+XRPUSD
+Ripple / Dollar
+ 
+   
+LTCUSD
+Litecoin / Dollar
+ 
+   
+ETCUSD
+Ethereum Classic / Dollar
+ 
+   
+US 10Y
+US Government Bonds 10 YR
+ 
+   
+Euro Bund
+Euro Bund
+ 
+   
+Germany 10Y
+German Government Bonds 10 YR
+ 
+   
+Japan 10Y
+Japan Government Bonds 10 YR
+ 
+   
+UK 10Y
+UK Government Bonds 10 YR
+ 
+   
+India 10Y
+India Government Bonds 10 YR
+ 
+   
+News
+Stocks
+Economic Calendar
+Top authors
+Today
+Week
+Month
+All time
+DianKemala PRO
+21992
+657
+83860 +811
+DLavrov PRO
+24522
+811
+118121 +778
+FxCanli PRO
+8545
+589
+57272 +626
+EXCAVO PRO
+19320
+842
+124077 +602
+goldbug1 PRO
+9741
+127
+36305 +436
+TomHall PRO
+16995
+1065
+136813 +401
+EXCAVO PRO
+19320
+842
+124077 +6179
+DianKemala PRO
+21992
+657
+83860 +5187
+DLavrov PRO
+24522
+811
+118121 +5100
+goldbug1 PRO
+9741
+127
+36305 +3852
+MarcPMarkets PRO
+6246
+159
+23206 +2542
+TomHall PRO
+16995
+1065
+136813 +2372
+DianKemala PRO
+21992
+657
+83860 +26916
+EXCAVO PRO
+19320
+842
+124077 +17707
+DLavrov PRO
+24522
+811
+118121 +17614
+goldbug1 PRO
+9741
+127
+36305 +13877
+TomHall PRO
+16995
+1065
+136813 +11801
+MarcPMarkets PRO
+6246
+159
+23206 +8567
+tntsunrise PRO
+29071
+1536
+163567
+TomHall PRO
+16995
+1065
+136813
+BLUE43 PRO
+14962
+4066
+132094
+EXCAVO PRO
+19320
+842
+124077
+DLavrov PRO
+24522
+811
+118121
+Technician
+23649
+896
+107744
+EXCAVO TOP NEOUSD, 45, Long ,
+13428
+89
+128
+NEOUSD , 45 Long
+NEOUSD
+NEOUSD break out the channel, tested support line and look bullish
+MarcPMarkets TOP BTCUSD, 720,
+5894
+35
+139
+BTCUSD , 720
+BTCUSD Perspective And Levels: Runaway Train?
+BTCUSD update: New all time highs as I write this, right into the 8250 target area. The next level to watch for is 8500 which is the top boundary of the reversal zone.  Yesterday I updated my previous BTC report, pointing out that price was in the process of breaking out of the bull flag formation and on its way to 8k. This price action is very clear and very ...
+FxCanli TOP USDJPY, 240,
+3762
+37
+136
+USDJPY , 240
+USDJPY / H4 / Bat Pattern
+USDJPY / H4 / Bat Pattern  Market : Forex  Pair : USD JPY  Time Frame : H4  Strategy : Bat Pattern  Risk Ratio : max %2
+DianKemala TOP XRPUSDT, 240, Long ,
+4428
+18
+89
+XRPUSDT , 240 Long
+XRPUSD update
+XRPUSD hit our previous analysis, to follow bullish movement, best buy at supportline 0.2215, and aim for same target at 0.2819 If this coin drop again, prepare for buy back at 0.1839  Good luck
+DLavrov TOP DASHUSDT, D,
+4821
+14
+85
+DASHUSDT , D
+Dash How to Trade
+If we look at the daily chart of Dash, we can see a pennant chart pattern. If the price breaks the resistance line of this pattern, it will be realized as a continuation one.  We'll be able to buy based on a breakout signal or place pending orders above 500.00 resistance level. But if we look at 2 important indicators like MACD and DMI, we have to note that their ...
+tntsunrise TOP XAUUSD, 240, Long ,
+3022
+13
+92
+XAUUSD , 240 Long
+GOLD Touche 0.618 level
+GOLD Touche 0.618 level 1276.18 strong support  Good to buy gold with multiple time frame analysis Target: 1284 1288  SL:  1272.50
+Technician TOP AUDUSD, D,
+1202
+3
+68
+AUDUSD , D
+AUDUSD: Next Tradable area
+Hello friends,  I highlighted the next potential support area for the pair as i see it. This is not a confirmed support as we don't know if the price will respect it. However, i will keep my eyes wide open if we reach there for a quick counter trend long trade(Wait for a rejection on the lower time frame).  Best Technician
+Alexander_Nikitin USDCAD, 15, Short ,
+872
+6
+69
+USDCAD , 15 Short
+usdcad.gartley before the butterfly.
+Mates, after years of market reasearch during which I found tens of thousands of patterns with the software that I have created I realized some interesting things about pattern trading. Below I will enumerate my observations.   #1. XA leg (XC for cyphers/sharks) should lay somewhere in the range of 10-30 times of the average candle range. To canlculate the range I ...
+TomHall TOP USDJPY, 60, Short ,
+1068
+8
+60
+USDJPY , 60 Short
+USD.JPY - Bearish Cypher 113.481 & 113.908
+Currency pair - USD.JPY Chart timeframe - 1hr  Area of interest - 113.481 & 113.908 Chart pattern - Bearish Cypher   Potential target 1 - 112.871 Potential target 2 - 112.493  Potential extended target - 112.273
+goldbug1 TOP BTCUSD, 120,
+17289
+88
+176
+BTCUSD , 120
+BTC - Consolidation, New Highs and How the CME will Effect Price
+Bitcoin' has defied a corrective move which is overdue by normal theories since it's 2015 bull breakout. I gave up looking for this monster to correct, sometimes you just have to throw in the towel.  To boot the last move couldn't be more bullish.  The extensions and targets are crazy at this point, but well within reach. $9400-$9600 could be the next level and ...
+AAlFadhala PRO BTCUSD, D, Education
+8176
+25
+35
+BTCUSD , D Education
+Analyses of Trading Ranges
+Hi traders! Hope you had an amazing weekend. I usually post ideas where I state trading ranges and the important of them. Therefore, I decided to explain it briefly below and why they are important - please keep an open mind and feel free to ask me any questions below! - Abdulla     What are Trading Ranges?  One of Richard Wyckoff methods to improve the timing ...
+FUNTRADER-Vera PRO XAUUSD, 240, Long ,
+2071
+11
+36
+XAUUSD , 240 Long
+XAUUSD: Gold is still bullish ,dont short it.
+Traders,  Gold is still bullish ,dont short it.  Less is more!
+mcgough_max PRO BTCUSD, D, Short ,
+1500
+62
+26
+BTCUSD , D Short
+FED RESERVE 2.0 meets Mt. Gox 2.0
+Please be weary and aware of the sandbox you are playing in.  The prices of not only bitcoin, but cryptos in general are being manipulated by exchanges via Tether.  Tether is not redeemable for USD but it certainly masquerades as the dollar. Even following the dollars mantra...  endless money printing with little to no concern about its effect on our crypto ...
+shiva8 BCHUSD, 30,
+2434
+29
+24
+BCHUSD , 30
+bitcoin cash ready to go up
+so people bch is ready to go up today in few hours. so be ready people .
+Nickonomics PRO BTCUSD, 240, Short ,
+3898
+23
+39
+BTCUSD , 240 Short
+Bitcoin (BTCUSD): It's Pullback Time
+Previously, we anticipated a correction from $7200 to at least $6740: https://www.tradingview.com/chart/BTCUSD/6RDA1p7h-Bitcoin-BTCUSD-Correction-To-Be-Continued/ Notice just how accurately the price reversed from POC level on this chart @5684. Now it's time for another pullback, the conditions are met. There are two resistance clusters: the first @8070-8090 and ...
+pgarret PRO POWRBTC, 60, Long ,
+2508
+37
+21
+POWRBTC , 60 Long
+Power Ledger (POWR) a new star is rising.
+BITTREX:POWRBTC This coins is a very promising one, massive support from community and governments (Australia), if you didn't get any you should because it will become massive soon (already did an impressive move). The down trend wave has just started so the final  wave will start soon. A good point to buy back is 0.00005000 BTC. Unfortunately cannot be both with ...
+Dalin_anderson PRO BTGUSD, 60, Long ,
+1142
+2
+29
+BTGUSD , 60 Long
+New market cycle coming on BTG
+Not buying here just adding to my watch list might buy if I see Elliotts start in the new cycle. :D
+Agency PRO BTGUSD, 240, Long ,
+988
+10
+22
+BTGUSD , 240 Long
+A Golden Monster Trade?
+Currently price is trading at the edge of a major classic fibo support. If we can stay above this level ($157) it could trigger a bullish rally taking out resistance levels along the way. AB=CD harmonic pattern suggests trading is to be expected above $577 within the next 19 days. Thus, MIN TP can be set at the $677 fibo extension, and its possible to look higher ...
+Show More Ideas
+Community & Tools
+House Rules Moderators People Chat Stock Screener Forex Signal Finder Cryptocurrency Signal Finder Economic Calendar AppStore
+For Business
+Website & Broker Solutions Widgets Charting Library Trading Terminal Brokerage Integration Advertising Referral Program Content Streams & RSS
+Support
+Contact Support Status Page Blog Feature Request Help & Wiki FAQ Contacts
+About
+How It Works Features Compare Plans Press Terms of Use Risk Warning Privacy Policy Cookies Policy
+© 2017 TradingView
+Stock Charts & Forex Charts
+Made with
+From the creators of MultiCharts
+Select market data provided by ICE Data services
+United States
+United Kingdom
+India
+Deutschland
+France
+España
+Italia
+Polska
+Türkiye
+Россия
+Brasil
+Indonesia
+Malaysia
+Việt Nam
+日本
+한국
+简体
+繁體
+Home Stock Screener Forex Signal Finder Cryptocurrency Signal Finder Economic Calendar How It Works Chart Features House Rules Moderators Website & Broker Solutions Widgets Stock Charting Library Feature Request
+Blog & News
+FAQ
+Help & Wiki
+Twitter
+Profile Profile Settings Account and Billing My Support Tickets Priority Support Contact Support Ideas Published Followers Following Private Messages Chat Sign Out
+Black Friday Sale
+Up to 60% OFF

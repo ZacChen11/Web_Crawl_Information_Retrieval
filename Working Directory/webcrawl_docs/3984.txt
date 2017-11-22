@@ -1,0 +1,27 @@
+﻿
+Toggle navigation
+About Us
+Mission
+Our History
+Our Executive Team
+Blog
+Spacecraft Division
+ConSat-1
+Aleksandr
+Ground Station
+Rocketry Division
+Arcturus
+Aurelius
+Special Projects
+Robotics
+Sponsors
+Contact Us
+Join the Team!
+Contact Form
+FAQ
+Donate
+Ground Segment
+Short Summary
+The ground segment is responsible for establishing a communication link with satellites orbiting around the Earth. Through the ground segment, the team is capable of performing routine satellite operations, acquiring scientific data and performing satellite diagnosis of Space Concordia’s satellites. The ground segment will also be capable of communicating with publicly accessible satellites from other organizations, and is currently planned to participate in a larger network of ground stations around the world.
+Follow Us
+       

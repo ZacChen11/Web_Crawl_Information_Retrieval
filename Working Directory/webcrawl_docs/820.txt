@@ -1,0 +1,236 @@
+Concordia University
+https://www.concordia.ca/content/shared/en/events/offices/vprgs/sgs/2017/12/05/phd-oral-exam-150-meysam-salari-industrial-engineering.html
+Study resources
+Calendar - Graduate
+Calendar - Undergraduate
+Class schedules
+Class cancellations
+Course registration
+Important academic dates
+More academic resources
+Campus services
+Concordia Stores
+IT services
+Job opportunities
+Security
+Shuttle bus
+Student Service Centre (Birks)
+All campus services
+What's new
+Calendar of events
+Latest news
+Media Relations
+Faculties, Schools & Colleges
+Arts and Science
+Engineering and Computer Science
+Fine Arts
+John Molson School of Business
+School of Graduate Studies
+All Schools, Colleges & Departments
+Quick links  
+Webmail Library Cspace
+Study resources  
+Calendar - Graduate
+Calendar - Undergraduate
+Class schedules
+Class cancellations
+Course registration
+Important academic dates
+More academic resources
+Campus services  
+Concordia Stores
+IT services
+Job opportunities
+Security
+Shuttle bus
+Student Service Centre (Birks)
+All campus services
+What's new  
+Calendar of events
+Latest news
+Media Relations
+Faculties, Schools & Colleges  
+Arts and Science
+Engineering and Computer Science
+Fine Arts
+John Molson School of Business
+School of Graduate Studies
+All Schools, Colleges & Departments
+Quick links The Campaign for Concordia
+MyConcordia
+Cspace
+Webmail
+Library
+Directories
+A-Z
+Maps
+Future students
+Student hub
+Alumni & friends
+Parents
+Faculty & staff
+Media
+Concordia University
+Concordia University
+Events
+Calendar
+Academic dates
+University holidays
+Cancelled classes
+Planning & hosting
+The Campaign for Concordia
+Study resources
+Calendar - Graduate
+Calendar - Undergraduate
+Class schedules
+Class cancellations
+Course registration
+Important academic dates
+More academic resources
+Campus services
+Concordia Stores
+IT services
+Job opportunities
+Security
+Shuttle bus
+Student Service Centre (Birks)
+All campus services
+What's new
+Calendar of events
+Latest news
+Media Relations
+Faculties, Schools & Colleges
+Arts and Science
+Engineering and Computer Science
+Fine Arts
+John Molson School of Business
+School of Graduate Studies
+All Schools, Colleges & Departments
+Quick links  
+Webmail Library Cspace
+Study resources  
+Calendar - Graduate
+Calendar - Undergraduate
+Class schedules
+Class cancellations
+Course registration
+Important academic dates
+More academic resources
+Campus services  
+Concordia Stores
+IT services
+Job opportunities
+Security
+Shuttle bus
+Student Service Centre (Birks)
+All campus services
+What's new  
+Calendar of events
+Latest news
+Media Relations
+Faculties, Schools & Colleges  
+Arts and Science
+Engineering and Computer Science
+Fine Arts
+John Molson School of Business
+School of Graduate Studies
+All Schools, Colleges & Departments
+Information for...
+Future students
+Student hub
+Alumni & friends
+Parents
+Faculty & staff
+Media
+Concordia
+Directories
+Search
+Concordia University
+Events
+Concordia.ca
+ / 
+Events
+Facebook
+Twitter
+LinkedIn
+GooglePlus
+PhD Oral Exam - Meysam Salari, Industrial Engineering
+Optimizing Sustainable Product Development
+December 5, 2017, 10 a.m. – 1 p.m.
+When studying for a doctoral degree (PhD), candidates submit a thesis that provides a critical review of the current state of knowledge of the thesis subject as well as the student’s own contributions to the subject. The distinguishing criterion of doctoral graduate research is a significant and original contribution to knowledge.
+Once accepted, the candidate presents the thesis orally. This oral exam is open to the public.
+Abstract
+Global warming, which is caused by increasing concentrations of carbon emissions, mainly results from human activities, such as fossil fuel burning and deforestation. In order to alleviate global warming and its adverse effects, many countries including the United States and the European Union members have attempted to enact legislation or design market-based carbon trading mechanisms to control carbon emissions. Analyzing the impact of such governmental legislation on developing products has been studied, both in theory and practice. Firms need to incorporate governmental regulations and consider environmental issues and reduced carbon emission in their product development processes, this thesis presents three models for sustainable product development. All models consider environmental issues and cost for the whole life cycle of the product, from the extraction of raw materials to the end of life of the product. Three group of customer requirements are defined as cost, quality and sustainability. The objective of the models is to maximize utility to the customers for these groups of customer requirements. In all three models, three groups of customer requirements are translated to design specifications and the utility of each group is evaluated. The first model is a scoring model to compare between different designs and select the best one; the second model is an optimization model, which provides optimum value for design specifications while maximizing the total utility to the customers for the final design. And finally, the third model is a two-stage stochastic optimization model in which the weights of customer requirements are considered as uncertain parameters. This model also provides the optimum value for design specifications while modeling the weight of customer requirements as an uncertain parameter. The last two models are non-linear, non-convex models with certain conditions and are solved using the Branch-and-Reduce Optimization Navigator methodology. In all three models, Quality Function Deployment is applied to make trade-offs within each group of customer requirements and multi-attribute utility theory is used to make trade-offs between three groups of customer requirements. All three models are applied to a case study, and results show that introducing uncertainty in the parameters increases the total utility by 9.41%, and the optimization model also has the potential to help designers find an optimum design yielding higher customer satisfaction, reducing the time of product development process and making the final design more reliable based on stakeholder’s opinions.
+Where
+Room EV 3.309, Engineering, Computer Science and Visual Arts Integrated Complex (1515 St. Catherine W.), Sir George Williams Campus
+Cost
+This event is free
+Organizer
+Mary Appezzato
+Organization
+School of Graduate Studies
+Contact
+514-848-2424, ext. 3813
+Category
+Thesis defences
+Calendar
+Submit an event
+Latest news
+Back to top
+© Concordia University
+Concordia University - Call us at 514-848-2424
+About
+Academics
+Admissions
+Campus life
+Research
+International
+Future students
+Current students
+Alumni & friends
+Parents
+Faculty & staff
+Media
+Sir George Williams Campus
+1455 De Maisonneuve Blvd. W.
+Montreal, Quebec, Canada
+H3G 1M8
+See SGW Campus map
+Loyola Campus
+7141 Sherbrooke Street W.
+Montreal, Quebec, Canada
+H4B 1R6
+See Loyola Campus map
+facebook
+twitter
+google
+youtube
+linkedin
+pinterest
+instagram
+flickr
+Concordia social
+© Concordia University
+Terms
+Privacy
+Accessibility
+Website feedback
+Share this page
+Concordia.ca
+Call us at
+514-848-2424
+Sir George Williams Campus
+1455 De Maisonneuve Blvd. W.
+Montreal, Quebec, Canada
+H3G 1M8
+See SGW Campus map
+Loyola Campus
+7141 Sherbrooke Street W.
+Montreal, Quebec, Canada
+H4B 1R6
+See Loyola Campus map
+Website feedback
+Terms
+Privacy
+Accessibility
+© Concordia University

@@ -1,0 +1,278 @@
+Concordia University
+http://www.concordia.ca/content/concordia/en/it/services/vpn.html
+Study resources
+Calendar - Graduate
+Calendar - Undergraduate
+Class schedules
+Class cancellations
+Course registration
+Important academic dates
+More academic resources
+Campus services
+Concordia Stores
+IT services
+Job opportunities
+Security
+Shuttle bus
+Student Service Centre (Birks)
+All campus services
+What's new
+Calendar of events
+Latest news
+Media Relations
+Faculties, Schools & Colleges
+Arts and Science
+Engineering and Computer Science
+Fine Arts
+John Molson School of Business
+School of Graduate Studies
+All Schools, Colleges & Departments
+Quick links  
+Webmail Library Cspace
+Study resources  
+Calendar - Graduate
+Calendar - Undergraduate
+Class schedules
+Class cancellations
+Course registration
+Important academic dates
+More academic resources
+Campus services  
+Concordia Stores
+IT services
+Job opportunities
+Security
+Shuttle bus
+Student Service Centre (Birks)
+All campus services
+What's new  
+Calendar of events
+Latest news
+Media Relations
+Faculties, Schools & Colleges  
+Arts and Science
+Engineering and Computer Science
+Fine Arts
+John Molson School of Business
+School of Graduate Studies
+All Schools, Colleges & Departments
+Quick links The Campaign for Concordia
+MyConcordia
+Cspace
+Webmail
+Library
+Directories
+A-Z
+Maps
+Future students
+Student hub
+Alumni & friends
+Parents
+Faculty & staff
+Media
+Concordia University
+Concordia University
+IT Services
+Services
+Get help
+Get started
+IT security
+IT groups
+The Campaign for Concordia
+Study resources
+Calendar - Graduate
+Calendar - Undergraduate
+Class schedules
+Class cancellations
+Course registration
+Important academic dates
+More academic resources
+Campus services
+Concordia Stores
+IT services
+Job opportunities
+Security
+Shuttle bus
+Student Service Centre (Birks)
+All campus services
+What's new
+Calendar of events
+Latest news
+Media Relations
+Faculties, Schools & Colleges
+Arts and Science
+Engineering and Computer Science
+Fine Arts
+John Molson School of Business
+School of Graduate Studies
+All Schools, Colleges & Departments
+Quick links  
+Webmail Library Cspace
+Study resources  
+Calendar - Graduate
+Calendar - Undergraduate
+Class schedules
+Class cancellations
+Course registration
+Important academic dates
+More academic resources
+Campus services  
+Concordia Stores
+IT services
+Job opportunities
+Security
+Shuttle bus
+Student Service Centre (Birks)
+All campus services
+What's new  
+Calendar of events
+Latest news
+Media Relations
+Faculties, Schools & Colleges  
+Arts and Science
+Engineering and Computer Science
+Fine Arts
+John Molson School of Business
+School of Graduate Studies
+All Schools, Colleges & Departments
+Information for...
+Future students
+Student hub
+Alumni & friends
+Parents
+Faculty & staff
+Media
+Concordia
+Directories
+Search
+Concordia University
+IT Services
+Concordia.ca
+ / 
+IT services
+ / 
+Services
+ / 
+Virtual private network (VPN)
+Facebook
+Twitter
+LinkedIn
+GooglePlus
+Virtual private network (VPN)
+Concordia University's Virtual Private Network (VPN) service allows off-site Concordia University students, staff and faculty access to services restricted to computers registered with Concordia IP addresses.
+The Concordia University VPN service is solely for academic or work related use. While using the VPN service, your computer becomes part of the university network and is subject to Concordia University's Policy on Computing Facilities . It is important to note that file-sharing and peer-to-peer applications are forbidden on the Concordia network. Use of these types of programs may result in immediate suspension of your VPN account. Please ensure that these applications are not running prior to connecting to the Concordia VPN service.  
+Related policy: Policy on computing facilities VPS-30
+Who can use it?
+Faculty, staff and students
+How much does it cost?
+There is no cost associated with this service
+How to get it
+To download the VPN Cisco 'AnyConnect' client, visit https://urutu.concordia.ca . Please note: you must be off campus to access this webpage. Enter your netname and password, then click on 'Login' to establish the connection.
+For instructions on configuring the VPN client, visit the documentation section of this page and select the PDF document that corresponds to your operating system.
+Service availability
+24/7
+Documentation
+VPN Software client downloads and configuration
+Click on the link which corresponds to your operating system to download and configure the installation software.
+Windows
+Mac OS X
+Linux
+iPad and iPhone users can establish a VPN connection with Concordia using the AnyConnect app for Apple devices from Cisco.
+The app is available from the iTunes store .
+Android users can establish a VPN connection with Concordia using the AnyConnect app for Android devices from Cisco.
+The app is available from the Google Play store .
+On both Apple and Android devices, follow these steps to get connected:
+Select 'Add new VPN Connection...'
+Enter a description that is relevent to you. Example: Concordia
+In the Server Address field, enter urutu.concordia.ca
+Select 'Done'
+When you turn on the connection, you will be prompted to enter your Concordia netname and password
+Remote desktop instructions
+It is recommended that Concordia staff members receive authorization from a departmental manager or supervisor before attempting a remote desktop connection.
+How to connect to your office computer from outside the Concordia network
+FAQ
+Why does my internet seem slow when I am using the VPN?
+During an active VPN session, all of your internet traffic is routed through Concordia University's network. This will result in lower response times when accessing non-Concordia internet resources. Some internet resources will not be available at all because they are blocked at Concordia University's gateway.
+What level of desktop rights is required to install the AnyConnect client?
+For the initial installation, you need administrative privileges on your desktop to complete the installation. Subsequent upgrades do not require admin privileges.
+Can I use the VPN on my mobile device?
+Most mobile devices allow the use of Concordia's VPN. You can download the application from your manufacurer's online app store (Example: if you have an iPhone, you will go to iTunes). The application is called "Cisco Anyconnect" by Cisco System INC.
+Do I need any programs on my computer in order to install the AnyConnect client?
+Either ActiveX or Java Runtime Environment must be installed on your computer.
+My web browser is not displaying urutu.concordia.ca. What can I do?
+You must be off campus to access the https://urutu.concordia.ca webpage.
+If you are off campus and experiencing this issue, you will need to add the page as a trusted site in your browser. In addition, make sure that the security level of your browser is set up to medium for the trusted sites. This can be done via your internet browser's 'options'.
+I am receiving a message that the installation was blocked by my browser. What can I do?
+Allow the add-on by clicking the 'Allow' button.
+If installation doesn't run automatically, click 'download' to download the software and run the installation manually.
+I'm sure that I used the correct url, netname and password, but the webpage times out after the authentication.
+Use another browser in the event that the displayed page times out. Some problems are browser related.
+How can I use the VPN and Remote Desktop to connect to my office computer from home?
+To connect to your office computer from home, you first need to connect to the Concordia network by establishing a VPN connection. Once the VPN connection is established, you can use Remote Desktop to connect to your office computer.
+For more information on how to connect, consult our instructional documentation .
+See also
+Network connection and support
+Concordia wireless network
+Was this page useful to you?
+Rate
+This form is for feedback only. Technical support requests should be submitted by email to help@concordia.ca or phone 514-848-2424, ext. 7613.
+Page suggestions:
+Submit
+Back to top
+© Concordia University
+Concordia University - Call us at 514-848-2424
+About
+Academics
+Admissions
+Campus life
+Research
+International
+Future students
+Current students
+Alumni & friends
+Parents
+Faculty & staff
+Media
+Sir George Williams Campus
+1455 De Maisonneuve Blvd. W.
+Montreal, Quebec, Canada
+H3G 1M8
+See SGW Campus map
+Loyola Campus
+7141 Sherbrooke Street W.
+Montreal, Quebec, Canada
+H4B 1R6
+See Loyola Campus map
+facebook
+twitter
+google
+youtube
+linkedin
+pinterest
+instagram
+flickr
+Concordia social
+© Concordia University
+Terms
+Privacy
+Accessibility
+Website feedback
+Share this page
+Concordia.ca
+Call us at
+514-848-2424
+Sir George Williams Campus
+1455 De Maisonneuve Blvd. W.
+Montreal, Quebec, Canada
+H3G 1M8
+See SGW Campus map
+Loyola Campus
+7141 Sherbrooke Street W.
+Montreal, Quebec, Canada
+H4B 1R6
+See Loyola Campus map
+Website feedback
+Terms
+Privacy
+Accessibility
+© Concordia University

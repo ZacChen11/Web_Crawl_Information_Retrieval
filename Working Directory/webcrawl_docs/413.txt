@@ -1,0 +1,685 @@
+Concordia University
+http://www.concordia.ca/content/concordia/en/academics/graduate/calendar/current/encs/compsoen.html
+Study resources
+Calendar - Graduate
+Calendar - Undergraduate
+Class schedules
+Class cancellations
+Course registration
+Important academic dates
+More academic resources
+Campus services
+Concordia Stores
+IT services
+Job opportunities
+Security
+Shuttle bus
+Student Service Centre (Birks)
+All campus services
+What's new
+Calendar of events
+Latest news
+Media Relations
+Faculties, Schools & Colleges
+Arts and Science
+Engineering and Computer Science
+Fine Arts
+John Molson School of Business
+School of Graduate Studies
+All Schools, Colleges & Departments
+Quick links  
+Webmail Library Cspace
+Study resources  
+Calendar - Graduate
+Calendar - Undergraduate
+Class schedules
+Class cancellations
+Course registration
+Important academic dates
+More academic resources
+Campus services  
+Concordia Stores
+IT services
+Job opportunities
+Security
+Shuttle bus
+Student Service Centre (Birks)
+All campus services
+What's new  
+Calendar of events
+Latest news
+Media Relations
+Faculties, Schools & Colleges  
+Arts and Science
+Engineering and Computer Science
+Fine Arts
+John Molson School of Business
+School of Graduate Studies
+All Schools, Colleges & Departments
+Quick links The Campaign for Concordia
+MyConcordia
+Cspace
+Webmail
+Library
+Directories
+A-Z
+Maps
+Future students
+Student hub
+Alumni & friends
+Parents
+Faculty & staff
+Media
+Concordia University
+Concordia University
+MyConcordia Shuttle bus Maps
+About
+Administration & governance
+Strategic directions
+Quartier Concordia
+History
+Working at Concordia
+Sustainability hub
+Community engagement
+Indigenous Directions
+Quick links
+Fast facts
+Offices A-Z
+News
+Events
+Academics
+Undergraduate programs
+Graduate programs
+Faculties, Schools & Colleges
+Continuing education
+Co-operative education
+Online courses
+Study abroad
+Quick links
+Student Success Centre
+Graduate & Professional Skills
+Academic integrity
+Recruitment events
+Admissions
+Undergraduate
+Graduate
+International student admissions
+Financial aid & awards
+Tours & events
+Quick links
+Tuition & fees
+Student housing
+Concordia Continuing Education
+Campus life
+Arts & culture hub
+Athletics
+Get involved
+Food & housing
+Orientation & new students
+Recreation, sports & fitness
+Services & support
+Quick links
+Student Success Centre
+Residence life
+Jobs on campus
+University of the Streets Café
+Dean of Students
+Sustainability Hub
+Research
+Research units
+Research Chairs
+Resources for researchers
+Students and postdocs
+Funding opportunities
+Quick links
+Strategic research plan
+Explore research, teaching & learning
+ConRAD
+About the research sector
+International
+International student admissions
+Visiting & exchange students
+Partnerships
+Academic visitors
+Quick links
+Concordia International
+International Students Office
+Global alumni
+Cotutelle
+The Campaign for Concordia
+Study resources
+Calendar - Graduate
+Calendar - Undergraduate
+Class schedules
+Class cancellations
+Course registration
+Important academic dates
+More academic resources
+Campus services
+Concordia Stores
+IT services
+Job opportunities
+Security
+Shuttle bus
+Student Service Centre (Birks)
+All campus services
+What's new
+Calendar of events
+Latest news
+Media Relations
+Faculties, Schools & Colleges
+Arts and Science
+Engineering and Computer Science
+Fine Arts
+John Molson School of Business
+School of Graduate Studies
+All Schools, Colleges & Departments
+Quick links  
+Webmail Library Cspace
+Study resources  
+Calendar - Graduate
+Calendar - Undergraduate
+Class schedules
+Class cancellations
+Course registration
+Important academic dates
+More academic resources
+Campus services  
+Concordia Stores
+IT services
+Job opportunities
+Security
+Shuttle bus
+Student Service Centre (Birks)
+All campus services
+What's new  
+Calendar of events
+Latest news
+Media Relations
+Faculties, Schools & Colleges  
+Arts and Science
+Engineering and Computer Science
+Fine Arts
+John Molson School of Business
+School of Graduate Studies
+All Schools, Colleges & Departments
+Information for...  
+Future students
+Student hub
+Alumni & friends
+Parents
+Faculty & staff
+Media
+Concordia
+Directories
+Search
+Concordia University
+Home
+ / 
+Academics
+ / 
+Graduate programs
+ / 
+Graduate Calendar
+ / 
+Current
+ / 
+Faculty of Engineering and Computer Science
+ / 
+Computer Science and Software Engineering
+Facebook
+Twitter
+LinkedIn
+GooglePlus
+Computer Science and Software Engineering
+Department of Computer Science and Software Engineering Website
+Programs
+Doctor of/Doctorate in Philosophy (Computer Science)
+Doctor of/Doctorate in Philosophy (Software Engineering)
+Master of/Magisteriate in Computer Science (MCompSc)
+Master of/Magisteriate in Applied Computer Science (MApCompSc)
+Master of/Magisteriate in Applied Science (Software Engineering)
+Master of/Magisteriate in Engineering (Software Engineering)
+Diploma in Computer Science
+Doctor of/Doctorate in Philosophy (Computer Science)
+The requirements for the degree of Doctor of/Doctorate in Philosophy are described in the general section on the Faculty of Engineering and Computer Science .
+Doctor of/Doctorate in Philosophy (Software Engineering)
+The requirements for the degree of Doctor of/Doctorate in Philosophy are described in the general section on the Faculty of Engineering and Computer Science .
+Master of/Magisteriate in Computer Science (MCompSc)
+Admission Requirements. Applicants to the MCompSc program must hold a Bachelor’s degree in computer science or other disciplines such as engineering, sciences, and mathematics with very high standing. Qualified applicants requiring prerequisite courses may be required to take such courses in addition to their regular graduate program.
+Requirements for the Degree
+Program of Study. A fully qualified candidate is required to complete successfully a minimum of 45 credits. Each individual program of study must be approved by the department.
+Completion. Normally a full-time student will require six terms to complete the degree requirements.
+Transfer Credits. Students may be granted transfer credits for, in general, not more than 8 credits taken in approved graduate studies prior to their entry in this program. A course submitted for transfer credit must be appropriate to the student’s program of study at Concordia University. An application for such credit will be considered only at the time of admission.
+Cross-Registration. A student in the program wishing to take courses under the cross-registration scheme outlined in the graduate calendar must first obtain permission of the graduate program director.
+Time Limit. Please refer to the Academic Regulation page for further details regarding the Time Limit requirements.
+Thesis. Students must complete a 29-credit thesis as part of their degree requirements. The thesis must represent the results of the student’s independent work after admission to the program. The proposed topic for the thesis, together with a brief statement outlining the proposed method of treatment, and the arrangement made for faculty supervision must be approved by the graduate studies committee. For purposes of registration, this work will be designated as COMP 7941 Master’s Research and Thesis. The thesis will be evaluated by the student’s supervisor(s), and at least two examiners appointed by the graduate studies committee. Students who are admitted before June 1, 2001 may take COMP 7921.
+Students must complete 45 credits as shown below:
+Courses. Students must complete a minimum of 16 credits of courses. A minimum of 8 credits must be chosen from Topic Areas C01 through C07. Any remaining credits may be chosen from Topic Areas C08 (Developments in Software Engineering), C09 (Software Engineering), C12 (Cognate Disciplines), and COMP 6961. A maximum of 4 credits can be chosen from computer science courses at the 6000 level marked with (*). The student’s study program must be approved by the supervisor(s) and either the Graduate Program Director or the Department Chair.
+Thesis. 29 credits.
+Top
+Master of/Magisteriate in Applied Computer Science (MApCompSc)
+Admission Requirements. Applicants must hold an undergraduate degree in computer science or a graduate diploma in computer science. Admission to the program is competitive and only applicants with high academic standing will be considered. The graduate studies committee, in consultation with the department, is responsible for recommending on all applications for admission.
+Requirements for the Degree
+Program of Study. The student, in consultation with faculty, must plan an individual program of study approved by the department graduate studies committee.
+Credits. A fully-qualified candidate is required to complete successfully a minimum of 45 credits. Additional credits may be required in some cases.
+Completion. Normally a full-time student will require six terms to complete the degree requirements.
+Transfer Credits. A student may be granted credit for, in general, not more than 12 credits taken in approved graduate studies prior to his or her entry into this program. A course submitted for transfer credit must be appropriate to the student’s program of study at Concordia University. An application for such credit will be considered only at the time of admission.
+Cross-Registration. A student in the program wishing to take courses under the cross-registration scheme outlined in the graduate calendar must first obtain permission of the graduate program director.
+Time Limit. Please refer to the Academic Regulation page for further details regarding the Time Limit requirements.
+Courses. Students must take a minimum of 45 credits of course work consisting of 12credits of core courses (COMP 6231, COMP 6651, and SOEN 6441) and 33 credits of electives including a minimum of 24 credits from Topic Areas C01 through C07. The electives may include ENCS 6931, COMP 6971, or COMP 6961, and a maximum of 8 credits chosen from computer science courses at the 6000 level marked with a (*); 4 credits chosen from COMP 5261 and COMP 5421; and 12 credits from Topic Areas C08 through C13, and C16. All students are required to pass a programming competency qualifying program in addition to and as part of their regular MApCompSc program.
+Concurrent Qualifying Program. Students must take and pass a Programming Competency Test (PCT). The PCT is taken during their first term of studies after the first registration as full-time (part-time) students in the MApCompSc program. Students who fail the PCT are required to take COMP 5481 the next time it is offered by the Department, and achieve a grade of B or better. Until COMP 5481 has been successfully completed, students are only able to register for the core courses for their program. COMP 5481 counts as a course in addition to their program.
+Programming Competency Test. Students take the Programming Competency Test (PCT) by registering for SOEN 6501. Students are assessed on the basis of a written test of their programming competency. The material covered in the PCT is the same as the material covered in COMP 5481. The PCT is normally administered by the Department.
+Project. Students may choose to do a project as part of their program. They do so by registering for COMP 6971.
+COMP 6971 Project and Report (4 credits). The purpose of the project report is to provide students in the MApCompSc program with an opportunity to carry out independent project work and to present it in an acceptable form. The project may consist of the following:
+A theoretical study of a computer science problem.
+A design and/or development project conducted at Concordia.
+A design and/or development project conducted as part of the student’s full-time employment, providing the student’s employer furnishes written approval for the pursuit and reporting of the project.
+Before registration for a project course, students must obtain written consent of a faculty member who acts as advisor for the report. A form for this consent is available in the Department of Computer Science and Software Engineering.
+A four-credit report is due on the last day of classes of the term (fall, winter, summer) in which students are registered. Students are expected to have a preliminary version of their report approved by their advisor before its final submission. On or before the submission deadline, students must submit three copies of the report to their advisor, who grades the report. One copy of the report is returned to the student, one retained by the advisor, and one by the Department.
+The report, including an abstract, must be suitably documented and illustrated, should be at least 5000 words in length, must be typewritten on one side of 21.5 cm by 28 cm white paper of quality, and must be enclosed in binding. Students are referred to the latest edition of Form and Style: Thesis, Report, Term Papers by Campbell, Ballou and Slade, published by Houghton Mifflin (Academic).
+Industrial Experience Option in the Master of Applied Computer Science
+Applicants to the Master of Applied Computer Science may apply to the Industrial Experience option in the industrial milieu through the Institute for Co-operative Education. Students should indicate their choice on the application form. The Institute for Co-operative Education will help them with resumes, cover letters and interview techniques. The suggested schedule is as follows: fall and winter terms will be dedicated to course work followed by one term in industry, culminating with two terms in University for the remaining course work. The industrial experience term will be noted on the student transcript/record.
+Students apply to the Industrial Experience option as early as possible, preferably when they enter the program. It is preferable to be bilingual in French and English if they wish to work in Quebec. Students who lack good language skills and still want to be part of the program should improve their language skills prior to final acceptance.
+Admission Criteria
+Students need to be enrolled in the Industrial Experience option at least the semester before going on a work term. They begin applying for jobs the semester prior to the work term. Previous work experience cannot be used toward credit for the ENCS 6931. Students should have good grades (greater than a CGPA of 3.40) for the master’s program, be full-time and have good communication skills. A Canadian work permit is required. The Departmental Co-op Program Director will recommend final acceptance to the Industrial Experience option.
+ENCS 6931 Industrial Stage and Training (9 credits)
+Prerequisite: Completion of at least twenty credits in the program and permission of the Departmental Co-op Program Director.
+This is an integral component of the Industrial Experience option that is to be completed under the supervision of an experienced engineer/computer scientist in the facilities of a participating company (a Canadian work permit is required).
+Each student receives an assessment from the Departmental Co-op Program Director in consultation with the industry supervisor and the faculty advisor. Grading is on a pass/fail basis based on a proposal, monthly progress reports, a final report and a presentation.
+Top
+Master of/Magisteriate in Applied Science (Software Engineering)
+Admission Requirements. Applicants to the MASc program must hold an undergraduate degree or graduate diploma in software engineering, computer science, or another discipline such as engineering, science, and mathematics with very high standing. Qualified applicants requiring prerequisite courses may be required to take such courses in addition to their regular graduate program.
+Requirements for the Degree
+Program of Study. A fully qualified candidate is required to complete successfully, a minimum of 45 credits. Each individual program of study must be approved by the Department.
+Completion. Normally a full-time student will require six terms to complete the degree requirements.
+Transfer Credits. Students may be granted transfer credits for, in general, not more than 8 credits taken in approved graduate studies prior to their entry in this program. A course submitted for transfer credit must be appropriate to the student’s program of study at Concordia University. An application for such credit will be considered only at the time of admission.
+Cross-Registration. A student in the program wishing to take courses under the cross-registration scheme outlined in the graduate calendar must first obtain permission of the graduate program director.
+Time Limit. Please refer to the Academic Regulation page for further details regarding the Time Limit requirements. The Department does not recommend students to register for this program on a part-time basis.
+Thesis. Students must complete a 29-credit thesis as part of their degree requirements. The thesis must represent the results of the student’s independent work after admission to the program. The proposed topic for the thesis, together with a brief statement outlining the proposed method of treatment, and the arrangement made for faculty supervision must be approved by the graduate studies committee. For purposes of registration, thesis work will be designated as SOEN 7941 Master’s Research and Thesis. The thesis will be evaluated by the student’s supervisor(s), and at least two examiners appointed by the graduate studies committee, one of whom shall be external to the Department.
+Students must complete a minimum of 45 credits as shown below:
+Courses. Students must complete a minimum of 16 credits of course work. A minimum of 8 credits must be chosen from Topic Areas C08 (Developments in Software Engineering) and C09 (Software Engineering). Any remaining credits may be chosen from any of the Topic Areas C01 through C09 and C12 (Cognate Disciplines). A maximum of 4 credits can be chosen from computer science courses at the 6000 level marked with (*). The student’s study program must be approved by the supervisor(s) and either the Graduate Program Director or the Department Chair.
+Thesis. 29 credits.
+Top
+Master of/Magisteriate in Engineering (Software Engineering)
+Admission Requirements. Applicants must hold an undergraduate degree or a graduate diploma in Software Engineering with very high standing. In addition, applicants holding an undergraduate degree with very high standing in another discipline such as engineering, science, computer science or mathematics must have at least two years of experience in IT or related industry. Qualified applicants requiring prerequisite courses may be required to take such courses in addition to their regular graduate program. Admission to the program is competitive and only applicants with high academic standing will be considered. The graduate studies committee, in consultation with the department, is responsible for recommending on all applications for admission.
+Note: Students who have not completed an undergraduate degree or a graduate diploma in Software Engineering must take COMP 5541, SOEN 341 and SOEN 390 in addition to the other requirements for the program.
+Requirements for the Degree
+Program of Study. The student, in consultation with faculty, must plan an individual program of study approved by the department graduate studies committee.
+Credits. A fully-qualified candidate is required to complete successfully a minimum of 45 credits. Additional credits may be required in some cases.
+Completion. Normally a full-time student will require six terms to complete the degree requirements.
+Transfer Credits. A student may be granted credit for, in general, not more than 12 credits taken in approved graduate studies prior to his or her entry into this program. A course submitted for transfer credit must be appropriate to the student’s program of study at Concordia University. An application for such credit will be considered only at the time of admission.
+Cross-Registration. A student in the program wishing to take courses under the cross-registration scheme outlined in the graduate calendar must first obtain permission of the graduate program director.
+Time Limit. Please refer to the Academic Regulation page for further details regarding the Time Limit requirements.
+Courses. Students must take a minimum of 45 credits of course work consisting of 12credits of core courses (SOEN 6431, SOEN 6441, SOEN 6461), a minimum of 24 credits from Topic Areas C08 through C13, and the remaining credits from Topic Areas C01 through C13, and C16, SOEN 6971, COMP 6961 and ENCS 6931. All students are required to pass a programming competency qualifying program in addition to and as part of their regular MEng (Software Engineering) program.
+Concurrent Qualifying Program. Students must take and pass a Programming Competency Test (PCT). The PCT is taken during their first term of studies after the first registration as full-time (part-time) students in the MEng (Software Engineering) program. Students who fail the PCT are required to take COMP 5481 the next time it is offered by the Department and achieve a grade of B or better. Until COMP 5481 has been successfully completed, students are only able to register for the core courses for their program. COMP 5481 counts as a course in addition to their program.
+Programming Competency Test. Students take the Programming Competency Test (PCT) by registering for SOEN 6501. Students are assessed on the basis of a written test of their programming competency. The material covered in the PCT is the same as the material covered in COMP 5481. The PCT is normally administered by the Department.
+Project. Students may choose to do a project as part of their program. They do so by registering for SOEN 6971.
+SOEN 6971 Project and Report (4 credits). The purpose of the project report is to provide students in the MEng (Software Engineering) program with an opportunity to carry out independent project work and to present it in an acceptable form. The project may consist of the following:
+A theoretical study of a software engineering problem.
+A design and/or development project conducted at Concordia.
+A design and/or development project conducted as part of the student’s full-time employment, providing the student’s employer furnishes written approval for the pursuit and reporting of the project.
+Before registration for a project course, students must obtain written consent of a faculty member who acts as advisor for the report. A form for this consent is available in the Department of Computer Science and Software Engineering.
+A four-credit report is due on the last day of classes of the term (fall, winter, summer) in which students are registered. Students are expected to have a preliminary version of their report approved by their advisor before its final submission. On or before the submission deadline, students must submit three copies of the report to their advisor, who grades the report. One copy of the report is returned to the student, one retained by the advisor, and one by the Department.
+The report, including an abstract, must be suitably documented and illustrated, should be at least 5000 words in length, must be typewritten on one side of 21.5 cm by 28 cm white paper of quality, and must be enclosed in binding. Students are referred to the latest edition of Form and Style: Thesis, Report, Term Papers by Campbell, Ballou and Slade, published by Houghton Mifflin (Academic).
+Top
+List of Courses in Computer Science by Topic Areas
+C01 - DEVELOPMENTS IN COMPUTER SCIENCE
+COMP 691 Topics in Computer Science I
+COMP 791 Topics in Computer Science II
+C02 - PARALLEL AND DISTRIBUTED SYSTEMS
+COMP 6231 Distributed System Design
+COMP 6281 Parallel Programming (*)
+COMP 7241 Parallel Algorithms and Architectures
+COMP 7251 Mobile Computing and Wireless Networks
+C03 - IMAGE PROCESSING/PATTERN RECOGNITION AND GRAPHICS
+COMP 6311 Computer Animation (*)
+COMP 6321 Machine Learning
+COMP 6711 Computational Geometry
+COMP 6731 Pattern Recognition (*)
+COMP 6761 Advanced 3D Graphics for Game Programming
+COMP 6771 Image Processing (*)
+COMP 7661 Advanced Rendering and Animation
+COMP 7751 Advanced Pattern Recognition
+COMP 7781 Advanced Image Processing
+C04 - SOFTWARE SYSTEMS AND LANGUAGES
+COMP 6411 Comparative Study of Programming Languages
+COMP 6421 Compiler Design (*)
+COMP 6461 Computer Networks and Protocols
+COMP 7451 Semantics of Programming Languages
+C05 - INFORMATION PROCESSING AND MANAGEMENT
+COMP 6521 Advanced Database Technology and Applications
+COMP 6591 Introduction to Knowledge-Base Systems
+COMP 6811 Bioinformatics Algorithms
+COMP 6821 Bioinformatics Databases and Systems
+COMP 7531 Database Systems Principles
+C06 - SCIENTIFIC COMPUTATION AND ALGORITHMS
+COMP 6351 Topics in Scientific Computation
+COMP 6361 Numerical Analysis of Nonlinear Equations
+COMP 6621 Discrete Mathematics of Paul Erdös
+COMP 6641 Theory of Computation
+COMP 6651 Algorithm Design Techniques
+COMP 6661 Combinatorial Algorithms
+COMP 7521 Cryptography and Data Security
+COMP 7651 Advanced Analysis of Algorithms
+C07 - ARTIFICIAL INTELLIGENCE AND HUMAN-MACHINE COMMUNICATION
+COMP 6531 Foundations of the Semantic Web
+COMP 6721 Artificial Intelligence (*)
+COMP 6741 Intelligent Systems (*)
+COMP 6751 Natural Language Analysis
+COMP 6781 Statistical Natural Language Processing
+COMP 6791 Information Retrieval (*)
+C08 - DEVELOPMENTS IN SOFTWARE ENGINEERING
+SOEN 691 Topics in Software Engineering I
+SOEN 791 Topics in Software Engineering II
+C09 - SOFTWARE DEVELOPMENT
+SOEN 6441 Advanced Programming Practices 
+SOEN 6751 Human Computer Interface Design
+SOEN 7761 Intelligent User Interfaces
+C10 - SOFTWARE ARCHITECTURE AND DESIGN
+SOEN 6311 Formal Methods
+SOEN 6461 Software Design Methodologies
+SOEN 6471 Advanced Software Architectures
+SOEN 6481 Software Systems Requirements Specification
+SOEN 6861 Services Computing: Foundations, Design and Implementations
+C11 - SOFTWARE MAINTENANCE AND QUALITY
+SOEN 6431 Software Comprehension and Maintenance
+SOEN 6491 Software Refactoring
+SOEN 6611 Software Measurement
+SOEN 7481 Software Verification and Testing
+C12 - SOFTWARE DEVELOPMENT PROCESSES AND MANAGEMENT 
+SOEN 6011 Software Engineering Processes
+SOEN 6841 Software Project Management
+C13 - SOFTWARE ENGINEERING
+SOEN 6761 Multimedia Computing
+SOEN 6951 Software Engineering Case Study
+SOEN 6211 Semantic Computing
+SOEN 6941 Software Engineering Research Project
+C14 - INDUSTRIAL EXPERIENCE, SEMINAR, PROJECT, REPORT AND THESIS
+COMP 6961 Graduate Seminar in Computer Science (1 credit)
+COMP 6971 Project and Report (4 credits)
+SOEN 6971 Project and Report (4 credits)
+COMP 7941 Master’s Research and Thesis (29 credits)
+ENCS 6931 Industrial Stage and Training (9 credits)
+SOEN 7941 Master’s Research and Thesis (29 credits)
+SOEN 6501 Programming Competency Test
+M.Ap.Comp.Sc and M.Eng (SOEN) students must complete SOEN 6501 in their first term after the first registration as full-time (part-time) students in their program. This course is graded on a pass/fail basis and has no credit value. For purposes of registration, this work is designated as SOEN 6501.
+C15 - DOCTORAL SEMINAR, RESEARCH, AND THESIS
+ENCS 8011 PhD Seminar (2 credits)
+ENCS 8511 Doctoral Research Proposal (6 credits)
+COMP 8901 Doctoral Research and Thesis (70 credits)
+SOEN 8901 Doctoral Research and Thesis (70 credits)
+ENCS 8501 Comprehensive Examination
+Doctoral students must begin work on ENCS 8501 within 12 (24) months after the first registration as full-time (part-time) students in a PhD program. This course is graded on a pass/fail basis and has no credit value. For purposes of registration, this work will be designated as ENCS 8501.
+C16 - COGNATE DISCIPLINES
+Students in a master’s program may take courses from Engineering Topic Areas E10, E42, E66, E68 and E70 for credit and also from the course list below, provided that prerequisite requirements are met:
+COEN 7311 Protocol Design and Validation
+ENCS 6021 Engineering Analysis II
+ENCS 6161 Probability and Stochastic Processes
+ENCS 6181 Optimization Techniques (*)
+Top
+Course Descriptions
+The following are one-term courses (four credits each) unless otherwise indicated. For additional information concerning course descriptions, prerequisites, and schedules contact the Office of the Associate Dean, Engineering and Computer Science.
+Note: Some graduate courses are content equivalent with specific undergraduate courses. These graduate courses, indicated with (*) below, are not available for credit to students who have completed the undergraduate equivalent.
+COMP 6231 Distributed System Design (4 credits)
+Principles of distributed computing: scalability, transparency, concurrency, consistency, fault tolerance. Client-server interaction technologies: interprocess communication, sockets, group communication, remote procedure call, remote method invocation, object request broker, CORBA, web services. Distributed server design techniques: process replication, fault tolerance through passive replication, high availability through active replication, coordination and agreement transactions and concurrency control. Designing software fault-tolerant highly available distributed systems using process replication. Laboratory: two hours per week.
+COMP 6281 Parallel Programming (*) (4 credits)
+Migration from Von Neumann to parallel processing architectures: shared-memory and message-passing paradigms; massively parallel computers; recent trends in commodity parallel processing; clusters, multi-core, CPU-GPU based heterogeneous computing. Issues of memory consistency and load balancing. Parallel algorithms for shared-memory and message passing platforms; efficiency and scalability; issues of performance overhead. Parallel programming environments: parallel programming models; languages; software tools. Laboratory: two hours per week. A project.
+COMP 6311 Animation for Computer Games (*) (4 credits)
+Prerequisite: COMP 6761 or equivalent, previously or concurrently.
+Introduction to the algorithms, data structures, and techniques used in modelling and rendering dynamic scenes. Topics include principles of traditional animation, production pipeline, animation hardware and software, orientation representation and interpolation, modelling physical and articulated objects, forward and inverse kinematics, motion control and capture, key-frame, procedural, and behavioural animation, camera animation, scripting system, and free-form deformation. A project. Laboratory: two hours per week.
+COMP 6321 Machine Learning (4 credits)
+Introduction to the fundamentals of machine learning. Linear models: linear and polynomial regression, overfitting, model selection, logistic regression, naive Bayes. Non-linear models: decision trees, instance-based learning, boosting, neural networks. Support vector machines and kernels. Computational learning theory. Experimental methodology, sources of error. Structured models: graphical models, deep belief networks. Unsupervised learning: k-means, mixture models, density estimation, expectation maximization, principle component analysis, eigenmaps and other dimensionality reduction methods. Learning in dynamical systems: hidden Markov models and other types of temporal/sequence models. Reinforcement learning. Survey of machine learning and its applications. A project. Laboratory: two hours per week.
+COMP 6331 Advanced Game Development (*) (4 credits)
+Prerequisite: Permission of instructor.
+Introduction to advanced aspects of computer games. Game engine design. Artificial Intelligence (AI): non‑player character movement, coordinated movement, pathfinding, world representations; decision making; tactical AI, strategic AI, learning in games. Physics‑based techniques: collision detection and response. Networked gaming: multi‑player games, networking and distributed game design, mobile gaming. Improving realism: cut scenes, 3D sound. A project. Laboratory: two hours per week.
+COMP 6351 Topics in Scientific Computation (4 credits)
+Selected elements of numerical methods that are central to scientific computation. The precise contents of the course may differ somewhat from one offering to the next, but will include the following topics: An introduction to the numerical solution of nonlinear equations, continuation methods, numerical solution of initial value problems in ordinary differential equations, finite difference method, numerical stability theory, stiff equations, boundary value problems in ordinary differential equations, collocation methods, introduction to the numerical solution of partial differential equations, with emphasis on nonlinear diffusion problems. A project.
+COMP 6361 Numerical Analysis of Nonlinear Equations (4 credits)
+An introduction to numerical algorithms for nonlinear equations, including discrete as well as continuous systems. The emphasis is on computer-aided numerical analysis rather than numerical simulation. This course is suitable for scientists and engineers with a practical interest in nonlinear phenomena. Topics include computational aspects of: homotopy and continuation methods, fixed points and stationary solutions, asymptotic stability, bifurcations, periodic solutions, transition to chaos, conservative systems, travelling wave solutions, discretization techniques. A variety of applications will be considered. Numerical software packages will be available. A project.
+COMP 6411 Comparative Study of Programming Languages (4 credits) Comparison of several high-level programming languages with respect to application areas, design, efficiency, and ease of use. The selected languages will demonstrate programming paradigms such as functional, logical, and scripting. Static and dynamic typing. Compilation and interpretation. Advanced implementation techniques. A project.
+COMP 6421 Compiler Design (*) (4 credits)
+Compiler organization and implementation: lexical analysis and parsing, syntax-directed translation, code optimization. Run-time systems. A project.
+COMP 6461 Computer Networks and Protocols (4 credits)
+Direct link networks: encoding, framing, error detection, flow control, example networks. Packet switching and forwarding: bridges, switches. Internetworking: Internet Protocol, routing, addressing, IPv6, multicasting, mobile IP. End-to-end protocols: UDP, TCP. Network security concepts. Application-level protocols. Laboratory: two hours per week.
+COMP 6521 Advanced Database Technology and Applications (4 credits)
+Review of standard relational databases, query languages. Query processing and optimization. Parallel and distributed databases. Information integration. Data warehouse systems. Data mining and OLAP. Web databases and XML Active and logical databases, spatial and multimedia data management. Laboratory: Two hours per week.
+COMP 6531 Foundations of the Semantic Web (4 credits)
+Web markup languages, World Wide Web Consortium (W3C) standards, Extensible Markup Language (XML) Resource Description Framework (RDF), schema for markup languages, Semantic Web, ontology development, markup languages for ontologies, Web Ontology Language (OWL), logical foundations of ontologies, description logics, reasoning with ontologies. A project.
+COMP 6591 Introduction to Knowledge-Base Systems (4 credits)
+Review of first-order logic, relational algebra, and relational calculus. Fundamentals of logic programming. Logic for knowledge representation. Architecture of a knowledge-base system. Fundamentals of deductive databases. Top-down and bottom-up query processing. Some important query processing strategies and their comparison. Project or term paper on current research topics.
+COMP 6621 Discrete Mathematics of Paul Erdös (4 credits)
+Introduction to the methods and proof techniques of Paul Erdös that are particularly applicable to Computer Science. Proof of Bertrand’s postulate. The Erdös-Szekeres and the de Bruijn-Erdös theorems. Ramsey’s theorem and Ramsey numbers. Van der Waerden’s theorem and Van der Waerden numbers. Delta-systems and a proof of the Erdös-Lovász conjecture. The Erdös-Ko-Rado theorem. Extremal graph theory. Random graphs and graph colouring. The probabilistic method and its applications in theoretical Computer Science. A project.
+COMP 6631 Large-Scale Optimization (4 credits)
+Mathematical modelling of large-scale optimization models. Design and implementation of large-scale optimization techniques: decomposition methods (Benders, Dantzig-Wolfe, Lagrangian Relaxation, Column Generation), branch-and-price techniques. Large-scale linear and non-linear programming techniques for network optimization and integer/discrete programming. Techniques for nonlinear non-convex continuous optimization: branch-and-bound methods, DC (difference of convex functions) programming, bilinear and biconvex optimization. Heuristics and meta-heuristics. A project.
+Note: Students who have received credit for this topic under a COMP 691Y number may not take this course for credit.
+COMP 6641 Theory of Computation (4 credits)
+General properties of algorithmic computations. Turing machines, universal Turing machines. Turing computable functions as a standard family of algorithms. Primitive recursive functions. Church’s thesis, recursive sets. Recursively enumerable sets and their properties. Rice’s theorem. Time and space complexity measures. Hierarchy of complexity measures. Advanced topics in complexity theory. A project.
+COMP 6651 Algorithm Design Techniques (4 credits)
+Mathematical preliminaries; Empirical and theoretical measures of algorithm efficiencies; Optimization and combinatorial techniques and algorithms including greedy algorithms, dynamic programming, branch-and-bound techniques and graph network algorithms; Amortized complexity analysis; String matching algorithms; NP-complete problems and approximate solutions; Probabilistic algorithms. A project.
+COMP 6661 Combinatorial Algorithms (4 credits)
+Representation and generation of combinatorial objects; search techniques; counting and estimation. Projects on selected applications from combinatorics and graph theory.
+COMP 6711 Computational Geometry (4 credits)
+Efficient algorithms and data structures to solve geometric problems. Problems discussed include convex hulls, line intersections, polygon triangulation, point location, range searching, Voronoi diagrams, Delaunay triangulations, interval trees and segment trees, arrangements, robot motion planning, binary space partitions, quadtrees, and visitility. Algorithmic methods include plane sweep, incremental insertion, randomization, divide and conquer. Emphasis will be given to computation and complexity, with applications in computer graphics, computer aided design, geographic information systems, networks, mesh generation, databases, and robot motion planning. A project.
+COMP 6721 Artificial Intelligence (*) (4 credits)
+Scope of AI. First order logic. Automated reasoning. Search and heuristic search. Game-playing. Planning. Knowledge representation. Probabilistic reasoning. Introduction to machine learning. Introduction to natural language processing. A project.
+COMP 6731 Pattern Recognition (*) (4 credits)
+Preprocessing. Feature extraction and selection. Similarity between patterns and distance measurements. Syntactic and statistical approaches. Clustering analysis. Bayesian decision theory and discriminant functions. Clustering and classification techniques. Applications. A project. Laboratory: two hours per week.
+COMP 6741 Intelligent Systems (*) (4 credits)
+Knowledge representation and reasoning. Uncertainty and conflict resolution. Design of intelligent systems. Grammar-based, rule-based, and blackboard architectures. A project. Laboratory: two hours per week.
+COMP 6751 Natural Language Analysis (4 credits)
+Introduction to natural language processing. Structure of English. Grammars and parsing. Lexical and compositional semantics. Pragmatic issues. Applications in text mining and information extraction. A project.
+Note: Students who have received credit for COMP 7741 before September 2011 may not take this course for credit.
+COMP 6761 Advanced 3D Graphics for Game Programming (4 credits)
+Fundamental algorithms, techniques, and software engineering principles for 3D graphics. Introduction to real-time graphics application architecture; review of basic 3D concepts of modelling, viewing, and rendering. 3D graphics functions, pipeline, and performance. Hierarchical 3D graphics. Algorithms for occlusion culling, collision detection, photorealism, shadows, and textures. Current trends and state-of-the-art graphics and physics algorithms. Laboratory: Two hours per week.
+COMP 6771 Image Processing (*) (4 credits)
+Digital image fundamentals; image enhancement: histogram processing, filtering in the spatial domain, filtering in the frequency domain; image restoration and reconstruction; image segmentation: line detection, Hough transform, edge detection and linking, thresholding, region splitting and merging; image compression; introduction to wavelet transform and multi-resolution processing. A project. Laboratory: two hours per week.
+COMP 6781 Statistical Natural Language Processing (4 credits)
+The course covers robust methods to natural language processing (NLP) and their applications to manipulate large text collections. Topics covered in this course include: Zipf’s law, information retrieval, statistical machine translation, N-gram language models and smoothing techniques, word sense disambiguation, part-of-speech tagging and probabilistic grammars and parsing. A project.
+COMP 6791 Information Retrieval and Web Search (*) (4 credits)
+Basics of information retrieval (IR): Boolean, vector space and probabilistic models. Tokenization and creation of inverted files. Weighting schemes. Evaluation of IR systems: precision, recall, E-measure. Relevance feedback and query expansion. Application of IR to Web search engines: XML, link analysis, PageRank algorithm. Text categorization and clustering techniques as used in spam filtering. A project. Laboratory: two hours per week.
+COMP 6811 Bioinformatics Algorithms (4 credits)
+The principal objectives of the course are to cover the major algorithms used in bioinformatics; sequence alignment, multiple sequence alignment, phylogeny; classifying patterns in sequences; secondary structure prediction; 3D structure prediction; analysis of gene expression data. This includes dynamic programming, machine learning, simulated annealing, and clustering algorithms. Algorithmic principles will be emphasized. A project.
+COMP 6821 Bioinformatics Databases and Systems (4 credits)
+The principal objectives of the course are to survey the needs of bioinformatics for data management, knowledge management, and computational support; to provide in-depth description of an example of each kind of database and system; and to introduce advanced database technology and software technology relevant to the needs of bioinformatics. A project.
+COMP 691 Topics in Computer Science I (4 credits)
+Subject matter will vary from term to term and from year to year. Students may re-register for this course, providing that course content has changed. Changes in content will be indicated by the letter following the course number, e.g., COMP 691A, COMP 691B, etc.
+COMP 6961 Graduate Seminar in Computer Science (1 credit)
+Students will have to attend a selected set of departmental seminars and submit a comprehensive report on the topics presented in one of the seminars. This course is graded on a pass/fail basis.
+COMP 6971 Project and Report (4 credits)
+Prerequisite: Completion of 16 credits; a CGPA of 3.40 or greater; permission of the Department.
+See Requirements for the Master of/Magisteriate in Applied Computer Science (MApCompSc) section. Project: 8 hours per week.
+Note: Students who have received credit for SOEN 6951 or SOEN 6971 may not take this course for credit.
+COMP 7241 Parallel Algorithms and Architectures (4 credits)
+Prerequisite: COMP 6281 or permission of instructor.
+Parallel architectures; memory organization, interconnection structures, data routing techniques. Parallel algorithms; paradigms and design techniques, complexity analysis, algorithms for various computation models. A project.
+COMP 7251 Mobile Computing and Wireless Networks (4 credits)
+Prerequisite: COMP 6461.
+Introduction to mobile computing and wireless networks:local (LAN), personal (PAN) and metropolitan (MAN). Mobile ad hoc networks and sensor networks. Algorithms and protocols for medium access, routing, topology control, and reliable transport. A project.
+COMP 7451 Semantics of Programming Languages (4 credits)
+Prerequisite: COMP 6411.
+The need for semantic descriptions of programming languages. Classification of semantics: operational, axiomatic, model-theoretic, algebraic, denotational. Classification of languages: procedural, functional, logic, equational. Applications: verification, construction, language design, temporal logic for distributed systems, semantics for advanced languages.
+COMP 7521 Cryptography and Data Security (4 credits)
+Prerequisite: COMP 6651.
+Traditional cryptography. Information theory. Private-key (symmetric-key) and public-key (asymmetric-key) cryptographic algorithms. Advanced Encryption Standard (Rijndael). Cryptographic hash functions. Digital signatures. Data-origin authentication and data integrity. Entity authentication. Key distribution, management, recovery, and exhaustion. Authentication protocols. Security services (confidentiality, authentication, integrity, access control, non-repudiation, and availability) and mechanisms (encryption, data-integrity mechanisms, digital signatures, keyed hashes, access-control mechanisms, challenge-response authentication, traffic padding, and routing control). Projects will be offered in selected topics in cryptography.
+COMP 7531 Database Systems Principles (4 credits)
+Prerequisite: COMP 6521.
+Database models. Algebraic, logical, and deductive database languages. Query equivalence and optimization. Query rewriting, information integration and data exchange. Incomplete information and complex values. Introduction to current research topics. A project.
+COMP 7651 Advanced Analysis of Algorithms (4 credits)
+Prerequisite: COMP 6651.
+Amortized analysis of algorithms, NP-hardness and approximation algorithms, online algorithms, randomized algorithms. Selected topics of current interest. Project or term paper.
+COMP 7661 Advanced Rendering and Animation (4 credits)
+Prerequisite: COMP 6761.
+Advanced concepts in rendering and animation with emphasis on computational techniques for synthesizing complex realistic images, both static and dynamic. Topics include: overview of computer graphics techniques in games, cinema, and engineering; realistic rendering methods in real time; animation techniques including physics-based animation. A project.
+COMP 7751 Advanced Pattern Recognition (4 credits)
+Prerequisite: COMP 6731.
+Pattern recognition principles; modern methods in digitization and data acquisition; advanced topics in feature extraction and selection; principal component analysis and clustering techniques; multiple classifiers and expert systems; advanced topics in neural networks in pattern recognition, performance evaluation and error reduction. Applications. A project.
+COMP 7781 Advanced Image Processing (4 credits)
+Prerequisite: COMP 6771 or permission of instructor.
+Digital image processing; segmentation morphological processing; wavelet transforms and multi-resolution analysis; partial differential equation approach; variational methods; diffusion and shock filters; Markov random field and Bayesian inference; energy minimization framework: snakes, active contours, Mumford-Shah model, level set method; numerical implementation; applications; image inpainting; registration; and document processing. A project.
+COMP 791 Topics in Computer Science II (4 credits)
+Subject matter will vary from term to term and from year to year. Students may re-register for this course, providing that course content has changed. Changes in content will be indicated by the letter following the course number, e.g. COMP 791A, COMP 791B, etc.
+COMP 7941 Master’s Research and Thesis (29 credits)
+Students are required to submit a thesis prepared under the guidance of a faculty member appointed by the Faculty Graduate Studies Committee. The thesis must represent the result of the student’s independent work undertaken after admission to the program. The thesis will be evaluated by a committee appointed by the Faculty Graduate Studies Committee.
+COMP 8901 Doctoral Research and Thesis (70 credits)
+SOEN 6011 Software Engineering Processes (4 credits)
+Introduction to software engineering concepts, modern management processes and software lifecycles. Tracking of software requirements and development through issue trackers. Version control practices include integration of feature branching. Validation practices including testing frameworks and code review. Continuous integration and build environments. A practical component on setting up a development environment similar to those used in professional environments. Case studies of successful management processes from open source projects and industry. A project.
+SOEN 6211 Semantic Computing (4 credits)
+System analysis, architecture, and engineering for semantic software products. Text Mining systems and their architectures. Tagging and Tag Analysis. Recommender Systems and Collaborative Filtering. Crawling the Blogosphere and Opinion Mining. Applying Clustering, Machine Learning, Classification, and Regression. The Web of Data and Semantic Web Technologies: RDF, RDFS, SPARQL. Linked Open Data (LOD). Design and Re-Use of Semantic Web Vocabularies and Ontologies. Semantic Desktops and Semantic Web Information Systems. Semantic Application Development. Application case studies in biomedical research, software development, business intelligence, online gaming, e-commerce and e-science. Research paper seminar. Empirical evaluation methodologies for semantic systems. A project.
+Note: Students who have received credit for this topic under a SOEN 691B number may not take this course for credit.
+SOEN 6311 Formal Methods (4 credits)
+Components of formal systems: formal methods; levels of formalism. Integrating formal methods into the existing software life-cycle process model for a given project. Attributes of a formal specification language. Formal notations based on extended finite-state machines; case studies involving the design of user interfaces, reactive systems, and concurrent systems. Software development using formal methods, including tools for: type checking; debugging; verifying checkable properties; validation of refinements; and code generation from refinements. A project.
+SOEN 6431 Software Comprehension and Maintenance (4 credits)
+The course addresses both technical and managerial views of software comprehension and software maintenance issues. Topics covered in this course include: cognitive models, software visualization, CASE tools, reverse engineering, static and dynamic source code analysis, software configuration management, and introduction to current research topics in software maintenance and program comprehension. A project.
+Note: Students who have received credit for COMP 6431 may not take this course for credit.
+SOEN 6441 Advanced Programming Practices (4 credits)
+Problems of writing and managing code. Managing code complexity and quality through a programming process. Self-documenting code, and documentation generation. Software configuration management. Best practices for writing unit tests to control code quality. Advanced practices such as multithreading concurrency, code reuse, and fault tolerance. A project. Laboratory: two hours per week.
+SOEN 6461 Software Design Methodologies (4 credits)
+Introduction to software design processes and their models. Representations of design/architecture. Software architectures and design plans. Design methods, object-oriented application frameworks, design patterns, design quality and assurance, coupling and cohesion measurements, design verification and documentation. A design project.
+Note: Students who have received credit for COMP 6471 before September 2011 may not take this course for credit.
+SOEN 6471 Advanced Software Architectures (4 credits)
+Study of architectural view models, architectural styles and frameworks; Architectural case studies and extraction of concrete architecture; Architectural design patterns; Model Driven Architecture (MDA), Service Oriented Architecture (SOA). Domain specific architectures such as mobile and cloud computing. A project.
+SOEN 6481 Software Systems Requirements Specification (4 credits)
+The requirements engineering (RE) process. Requirements engineering in different software lifecycle models. Problem analysis. Requirements elicitation. Requirements evaluation. Inconsistency management. Risk analysis. Requirements prioritization and negotiation. Requirements specification: natural language documentation, IEEE and ISO standards. Use cases. Agile processes and user stories. Introduction to formal specification: logics, formal languages. Requirements quality assurance. RE tools. Requirements evolution. Traceability. Domain modelling: UML, ontologies, domain-specific languages. Modelling behaviour. Acceptance criteria. Test cases. Cost models. A project.
+Note: Students who have received credit for COMP 6481 may not take this course for credit.
+SOEN 6491 Software Refactoring (4 credits)
+Prerequisite: SOEN 6461.
+Topics include an introduction to preventive maintenance, design problems, and refactorings; techniques for the detection of design problems and refactoring opportunities; management of preventive maintenance: visualization, prioritization, ranking, and evolution tracking of design problems; empirical studies on refactoring activities and practices; implementation of source code analysis techniques and refactorings. A project is required.
+Note: Students who have received credit for SOEN 691C (Software Refactoring) may not take this course for credit.
+SOEN 6501 Programming Competency Test (No credit value)
+See Requirements for the Master of/Magisteriate in Applied Computer Science (MApCompSc) or Master of/Magisteriate in Engineering (Software Engineering) sections.
+SOEN 6611 Software Measurement (4 credits)
+Role of measurement in Software Engineering, theoretical, technical and managerial views on software measurement. Representational theory of measurement. Theoretical validation of software measurement. Goal-driven measurement. Collecting and analyzing software engineering data. Software quality modelling and measuring. Testing and measurement. Reliability models. Functional size measurement methods. Effort estimation models and their usage in project management. Software measurement standards. Tool support. Case studies. A project.
+SOEN 6751 Human Computer Interface Design (4 credits)
+Introduction to human computer interaction. User-centered design process. User modelling. Task analysis. User interface design knowledge (principles, guidelines and patterns). User interface prototyping. User interface evaluation. A project. Laboratory: two hours per week.
+Note: Note: Students who have received credit for COMP 6751 before September 2011 may not take this course for credit.
+SOEN 6761 Multimedia Computing (4 credits)
+This course covers the state-of-the-art technology for multimedia computing. The course topics will cover current media types, images, video, audio, graphics and 3D models in terms of algorithms and data structures for their capture, representation, creation, storage, archival, transmission, assembling, presentation and retrieval. This course will cover fundamental ideas in multimedia technology applicable to computer science and software engineering. A project.
+SOEN 6841 Software Project Management (4 credits)
+Fundamental concepts of management activities, demonstrating how it can relate to software engineering and how the two can be mutually supportive throughout software development and maintenance. Overview of object-oriented development; software development processes; quality considerations; activity planning; risk management; monitoring and control; maintenance and evolution; issues of professional ethics and practice, and legal issues. A project.
+SOEN 6861 Services Computing: Foundations, Design and Implementations (4 credits)
+System design with Service Oriented Architecture. Open standards for Web services. Development of SOAP (Service-Oriented Architecture and Programming) and RESTful (REpresentational State Transfer) services. Business process modelling and management. Service composition. Formal models for services. A project.
+Note: Students who have received credit for SOEN 691A (Services Computing: Foundations, Design and Implementations) may not take this course for credit.
+SOEN 691 Topics in Software Engineering (4 credits)
+Subject matter will vary from term to term and from year to year. Students may re-register for this course, providing that the course content has changed. Changes in content will be indicated by the letter following the course number, e.g. SOEN 691A, SOEN 691B, etc.
+SOEN 6951 Software Engineering Case Study (4 credits)
+Students will complete a case study of a software project. Whenever possible, the project should be conducted in an industrial environment with the cooperation of the student’s employer.
+Note: Students who have received credit for SOEN 6971 or COMP 6971 may not take this course for credit.
+SOEN 6971 Project and Report (4 credits)
+Prerequisite: Completion of 16 credits; a CGPA of 3.40 or greater; permission of the Department.
+See Requirements for the Degree of Master of/Magisteriate in Applied Computer Science (MApCompSc) section. Project: 8 hours per week.
+Note: Students who have received credit for COMP 6971 or SOEN 6951 may not take this course for credit.
+SOEN 7481 Software Verification and Testing (4 credits)
+Prerequisites: SOEN 6461, SOEN 6481.
+Overview of current software engineering testing methods, techniques and standards for testing system implementations. Classical white-box testing; dataflow testing; classical black-box testing; integration testing; system testing. Testing measures; test plan. IEEE standard. Object-oriented testing. Test-driven development. Testing quality measures. Test reduction techniques. Techniques for test automation. Tools and techniques for formal verification of software system designs: model checking and theorem proving. A project.
+Note: Students who have received credit for COMP 7481 may not take this course for credit.
+SOEN 7761 Intelligent User Interfaces (4 credits)
+Prerequisite: SOEN 6751.
+Intelligent systems and intelligent interfaces. A brief introduction to knowledge representation and reasoning. Creation and adaptation of user models. Software agents at the user interface. Applications of these concepts in the development of intelligent user interfaces. Adaptive user interfaces. Selected advanced topics, such as natural language interfaces, speech based user interfaces, and mobile user interfaces. Laboratory: two hours per week. A project.
+Note: Students who have received credit for COMP 7761 before September 2011 may not take this course for credit.
+SOEN 791 Topics in Software Engineering II (4 credits)
+Subject matter will vary from term to term and from year to year. Students may re-register for this course, providing that the course content has changed. Changes in content will be indicated by the letter following the course number, e.g. SOEN 791A, SOEN 791B, etc.
+SOEN 7941 Master’s Research and Thesis (29 credits)
+Students are required to submit a thesis prepared under the guidance of a faculty member appointed by the Faculty Graduate Studies Committee. The thesis must represent the result of the student’s independent work undertaken after admission to the program. The thesis will be evaluated by a committee appointed by the Faculty Graduate Studies Committee.
+SOEN 8901 Doctoral Research and Thesis (70 credits)
+Top
+Diploma in Computer Science
+The Department of Computer Science and Software Engineering offers a Diploma program for qualified university graduates from diverse backgrounds who wish to obtain expertise in computer science fundamentals. Graduates of the Diploma program will obtain qualifications similar to those of graduates of the Bachelor of/Baccalaureate in Computer Science program. Upon completion of the Diploma, those with superior academic records who wish to pursue their studies may apply for admission to a 45 credit Master’s program in Computer Science.
+Admission Requirements. To be considered for admission, applicants must hold a Bachelor’s degree with above-average standing, and must have completed COMP 5481 Programming and Problem Solving or equivalent courses in an object-oriented language such as C++ or Java prior to entry into the Diploma program. Equivalence will be determined by the Diploma Program Director. Applicants deficient in mathematics or English are required to make up their deficiencies before they can be considered for admission. The Faculty reserves the right to set a quota on the number of admissions to the program.
+Application Deadlines
+Applications for admission from within Canada must be complete by May 1 for the Fall term. Applications from outside Canada must be complete by February 15 for the Fall term. There is no admission to this program in the Winter or the Summer term.
+Requirements for the Diploma
+Credits. A fully-qualified candidate is required to complete a minimum of 31 credits.
+Courses. Candidates are required to take COMP 5201, 5361, 5421, 5511, 5461, 5531, 5541, and ENCS 6721.
+Academic Standing. Please refer to the  Academic Standing  section of the Calendar for a detailed review of the Academic Regulations.
+Program Specific Regulations. An Assessment Grade Point Average (AGPA) of at least 2.70 based on a minimum of 8 credits is required.
+Time Limit. Please refer to the Academic Regulation page for further details regarding the Time Limit requirements.
+Graduation. To be eligible to graduate, students must have completed course requirements with a CGPA of at least 2.70.
+Courses
+COMP 5201 Computer Organization and Assembly Language (4 credits)
+Programming in a subset of a suitably chosen assembly language; instruction-set level view of computers; translation of sample high-level language constructs to the instruction-set level. User-level view of the computer system through an operating system. Privileged modes of operation of the hardware for achieving goals such as protection and resource management; the hierarchy of the memory system as a resource, its concepts and requirements. Input/output including interrupt handling.
+COMP 5261 Computer Architecture (3 credits)
+Prerequisite: COMP 5461 previously or concurrently.
+Computer architecture models: control-flow and data-flow. Concurrency and locality, data dependency theory. Instruction level parallelism. Instruction scheduling. Pipelined processors. Vector processors. Thread level parallelism. Multiprocessors. Shared memory models. Coherence protocols. Interconnection networks. Performance issues. Advanced topics in contemporary computer architectures. Case studies.
+COMP 5361 Discrete Structures and Formal Languages (4 credits)
+Discrete mathematics: sets, logic, quantifiers, relations, and functions. Regular languages: finite automata (deterministic and non-deterministic), regular expressions, regular grammars, pumping lemmas for regular languages, closure properties for regular languages. Context-free languages: context-free grammars, parsing and ambiguity, normal forms for grammars, pushdown automata, closure properties for context free languages.
+COMP 5421 Advanced Programming (4 credits)
+Prerequisite: COMP 5511.
+Designing classes and programs. Program development. Encapsulation; dependency minimization. Inheritance hierarchies; abstract classes and interfaces; frameworks, Reading and writing files; serialization. Applications of inheritance and generics. Design and use of class libraries; user interface design; database and network programming.
+COMP 5461 Operating Systems (4 credits)
+Prerequisites: COMP 5201, 5511.
+Basic concepts of operating systems and system programming. Processes, interprocess communication, and synchronization, memory allocation, segmentation, paging. Resource allocation, scheduling, performance evaluation. File systems, storage devices, I/O systems. Protection, security, and privacy. Advanced operating system concepts: distributed systems, multi-processor and parallel systems, real-time systems.
+COMP 5481 Programming and Problem Solving (4 credits)
+Prerequisites: MATH 204, 205 or equivalent.
+Overview of programming and problem solving. Operators and expressions. Types, values, and variables; type conversion. Classes, objects, and methods. Assignment, conditional and repetitive statements. Arrays. Input and Output. Program structure and organization; encapsulation. Recursion and its uses. Designing classes and member functions; aggregation and inheritance. Introduction to libraries and their applications. Lectures: three hours per week. Tutorial: one hour per week. Lab: 3 hours per week.
+COMP 5511 Principles of Data Structures (4 credits)
+Prerequisite: COMP 5481 or equivalent training or experience in Java programming.
+Definition, use, and application of fundamental data structures and associated algorithms. Asymptotic analysis of algorithms. Storage management: arrays, strings, lists and trees. Data abstraction: stacks, queues, priority queues, sets, and tables. Searching and sorting. Programming techniques: designing classes for data structures.
+COMP 5531 Files and Databases (4 credits)
+Prerequisites: COMP 5361, 5511.
+Introduction to file management: basic file structures and access methods, sequential and indexed-sequential files, B+-trees and R-trees; external sorting; dynamic hashing; clustering techniques. Introduction to database management: fundamental data models - hierarchical, network, and relational; data dependencies; normal forms; and relational database design. Formal query languages: relational algebra, calculus; commercial languages: SQL, QBE. Fundamentals of data processing.
+COMP 5541 Tools and Techniques for Software Engineering (4 credits)
+Prerequisites: COMP 5361, COMP 5511, ENCS 6721; or permission of the Graduate Program Director.
+The software life cycle. IEEE and MIL standards for software documentation. Formal methods. Software architectures. Software design and prototyping. Interfacing and encapsulation. Use of libraries, frameworks, and CASE tools. Implementation and maintenance. Verification and validation.
+COMP 5611 Elementary Numerical Methods (3 credits)
+Prerequisites: COMP 5361; COMP 5511.
+Error analysis and computer arithmetic. Numerical methods for solving linear systems, Gaussian elimination, LU decomposition. Numerical solution of non-linear equations, fixed point iterations, rate of convergence. Interpolations and approximations, Lagrange polynomials, divided differences, discrete least-square approximation, Legendre polynomials. Numerical integration, Newton-Cotes formulas, Romberg integration. Emphasis will be on the development of efficient algorithms.
+Top
+Back to top
+© Concordia University
+Concordia University - Call us at 514-848-2424
+About
+Academics
+Admissions
+Campus life
+Research
+International
+Future students
+Current students
+Alumni & friends
+Parents
+Faculty & staff
+Media
+Sir George Williams Campus
+1455 De Maisonneuve Blvd. W.
+Montreal, Quebec, Canada
+H3G 1M8
+See SGW Campus map
+Loyola Campus
+7141 Sherbrooke Street W.
+Montreal, Quebec, Canada
+H4B 1R6
+See Loyola Campus map
+facebook
+twitter
+google
+youtube
+linkedin
+pinterest
+instagram
+flickr
+Concordia social
+© Concordia University
+Terms
+Privacy
+Accessibility
+Website feedback
+Share this page
+Concordia.ca
+Call us at
+514-848-2424
+Sir George Williams Campus
+1455 De Maisonneuve Blvd. W.
+Montreal, Quebec, Canada
+H3G 1M8
+See SGW Campus map
+Loyola Campus
+7141 Sherbrooke Street W.
+Montreal, Quebec, Canada
+H4B 1R6
+See Loyola Campus map
+Website feedback
+Terms
+Privacy
+Accessibility
+© Concordia University

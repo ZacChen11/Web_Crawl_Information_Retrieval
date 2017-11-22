@@ -1,0 +1,74 @@
+Flickr logo. If you click it, you'll go home
+Sign Up
+Explore
+Recent Photos
+Trending
+Flickr VR
+The Commons
+Galleries
+World Map
+Camera Finder
+The Weekly Flickr
+FlickrBlog
+Create
+Upload
+Sign In
+map mode
+tab mode
+bbox
+place_id
+tags
+group_id
+user_id
+min_taken_date
+max_taken_date
+min_upload_date
+max_upload_date
+sort
+ 
+or
+photoset_id
+photo_id
+ 
+ 
+ 
+ 
+location name
+user name
+user path
+group name
+group path
+set name
+contact scope
+safe search
+ 
+ 
+Map data CCBYSA 2010 OpenStreetMap.org contributors
+About
+Jobs
+Blog
+Mobile
+Developers
+Guidelines
+Feedback
+Report abuse
+Help forum
+English
+繁體中文
+Deutsch
+English
+Español
+Français
+한글
+Italiano
+Português
+Tiếng Việt
+Bahasa Indonesia
+Privacy
+Terms
+Yahoo Safely
+Help
+Flickr, a Yahoo company
+Tumblr
+Facebook
+Twitter

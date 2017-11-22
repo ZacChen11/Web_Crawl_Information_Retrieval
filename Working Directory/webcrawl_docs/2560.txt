@@ -1,0 +1,120 @@
+Twitter logo icon
+Business
+Arrow down icon
+Sign In
+Search icon
+Basics
+Intro to Twitter
+Create a profile
+Twitter followers
+What to Tweet
+Connect with customers
+Advertising on Twitter
+Promote Mode
+Campaign types
+Targeting
+Analytics
+Resources and guides
+Blog
+Success stories
+Agency resources
+Customer insights: Followers
+Website traffic how-to
+Guide to global advertising
+Ads help center
+Overview
+Create an ads account
+Campaign setup
+Editing and optimization
+Measurement
+Troubleshooting and FAQs
+Contact us
+Start a Campaign
+How can we help?
+Troubleshooting and FAQs
+Time zones on Twitter Ads FAQs
+Bidding and auctions FAQs
+Multi-user login FAQ
+Why aren't my ads receiving impressions?
+FAQs about brand surveys
+FAQs about insight surveys
+How Twitter Ads work
+Arrow down icon
+Media Studio FAQs
+Amplify Publisher FAQs
+Troubleshooting and FAQs
+How Twitter Ads work
+We want to show you ads that you find interesting and useful. This article provides an overview of how Twitter Ads work, why you see certain ads, your privacy settings and other options.
+Overview
+About Twitter Ads
+Arrow down icon
+ 
+You may see different kinds of ads on Twitter, such as: Promoted Tweets , Promoted Accounts , and Promoted Trends . We may show these ads to you when you are logged in or logged out of Twitter. They are clearly marked with a “promoted” icon. You can interact with most promoted content in much the same way as organic content. If you follow, like, or Retweet content on Twitter, including promoted content, your followers may see your name associated with that content.
+ 
+Why you see certain Twitter Ads
+Arrow down icon
+Your activity on Twitter, the information you provide to Twitter, and our relationships with ad partners all help make promoted content more relevant for you.
+When you use Twitter to follow, Tweet, search, view, or interact with Tweets or Twitter accounts, we may use these actions to customize Twitter Ads for you. For example, if you search for a specific term, we may show you promoted content related to that topic. We also might customize ads using other information about you, such as your profile information; your mobile device location (if location features are turned on); your IP address; or the apps installed on your device. This helps us show you local ads and other ads that you might prefer.
+Twitter may also personalize ads based on information that Twitter and our affiliates collect and that our ad partners share with us, such as a hashed email address, a mobile device identifier, or browser-related information (a browser cookie ID).
+This helps Twitter display ads about things you’ve already shown interest in from brands and businesses that you may like. For example, you could receive a Promoted Tweet that includes a deal or promotion from a business whose website you frequent or email newsletter you subscribe to. You could also see this business as a Promoted Account in one of your Who to Follow suggestions Learn more .
+Managing your privacy settings
+Arrow down icon
+We are committed to offering you meaningful privacy choices.
+If you do not want Twitter to show you interest-based ads on and off of Twitter, there are several ways to turn off this feature:
+Using your Twitter settings, visit the Personalization and data settings and adjust the Personalize ads setting.
+If you are on the web, you can visit the Digital Advertising Alliance’s consumer choice tool at optout.aboutads.info to opt out of seeing interest-based advertising from Twitter in your current browser.
+On your mobile device, enable the “Limit Ad Tracking” setting in your iOS phone’s settings, or the setting to “Opt out of Ads Personalization” in your Android phone’s settings.
+Note: Please confirm that you are logged in if you want to view or change the web settings for your Twitter account. Changing your Twitter settings in your web browser when you are logged out will only affect behavior on that browser while you are not logged in to Twitter. Learn more about how to access your Personalization and data settings, including in your Twitter mobile app.
+Twitter also works with its affiliate TellApart and third-party advertising partners, including Google, to market Twitter’s services and serve ads on behalf of Twitter advertisers, including through the delivery of interest-based ads. You can learn more about opting out of receiving interest-based ads at optout.aboutads.info and www.networkadvertising.org/choices and from TellApart’s FAQs . If you are on the web, you can also opt out of Google Analytics by installing Google’s opt-out browser add-on , and opt out of interest-based Google ads using Google’s Ads Settings .
+Twitter also works with its affiliate MoPub and third-party advertising partners, including Google Doubleclick Bid Manager , The Trade Desk , and Ubimo , to serve ads on Twitter for iOS and Twitter for Android. You can use your Twitter settings and mobile device settings, as described above, to control whether you receive interest-based ads on Twitter from any of these partners. These ad partners may offer additional choices regarding the interest-based ads that they serve both on Twitter and on other services. You can find out more about these choices by visiting them directly. Twitter also offers additional controls for select ad partnerships.   Learn more about these select partnerships.
+In addition, whether you're logged in or logged out, you always have the option to "dismiss" Promoted Tweets and Accounts that you're not interested in seeing. This feedback helps us show you better promoted content.
+Start a Campaign
+Visit Twitter Ads
+Log in here
+About
+Company
+Values
+Safety
+Blog
+Brand Resources
+Careers
+Investors
+Business
+About Twitter Ads
+Targeting
+Analytics
+Ads support
+Business blog
+Advertise
+Developers
+Documentation
+Forums
+Communities
+Developer blog
+Help Center
+Using Twitter
+My account
+Fixing a problem
+Policies and reporting
+Safety Center
+Marketing
+Insights
+Success Stories
+Solutions
+Collections
+Marketing Blog
+Flight School
+© 2017 Twitter, Inc.
+Cookies
+Privacy
+Terms and Conditions
+Language
+Deutsch
+English
+Português
+Français
+日本語
+Indonesian
+Dutch
+Spanish
+Italian

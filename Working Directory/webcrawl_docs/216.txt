@@ -1,0 +1,174 @@
+Skip to main content
+Menu
+Times Higher Education (THE)
+Professional
+News
+Opinion
+Reader Comments
+Books
+Features
+Awards
+Digital Editions
+Jobs
+Find a job
+Jobs by email
+Search recruiters
+Careers advice
+Summits
+Rankings
+World University Rankings
+US College rankings
+Japan University Rankings
+By subject
+News
+About
+Student
+Best universities
+Where to study
+News
+Advice
+Blogs
+Find a University
+Subjects
+About Us
+×
+Please log in
+or
+E-mail or username *
+Password *
+Log in
+Not a member yet?
+Join us for FREE
+Forgotten Password?
+×Close
+Register now for free
+or
+Choose your profile *
+Email *
+A valid e-mail address. All e-mails from the system will be sent to this address. The e-mail address is not made public and will only be used if you wish to receive a new password or wish to receive certain news or notifications by e-mail.
+Password
+Username *
+Newsletters
+Higher education updates from the THE editorial team
+World University Rankings news
+If you do not wish to be contacted about offers, products or services from THE/TES Global then please check this box
+Join us
+By registering, you agree to our cookie policy and terms and             conditions .
+Already             have a THE account?
+Log in now
+Login
+Register
+Subscribe
+GO
+Should conscientious academics ignore their email?
+However you handle them, emails are a source of stress. But there are ways to minimise it, says Emma Russell
+October 5, 2017
+Share on twitter
+Share on facebook
+Share on linkedin
+Share on whatsapp
+Share on mail
+2
+By Emma Russell
+You have just sat down to mark that pile of student essays that have been glaring at you for the past two days, when – ping! – in comes an email message with a suitably distracting request. Of course you can resubmit your expenses claim from last month on a different form – those essays are just going to have to wait a little longer.
+That is unless you are one of the more diligent, achievement-focused among us. In a study  that I have just published with colleagues from the University of Surrey in the Journal of Occupational and Organizational Psychology, we found that such conscientious people are better disposed to resist the lure of the email interruption – especially under stress – and stick to their main task, in pursuit of maximum efficiency. However, we also found that ignoring emails lowers conscientious workers’ well-being, probably as a result of the stress caused by knowing that there are messages awaiting their attention.
+Whether academics are more likely to be conscientious is not something I would like to speculate on. But a systematic literature review on email strategies that I have recently carried out for Acas , the UK government-funded workplace experts, found that email-ignoring strategies are widely used by academics – who often switch off interrupting alerts completely. Yet there was also a marked generational gap in strategies. In the sense-checking interviews I subsequently conducted with a sample of participants, it was notable that junior academics were more likely than senior colleagues to use email as an embedded part of their work – keeping on top of appointments and student requests, and aiming to respond to colleagues within a shorter time frame. Even when more senior academics did check their email messages, they would not necessarily deal with them; one head of department reported that he had more than 1,000 unread emails in his inbox and that he was so stressed by the workload they represented that he could not face them. One of my own colleagues has resorted to deleting swathes of emails without even opening them.
+My research for Acas revealed that there is no one-size-fits-all set of strategies to improve productivity and well-being at work, whether we are conscientious or not. Nevertheless, some useful tips do suggest themselves.
+One is to attempt to process and clear email whenever you check it – file it, flag it, delete it. By reducing inbox clutter, people report feeling less overloaded. Another is to manage expectations. For instance, if you are responding to email when your “out of office” is switched on, people will learn that they can contact you even when you are meant to be uncontactable. Let your senders know when they can expect to hear back from you. This can be done with the automatic reply function. One example from a colleague reads: “If you are a student, please make an appointment to see me using my Doodle poll. Colleagues, I will endeavour to reply to you within five working days. If I do not reply please resend the email marking it as SECOND ATTEMPT in the subject line”.
+It is also worth reviewing your current email strategy. Dealing with messages as soon as you are notified of them, for instance, may save you from thinking too hard about your responses, but may ultimately be counterproductive if it engages you in an email ping-pong that serves only to prolong or escalate the issue.
+And, lastly, think of others. If you are catching up with your email outside working hours then use the “delay send” function so that your messages are only received during normal working hours. This means that while you are taking advantage of the flexibility of email, you aren’t imposing this on the recipient, who may not want to be disturbed.
+Implementing just some of these suggestions can significantly improve our management of email, and help us to feel more in control. Which means that the next time we face that stack of essays, we will know to – ping!
+Er, sorry, where was I?
+Emma Russell is a senior lecturer in occupational psychology at Kingston University .
+‘Email overload’ risks ‘emotional exhaustion’ for academics
+Read more
+You've reached your article limit.
+Register to continue
+Registration is free and only takes a moment. Once registered you can read a total of 3 articles each month, plus:
+Sign up for the editor's highlights
+Receive World University Rankings news first
+Get job alerts, shortlist jobs and save job searches
+Participate in reader discussions and post comments
+Register
+Subscribe
+Or subscribe for unlimited access to:
+Unlimited access to news, views, insights & reviews
+Digital editions
+Digital access to THE’s university and college rankings analysis
+Unrestricted access to the UK and global edition of the THE app on IOS, Android and Kindle Fire
+Subscribe
+Already registered or a current subscriber? Sign in now
+Read more about
+Read more about: 
+Academic life
+Related articles
+‘Email overload’ risks ‘emotional exhaustion’ for academics
+January 8, 2016
+Academic Ramblings: 150 emails a day? I bring it on myself
+May 16, 2017
+POSTSCRIPT:
+Print headline: Compulsion to correspond  
+Reader's comments (2)
+#1 Submitted by Gabriel Egan on October 7, 2017 - 12:05pm
+Ever noticed that in a lot of American films and television shows each home has a mailbox at the edge of the property and residents go there to find out what's arrived since they last looked? That is a much better procedure than having mail pushed through your front door whenever the deliverer decides to deliver it, because YOU find out what's arrived only when YOU want to know about it. (People in flats in Britain generally have the American arrangement of a mailbox away from their front door.)  The same applies to email. There is no reason to have email messages arrive in real time. You can set your software to only pick them up when you want to see what's arrived. That way, you never get distracted by an incoming email when you are in the midst of something else. The advice above to "use the 'delay send' function so that your messages are only received during normal working hours" is well intentioned but mistaken. It's not for you to decide when your recipient should receive your email: that's for her to decide. For all you know, she may be unexpectedly stuck somewhere outside of office hours and actively want to pick up and deal with her email to fill this otherwise wasted time rather than waiting to do it the next day during office hours.  In the golden age a few years ago--when we all used the POP rather than IMAP protocol for email--all email worked like this and everyone was happier. Then along came IMAP and with it the idea of the sender 'pushing' the email to the recipient rather than the recipient 'pulling' the email to themselves, and everyone started to get stressed about email. (IMAP doesn't have to do 'push' rather than 'pull', but that is how almost every university and company sets it up.) The solution is simple: find out how to set your email client to 'pull' in your incoming emails only when you want to read them. You need never be distracted again by that annoying 'ping'.  Gabriel Egan Centre for Textual Studies De Montfort University
+#2 Submitted by WendySaunderson on October 7, 2017 - 10:07pm
+Interesting response- thanks, Gabriel.
+Have your say
+Log in or register to post comments
+Featured Jobs
+Innovation Knowledge Manager
+Durham University
+Assistant Management Accountant
+Staffordshire University
+Research Fellow in Imaging, Computer Vision and Autonomous Systems
+Cranfield University
+Lecturer in Bakery and Confectionery
+University College Birmingham
+Research Fellow in Environment and Health Research
+London School Of Hygiene & Tropical Medicine (lshtm)
+See all jobs
+Most Viewed
+World University Rankings 2018 by subject: psychology, life sciences and clinical results out now
+November 8, 2017
+Scholars launch non-profit rival to ResearchGate and Academia.edu
+November 8, 2017
+Best universities in Europe
+September 14, 2017
+Best universities in the UK
+September 5, 2017
+Best universities in Canada
+September 5, 2017
+Looking for the next step in your career?
+Job title, keywords or company name
+Location
+Search Jobs
+Most Commented
+Universities pressured to cut Myanmar ties over Rohingya...
+Some academics call for institutions to break all links with the country, while others say educational partnerships are key to building peace
+Is ‘universal basic income’ a better option than...
+Instead of spending time competing for competitive funding, academics should be given a lump sum, paper suggests
+Union calls for ban on ‘mock REFs’ amid fears for UK...
+University of Hertfordshire job cuts add to fears staff could be forced out ahead of REF 2021
+Business schools: more than just reliable 'cash cows' for vice-chancellors
+University business schools should not be viewed simply as ‘cash cows’ that entice international students, writes Alec Cameron 
+Fugitive academic Howard Fredrics finally given all-clear
+Long-running legal saga involving US academic and Sir Peter Scott concludes after court verdict
+Tweets by @timeshighered
+You might also like
+Credit should only go where it is due
+November 9, 2017
+The Weinsteins of academia can no longer be tolerated
+November 7, 2017
+More haste, less speed: our pressured universities need ‘slow philosophy’
+November 3, 2017
+Campaign launched to lift ban on posthumous Nobel prize awards
+November 2, 2017
+Contact Us
+About Us
+Write for the THE
+Terms & Conditions
+Cookie Policy
+Subscribe
+If you like what you're reading online, why not take advantage of our subscription and get unlimited access to all of Times Higher Education's content?
+You'll get full access to our website, print and digital editions, and the Times Higher Education app for iOS, Android and Kindle Fire devices.
+Subscribe

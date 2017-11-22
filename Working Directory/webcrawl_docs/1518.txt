@@ -1,0 +1,83 @@
+ 
+ 
+ 
+ 
+ 
+ 
+Groupbox
+Search for Classes
+Enter Search Criteria below
+or
+Search for Classes
+Class Search Criteria
+Term
+Select at least 2 search criteria.  Select Search to view your search results.
+Class Search
+Class Search
+Course Career
+select subject
+ 
+Course Number
+200
+300
+400
+Course Level
+ 
+(Credit Course Only)
+500
+600
+700
+800
+ 
+Department or Faculty
+ 
+Additional Search Criteria
+Additional Search Criteria
+(Example: 13:00)
+Class Times
+to
+ 
+ 
+ 
+Days of Week
+Mon
+Tues
+Wed
+Thurs
+Fri
+Sat
+Sun
+ 
+Sir George Williams (Downtown)
+Location
+Loyola
+ 
+Online Courses
+Instructor Last Name
+example: statistics
+Course Keyword
+example: 1136
+Class Nbr
+Mode of Instruction
+Clear
+Search
+t
+ 
+Help
+test
+ 
+ 
+ 
+ 
+ 
+ 
+Class Search
+ 
+Default Local Node:
+DbName:
+Portal:
+Node:
+WorkCenter Id:
+Url:
+ 
+test

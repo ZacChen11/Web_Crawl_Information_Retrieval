@@ -1,0 +1,245 @@
+Concordia University
+https://www.concordia.ca/content/concordia/fr/web/accessibilite.html
+Ressources étudiantes
+Annuaire des études supérieures
+Annuaire des études de 1er cycle
+Avis d’annulation de cours
+Horaire des cours
+Inscription aux cours
+Calendrier universitaire
+Autres ressources
+Services sur les campus
+Magasins
+Services de TI
+Occasions d’emploi
+Sécurité
+Navette
+Centre de services aux étudiants Birks
+Autres services
+Quoi de neuf
+Calendrier des activités
+Actualités récentes
+Relations médias
+Facultés, écoles et collèges
+Arts et sciences
+Génie et informatique
+Beaux-arts
+École de gestion John-Molson
+École des études supérieures
+Tout sur les écoles, collèges et départements
+Liens utiles  
+Mon courriel Bibliothèque Cspace
+Ressources étudiantes  
+Annuaire des études supérieures
+Annuaire des études de 1er cycle
+Avis d’annulation de cours
+Horaire des cours
+Inscription aux cours
+Calendrier universitaire
+Autres ressources
+Services sur les campus  
+Magasins
+Services de TI
+Occasions d’emploi
+Sécurité
+Navette
+Centre de services aux étudiants Birks
+Autres services
+Quoi de neuf  
+Calendrier des activités
+Actualités récentes
+Relations médias
+Facultés, écoles et collèges  
+Arts et sciences
+Génie et informatique
+Beaux-arts
+École de gestion John-Molson
+École des études supérieures
+Tout sur les écoles, collèges et départements
+Liens utiles La Campagne pour Concordia
+MyConcordia
+Cspace
+Mon courriel
+Bibliothèque
+Répertoires
+A-Z
+Cartes
+Futurs étudiants
+Carrefour étudiant
+Diplômés et amis
+Parents
+Personnel
+Médias
+Université Concordia
+Université Concordia
+MyConcordia Navette Cartes
+À propos
+Études
+Admission
+Vie étudiante
+Recherche
+International
+en
+La Campagne pour Concordia
+Ressources étudiantes
+Annuaire des études supérieures
+Annuaire des études de 1er cycle
+Avis d’annulation de cours
+Horaire des cours
+Inscription aux cours
+Calendrier universitaire
+Autres ressources
+Services sur les campus
+Magasins
+Services de TI
+Occasions d’emploi
+Sécurité
+Navette
+Centre de services aux étudiants Birks
+Autres services
+Quoi de neuf
+Calendrier des activités
+Actualités récentes
+Relations médias
+Facultés, écoles et collèges
+Arts et sciences
+Génie et informatique
+Beaux-arts
+École de gestion John-Molson
+École des études supérieures
+Tout sur les écoles, collèges et départements
+Liens utiles  
+Mon courriel Bibliothèque Cspace
+Ressources étudiantes  
+Annuaire des études supérieures
+Annuaire des études de 1er cycle
+Avis d’annulation de cours
+Horaire des cours
+Inscription aux cours
+Calendrier universitaire
+Autres ressources
+Services sur les campus  
+Magasins
+Services de TI
+Occasions d’emploi
+Sécurité
+Navette
+Centre de services aux étudiants Birks
+Autres services
+Quoi de neuf  
+Calendrier des activités
+Actualités récentes
+Relations médias
+Facultés, écoles et collèges  
+Arts et sciences
+Génie et informatique
+Beaux-arts
+École de gestion John-Molson
+École des études supérieures
+Tout sur les écoles, collèges et départements
+Information pour...  
+Futurs étudiants
+Carrefour étudiant
+Diplômés et amis
+Parents
+Personnel
+Médias
+Concordia
+Directories
+Recherche
+Université Concordia
+Accueil
+ / 
+Web
+ / 
+Accessibilité
+Facebook
+Twitter
+LinkedIn
+GooglePlus
+Accessibilité
+Au moment de la conception du nouveau site Web de l’Université, de même que des modèles pour les sites des départements, services et unités, nous avons pris en compte les normes d’accessibilité afin que le plus large public possible puisse l’utiliser. Nous souhaitons ainsi que le site soit accessible non seulement aux personnes qui font usage des technologies d’assistance, telles que les lecteurs d’écran, mais aussi à celles qui possèdent un navigateur ou un ordinateur moins récent, ou à connexion Internet lente.
+Conformément aux Règles pour l’accessibilité des contenus Web du consortium W3C (« World Wide Web Consortium »), nous avons bâti nos pages de manière à ce qu’elles se « transforment gracieusement ». En d’autres termes, nous avons :
+séparé la structure de la présentation. Nous utilisons des feuilles de style en cascade afin de gérer toutes les présentations. La désactivation ou la fermeture de la feuille de style affectera la présentation visuelle, mais les diverses fonctions du site et la navigation restent en état de marche;
+créé des documents qui fonctionnent même si l’utilisateur ne peut pas voir ou entendre. Tout le contenu est fourni en texte; lorsqu’il y a des images ou des documents audio ou vidéo, l’utilisateur aura des options équivalentes. Les personnes aveugles peuvent se servir d’un lecteur d’écran pour obtenir l’information textuelle contenue dans une page;
+conçu des documents qui ne comptent pas que sur un type de matériel. Les utilisateurs peuvent accéder au site à partir de différents navigateurs, peu importent la résolution d’écran et les options sélectionnées, avec ou sans souris, etc. Consultez la section ci-dessous pour des renseignements sur les raccourcis et les raccourcis clavier.
+Nous nous sommes également assurés que le contenu est compréhensible et navigable. Nous avons donc fourni :
+une barre d’outils principale qui vous situe dans la structure de l’Université – y compris des liens aux sites voulus dans la hiérarchie de l’organisation;
+une structure de navigation normalisée dont les liens sont en texte et non en image, qui situe clairement l’utilisateur au sein des cinq niveaux d’information du site;
+un fil d’Ariane (chemin de navigation) placé au-dessus du titre de la page, qui permet également à l’utilisateur de se retrouver dans la structure du site.
+Toute personne utilisant des appareils et accessoires fonctionnels devrait communiquer avec le Service d’intégration des étudiants en situation de handicap afin d’obtenir de l’aide pour les technologies d’assistance.
+Service d’intégration des étudiants en situation de handicap
+Le Service d’intégration des étudiants en situation de handicap offre des programmes et services – notamment ceux qui sont listés ci-après – qui soutiennent l’intégration au sein de la communauté universitaire des étudiants à mobilité réduite ou souffrant d’une déficience visuelle ou auditive, ou encore de troubles d’apprentissage.
+Séances d’accueil
+Consultation et soutien pédagogique individualisés
+Solutions de rechange pour la transcription
+Services de lecteurs bénévoles
+Changements de salles de classe pour les étudiants à mobilité réduite
+Magnétophones, systèmes MF et ordinateurs personnels avec synthétiseur vocal et sortie braille pour utilisation sur le campus
+Politique officielle
+La Politique – Accessibilité des étudiants handicapés aux études et services universitaires expose les rôles et responsabilités respectifs de l’Université et des étudiants en situation de handicap quant à l’accessibilité aux programmes universitaires et aux installations physiques de Concordia. Vous pouvez télécharger la politique en format PDF.
+Liens connexes
+Service d’intégration des étudiants en situation de handicap
+Politique – Accessibilité des étudiants handicapés aux études et services universitaires
+Règles pour l’accessibilité des contenus Web du consortium W3C
+Outils d'accessibilité
+c - Passer au contenu
+n - Passer à la navigation
+s - Passer à la recherche
+1 - Aller à la page d’accueil
+Back to top
+© Université Concordia
+Université Concordia - Contactez-nous au 514-848-2424
+À propos
+Études
+Admission
+Vie étudiante
+Recherche
+International
+Futurs étudiants
+Carrefour étudiant
+Diplômés et amis
+Parents
+Personnel
+Médias
+Sir George Williams Campus
+1455 De Maisonneuve Blvd. W.
+Montreal, Quebec, Canada
+H3G 1M8
+See SGW Campus map
+Loyola Campus
+7141 Sherbrooke Street W.
+Montreal, Quebec, Canada
+H4B 1R6
+See Loyola Campus map
+facebook
+twitter
+google
+youtube
+linkedin
+pinterest
+instagram
+© Université Concordia
+Conditions d’utilisation
+Confidentialité
+Accessibilité
+Commentaires sur le site Web
+Share this page
+Concordia.ca
+Contactez-nous au
+514-848-2424
+Sir George Williams Campus
+1455 De Maisonneuve Blvd. W.
+Montreal, Quebec, Canada
+H3G 1M8
+See SGW Campus map
+Loyola Campus
+7141 Sherbrooke Street W.
+Montreal, Quebec, Canada
+H4B 1R6
+See Loyola Campus map
+Commentaires sur le site Web
+Conditions d’utilisation
+Confidentialité
+Accessibilité
+© Université Concordia

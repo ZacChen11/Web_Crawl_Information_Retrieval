@@ -1,0 +1,305 @@
+Concordia University
+https://www.concordia.ca/content/shared/en/news/main/stories/2017/11/20/stem-sights-mathematics-measure-the-impact-of-reservoir-operation.html
+Study resources
+Calendar - Graduate
+Calendar - Undergraduate
+Class schedules
+Class cancellations
+Course registration
+Important academic dates
+More academic resources
+Campus services
+Concordia Stores
+IT services
+Job opportunities
+Security
+Shuttle bus
+Student Service Centre (Birks)
+All campus services
+What's new
+Calendar of events
+Latest news
+Media Relations
+Faculties, Schools & Colleges
+Arts and Science
+Engineering and Computer Science
+Fine Arts
+John Molson School of Business
+School of Graduate Studies
+All Schools, Colleges & Departments
+Quick links  
+Webmail Library Cspace
+Study resources  
+Calendar - Graduate
+Calendar - Undergraduate
+Class schedules
+Class cancellations
+Course registration
+Important academic dates
+More academic resources
+Campus services  
+Concordia Stores
+IT services
+Job opportunities
+Security
+Shuttle bus
+Student Service Centre (Birks)
+All campus services
+What's new  
+Calendar of events
+Latest news
+Media Relations
+Faculties, Schools & Colleges  
+Arts and Science
+Engineering and Computer Science
+Fine Arts
+John Molson School of Business
+School of Graduate Studies
+All Schools, Colleges & Departments
+Quick links The Campaign for Concordia
+MyConcordia
+Cspace
+Webmail
+Library
+Directories
+A-Z
+Maps
+Future students
+Student hub
+Alumni & friends
+Parents
+Faculty & staff
+Media
+Concordia University
+Concordia University
+News
+News stories
+Arts & culture
+In the community
+Research
+Sports & wellness
+Student life
+Teaching
+University affairs
+Events
+Concordia in the news
+Publications & reports
+Media Relations
+Our team
+News releases
+Find an expert
+Ask our experts
+Op-eds
+Media kits
+Spotlights
+The Campaign for Concordia
+Study resources
+Calendar - Graduate
+Calendar - Undergraduate
+Class schedules
+Class cancellations
+Course registration
+Important academic dates
+More academic resources
+Campus services
+Concordia Stores
+IT services
+Job opportunities
+Security
+Shuttle bus
+Student Service Centre (Birks)
+All campus services
+What's new
+Calendar of events
+Latest news
+Media Relations
+Faculties, Schools & Colleges
+Arts and Science
+Engineering and Computer Science
+Fine Arts
+John Molson School of Business
+School of Graduate Studies
+All Schools, Colleges & Departments
+Quick links  
+Webmail Library Cspace
+Study resources  
+Calendar - Graduate
+Calendar - Undergraduate
+Class schedules
+Class cancellations
+Course registration
+Important academic dates
+More academic resources
+Campus services  
+Concordia Stores
+IT services
+Job opportunities
+Security
+Shuttle bus
+Student Service Centre (Birks)
+All campus services
+What's new  
+Calendar of events
+Latest news
+Media Relations
+Faculties, Schools & Colleges  
+Arts and Science
+Engineering and Computer Science
+Fine Arts
+John Molson School of Business
+School of Graduate Studies
+All Schools, Colleges & Departments
+Information for...
+Future students
+Student hub
+Alumni & friends
+Parents
+Faculty & staff
+Media
+Concordia
+Directories
+Search
+Concordia University
+News
+Concordia.ca
+ / 
+News
+ / 
+News stories
+Facebook
+Twitter
+LinkedIn
+GooglePlus
+The Concordian who measures the impact of dams
+Siavash Pouryousefi develops new models to account for their effect on natural water flow
+Posted on November 20, 2017
+|
+By: Kenneth Gibson
+PhD student Siavash Pouryousefi: "Despite recent efforts there is still enormous room for improvements in modelling reservoir operations." | Photo by Allan (Flickr CC)
+Dams and reservoirs are essential for bringing potable water directly into our homes.
+However, this infrastructure also breaks up and changes the ordinary flow of water through the natural environment. Two-thirds of the world’s major rivers are interrupted by dams. With a growing global population and rising living standards worldwide, we can only expect this number to increase.
+This poses a real problem for scientists trying to mathematically model environmental processes associated with the hydrosphere. They need to find additional algorithms to account for the increased infrastructure.
+This is the problem that Siavash Pouryousefi, a PhD student in Concordia’s Department of Building, Civil and Environmental Engineering , is helping to solve.
+Pouryousefi’s current research is focused on representing the functionality of human-made reservoirs by developing new algorithms. The greater goal is to better represent streamflow. 
+'Scarcity and accuracy of data are the most serious challenges' 
+ 
+How does this specific image relate to your research at Concordia? 
+The figure shows the global distribution of large water reservoirs provided by the Global Reservoir and Dam Database (GRanD). It shows that a considerable proportion of global streamflow discharge is retained and regulated by manmade reservoirs.
+Due to this massive human intervention (in the) storage and redistribution of water, the models developed for natural streams cannot represent streamflow accurately in places where reservoirs are in operation. We must create additional algorithms to account for human regulation and represent it somehow in conjunction with natural processes.
+What is the hoped-for result of your project? What impact could you see it having on people's lives?
+Despite recent efforts there is still enormous room for improvements in modelling reservoir operations. I’m currently trying to model reservoir operation through a set of generic rules that can be further localized for each individual reservoir based on available information. My preliminary results show that there are advantages to this approach.
+We hope to develop a set of tools that can represent reservoir functionality in any location. These tools could be included within the structure of large-scale models for better hydrological and climate modeling. Inclusion of these tools would have benefits for water resource management, design of flood defense systems, and weather and climate modeling.
+What are some of the major challenges you face in your research?
+Scarcity and accuracy of data are the most serious challenges that we face. Most of the gauged dams with available information are located in the U.S., Canada and Europe.
+Thus, we have problems understanding the dynamics of reservoir operations in other parts of the world, particularly in Asia, which has been historically prone to extreme droughts and floods, and where there’s a high population.
+In addition, most reservoirs are multi-purpose and often include competing demands. As a result, it would be difficult to represent reservoir operations using simple mathematical functions.
+Finally, coupling our reservoir models with large-scale models is not a simple task due to the structural complexity of large-scale models.
+What person, experience or moment in time first inspired you to study this subject and get involved in the field?
+Since my senior undergraduate years, I have been interested in the numerical modeling of environmental processes such as sediment and pollution transport.
+When I joined Concordia, Ali Nazemi , my supervisor, was the main person who inspired me to follow this line of research. Moreover, being introduced to brilliant ideas by distinguished scientists such as Keith Beven and Jeff McDonnell was a unique intellectual experience that pushed my passion toward this research.
+How can interested STEM students get involved in this line of research? What advice would you give them?
+Research projects in our lab normally require students who feel comfortable with computer programming and have a good background in mathematics. Interested students can always reach out to Ali Nazemi or students in the lab for consultation.
+We also have several invited speakers each semester, and their talks are typically followed by informal meetings. Attending these events can be extremely helpful for getting acquainted with what we do in the lab.
+What do you like best about being at Concordia?
+The administration at Concordia always shows a great interest in making the university one of the leading institutions in Canada and the world by focusing on our Strategic Directions initiatives such as “double our research.”
+This atmosphere is highly motivating, particularly for graduate students who are looking to build their future careers by carrying out original research topics and producing innovative ideas.
+Are there any partners, agencies or other funding/support attached to your research?
+Funding for this project was provided by the Natural Sciences and Engineering Research Council of Canada (NSERC) Discovery Grant held by Ali Nazemi.
+We also recently secured $250,000 in funding through (the) Canada Foundation for Innovation and the Government of Quebec . This will be used for new measurement tools so we can fill some of the observational gaps that limit our development of numerical models.
+Also, I have benefitted from an Engineering and Computer Science Faculty Award as well as a Concordia Entrance Award.
+Find out more about the Department of Building, Civil and Environmental Engineering .
+ 
+ 
+Related Links
+Faculty of Engineering and Computer Science
+Department of Building, Civil & Environmental Engineering
+Strategic Direction 7: Embrace the City, Embrace the World
+Related stories
+Secrets of streamflow
+What’s the environmental impact of our routines?
+‘We need to find better ways to protect our water'
+Related topics
+engineering mathematics
+Latest stories
+13 essential tips for exam success
+November 20, 2017
+‘Our standing in the world has once again been acknowledged’
+November 20, 2017
+Pet therapy dogs: a calming canine caravan comes to Concordia
+November 16, 2017
+NEW RESEARCH: Rainforest protection and cultural safety in Borneo
+November 16, 2017
+Have your say on classroom comfort, safety and more
+November 16, 2017
+Find an expert
+Search for an expert to comment on any topic
+Enter a phrase or keyword
+Most popular
+Convocation preview: 5 great grads, in numbers
+November 10, 2017
+Concordia awards 3 new honorary doctorates
+October 25, 2017
+A $9.3 million investment for social sciences and humanities research
+November 15, 2017
+43 short films from the front lines of climate change
+November 9, 2017
+Concordia men’s rugby: provincial champions!
+November 13, 2017
+Back to top
+© Concordia University
+Concordia University - Call us at 514-848-2424
+About
+Academics
+Admissions
+Campus life
+Research
+International
+Future students
+Current students
+Alumni & friends
+Parents
+Faculty & staff
+Media
+Sir George Williams Campus
+1455 De Maisonneuve Blvd. W.
+Montreal, Quebec, Canada
+H3G 1M8
+See SGW Campus map
+Loyola Campus
+7141 Sherbrooke Street W.
+Montreal, Quebec, Canada
+H4B 1R6
+See Loyola Campus map
+facebook
+twitter
+google
+youtube
+linkedin
+pinterest
+instagram
+flickr
+Concordia social
+© Concordia University
+Terms
+Privacy
+Accessibility
+Website feedback
+Share this page
+Concordia.ca
+Call us at
+514-848-2424
+Sir George Williams Campus
+1455 De Maisonneuve Blvd. W.
+Montreal, Quebec, Canada
+H3G 1M8
+See SGW Campus map
+Loyola Campus
+7141 Sherbrooke Street W.
+Montreal, Quebec, Canada
+H4B 1R6
+See Loyola Campus map
+Website feedback
+Terms
+Privacy
+Accessibility
+© Concordia University

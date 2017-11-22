@@ -1,0 +1,36 @@
+Sign in
+Create your Google Account
+Name
+First name
+First
+Last name
+Last
+Choose your username
+@gmail.com
+You can use letters, numbers, and periods.
+I prefer to use my current email address
+This email address already corresponds to a Google Account. Please sign in or, if you forgot your password, reset it .
+Create a password
+Password strength:
+Use at least 8 characters. Don’t use a password from another site, or something too obvious like your pet’s name. Why?
+Confirm your password
+Birthday
+Day
+Day
+Year
+Year
+Gender
+Mobile phone
+Your current email address
+We will use this address for things like keeping your account secure, helping people find you, and sending notifications. You always have control over this functionality through your Account Settings.
+Location
+Your country or territory of residence.
+I agree to the Google Terms of Service and Privacy Policy
+Learn more about why we ask for this information.
+One account is all you need
+One free account gets you into everything Google.
+Take it all with you
+Switch between devices, and pick up wherever you left off.
+Google
+Privacy & Terms
+Help
