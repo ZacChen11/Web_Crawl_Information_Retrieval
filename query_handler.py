@@ -263,6 +263,7 @@ class QueryHandler:
         doc_terms = doc_file.readlines()
         doc_terms = map(lambda x: x[:-1].split(), doc_terms)
         doc_terms = {term[0]:int(term[1]) for term in doc_terms}
+	doc_file().close()
 
         doc_term_sentiments = []
 
