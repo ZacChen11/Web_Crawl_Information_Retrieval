@@ -25,6 +25,11 @@ def create_index():
         blocks.append([d, p])
     merge_blocks(blocks)
 
+    # copy the urls file
+    f = open('webcrawl_docs/url_files.txt')
+    fcopy = open('webcrawl.urls', 'w')
+    fcopy.write(f.read())
+
     print 'Index created in %d seconds.' % (time.time() - start_time)
 
 

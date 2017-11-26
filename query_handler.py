@@ -24,7 +24,7 @@ class QueryHandler:
         self.doc_sizes = open('webcrawl.doclengths', 'r')
 
         # get urls list
-        urls_file = open('webcrawl_docs/url_files.txt', 'r')
+        urls_file = open('webcrawl.urls', 'r')
         self.urls = map(lambda x: x[:-1], urls_file.readlines())
 
 
