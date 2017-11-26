@@ -298,7 +298,7 @@ if __name__ == '__main__':
         results = q.sentiment_scorer(results, query_sentiment)
 
         # sort results
-        results = sorted(results, key=lambda x: x[1], reverse=True)
+        results = sorted(results, key=lambda x: x[1], reverse=False)
 
         # keep only the doc_id
         results = map(lambda x : x[0], results)
@@ -309,3 +309,5 @@ if __name__ == '__main__':
         print 'Results: '
         for url in results:
             print url
+        print 'Results closest to the bottom have the highest score.'
+
