@@ -232,6 +232,9 @@ class TermCollectorStreamer:
         self.current_doc_terms = dict()
 
     def write_doc_terms_to_file(self):
+        if not os.path.exists('processed_docs'):
+            os.makedirs('processed_docs')
+
         output_file = open('processed_docs/%d' % self.current_doc_id, 'w')
         for term in self.current_doc_terms:
             output_file.write(term.encode('utf-8') + ' ' + str(self.current_doc_terms[term]) + '\n')

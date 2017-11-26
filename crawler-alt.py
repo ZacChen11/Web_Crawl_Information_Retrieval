@@ -1,4 +1,4 @@
-from bs4 import BeautifulSoup
+from bs4 import BeautifulSoup, Comment
 
 # from urllib.error import HTTPError, URLError                 # python3
 # from urllib.parse import urljoin, urlsplit, SplitResult      # python3
@@ -13,7 +13,6 @@ import Queue
 from threading import Lock, Thread
 
 import re
-from boilerpipe.extract import Extractor
 
 
 def validate_title(title):
@@ -115,18 +114,12 @@ class Crawler:
                 if not validate_title(soup.title):
                     continue
 
-            # extract text
-            try:
-                extractor = Extractor(extractor='KeepEverythingExtractor', url=url)
-            except HTTPError:
-                continue
-            except URLError:
-                continue
-            except: # I removed the specific exception detected here because I couldn't find a python2 import for it
-                continue
-
             # write text to file
-            doc = extractor.getText()
+            [comment.extract() for comment in soup.findAll(text=lambda text: isinstance(text, Comment))]
+            [script.extract() for script in soup.findAll('script')]
+            [style.extract() for style in soup("style")]
+            doc = soup.getText(separator=' ')
+            doc = ' '.join(doc.split())
 
             self.lock.acquire()
 
@@ -166,10 +159,10 @@ class Crawler:
     def html_to_text(self, data):
 
         # define regexes
-        head_remover = re.compile('<head>.*?</head>')
-        comment_remover = re.compile('<!--.*?-->')
-        script_remover = re.compile('<script.*?>.*?</script>')
-        tag_remover = re.compile('</?.*?>')
+        head_remover = re.compile('<head>[\w\W]*?</head>')
+        comment_remover = re.compile('<!--[\w\W]*?-->')
+        script_remover = re.compile('<script[\w\W]*?>[\w\W]*?</script>')
+        tag_remover = re.compile('</?[\w\W]*?>')
         special_char_remover = re.compile('&#\d+;')
 
         # remove line breaks
@@ -195,7 +188,11 @@ class Crawler:
 
 
 if __name__ == '__main__':
+    import os, sys
+    if not os.path.exists('webcrawl_docs'):
+        os.makedirs('webcrawl_docs')
+
     urls = ["https://csu.qc.ca/content/student-groups-associations", "https://www.concordia.ca/artsci/students/associations.html", "http://www.cupfa.org", "http://cufa.net"]
-    crawler = Crawler(urls, 4000)
+    crawler = Crawler(urls, int(sys.argv[1]))
     crawler.multi_crawl(5)
 
